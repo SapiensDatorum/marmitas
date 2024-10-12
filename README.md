@@ -1,19 +1,13 @@
 Intenções do Projeto 
 =============================================
 
-Entender a importância de se ter padrão no armazenamento de dados
-
-Saber explorar uma base de dados
-
-Treinar exploratória e fazer perguntas aos dados
-
-Entender a importância de pensar antes de agir
-
-Fazer roteiro de apresentações
-
-Praticar a criatividade
-
-Aumentar Networking e trabalho em grupo
+- Entender a importância de se ter padrão no armazenamento de dados
+- Saber explorar uma base de dados
+- Treinar exploratória e fazer perguntas aos dados
+- Entender a importância de pensar antes de agir
+- Fazer roteiro de apresentações
+- Praticar a criatividade
+- Aumentar Networking e trabalho em grupo
 
 # Reuniões: quarta-feira (22:00)
 Link da videochamada: https://meet.google.com/oxf-iuev-coo
@@ -30,24 +24,23 @@ Demonstrar engajamento: Relatar o envolvimento de voluntários, doadores e parce
 [Talvez] Comparação com benchmarks ou iniciativas da prefeitura (ObservaSampa - https://observasampa.prefeitura.sp.gov.br/): Comparar com outras iniciativas sociais similares para identificar pontos de destaque e áreas de melhoria.
 
 ### 2. Estruturação do Projeto
-#### a) Acesso aos Dados (plataforma IDA, Encontro Presenciais \ IDA Plus T2Encontro Presencial IDA Plus T2)
-Dados históricos de entregas: Quantidade de refeições, locais atendidos, datas e frequência.
-Perfis dos beneficiários: Demografia (se disponível), localização.
+#### a) Acesso aos Dados (plataforma IDA, Encontro Presenciais \ IDA Plus T2 Encontro Presencial IDA Plus T2)
+- Dados históricos de doações: Quantidade de refeições, locais atendidos, datas e frequência, quantidade de doadores (permanentes e eventuais), valores arrecadados, eventos de arrecadação.
+- Dados históricos de despesas: Mercado, funcionários, logística, aluguel, etc.
+- Perfis dos beneficiários: Demografia (se disponível), localização.
+- Dados financeiros: Custos operacionais
+- Engajamento voluntário: Quantidade de voluntários, horas de trabalho dos voluntários.
 
-Dados financeiros: Custos operacionais, doações recebidas, parcerias.
-
-Engajamento voluntário: Quantidade de voluntários, horas de trabalho, eventos de arrecadação.
-
-Impacto social qualitativo: Relatos de pessoas atendidas, feedback de voluntários e doadores.
 #### b) Limpeza e Pré-processamento dos Dados
-Verificar dados ausentes, inconsistências e outliers (e.g., entregas muito abaixo/acima da média).
-Uniformizar datas, locais e categorias de beneficiários para garantir coerência nas análises.
+- Verificar dados ausentes, inconsistências e outliers (e.g., entregas muito abaixo/acima da média).
+- Uniformizar datas, locais e categorias de beneficiários para garantir coerência nas análises.
 
 ### 3. Análises e Visualizações
 #### a) Análise Descritiva
-Resumo estatístico: Exibir média, mediana, mínimo, máximo e desvio padrão das principais variáveis (quantidade de refeições, dias de operação, número de beneficiários por entrega, etc.).
-Distribuição de entregas ao longo do tempo: Gráfico de linhas mostrando a evolução da quantidade de refeições distribuídas mês a mês ou ano a ano.
-Distribuição geográfica: Mapa de calor destacando as regiões mais atendidas e onde há menos cobertura (se disponível a localização das entregas).
+Resumo estatístico: 
+- Exibir média, mediana, mínimo, máximo e desvio padrão das principais variáveis (quantidade de refeições, dias de operação, número de beneficiários por entrega, etc.).
+- Distribuição de entregas ao longo do tempo: Gráfico de linhas mostrando a evolução da quantidade de refeições distribuídas mês a mês ou ano a ano.
+- Distribuição geográfica: Mapa de calor destacando as regiões mais atendidas e onde há menos cobertura (se disponível a localização das entregas).
 #### b) Análise Operacional
 Eficiência das rotas: Verificar se há rotas de entrega que são mais longas ou têm menor quantidade de refeições entregues. Gráficos de barras podem ajudar a comparar.
 Análise de sazonalidade: Verificar se há variação no volume de doações ou refeições entregues ao longo do ano, identificando períodos críticos (e.g., inverno, feriados).
