@@ -1,0 +1,33 @@
+Reunião - 15 de Outubro de 2024
+Link fixo da videochamada: https://meet.google.com/oxf-iuev-coo
+
+Daiane, Edna, Evaldo e Rogério
+
+Decisões:
+
+Como o grupo é composto por 6 pessoas, ficou acordado no máximo duas pessoas por conjunto de dados. Escolher o conjunto de dados que irá explorar notificar no grupo para evitarmos mais de duas pessoas atuando no mesmo conjunto de dados. Na próxima reunião faremos a rotação para que novas visões possam ser obtidas e compartilhadas.
+
+Por exemplo: número de marmitas produzidas ao longo do tempo, tendência observada, média, desvio padrão, histograma, boxplot, outliers, etc e gráficos que ajudarem a entender o comportamento. Análise descritiva sobre o que foi descoberto sobre a(s) variável(eis) daquele conjunto de dados.
+Obs.: Cada um terá capacidade de produzir o conteúdo de acordo com o ponto de estudo em que se encontra. O exemplo é com base nas aulas que existem no curso. 
+
+Verificar e anotar tudo que fizer/realizar no conjunto de dados com relação a limpeza e preparação (remoção de duplicados, tratamento de nulos e ausentes, padronizações).
+
+Conjunto de dados: 
+- Planilha Descrição das Marmitas
+- Planilha de Extratos
+- Planilha de Custos
+
+Escolher o conjunto que irá atuar e notificar no grupo do whatsapp para evitar que todos fiquem atuando no mesmo conjunto de dados
+
+O dicionário de dados com as informações e entendimentos sobre o conjunto de dados está no link abaixo (arquivo está compartilhado com privilégios de edição para qualquer um com acesso ao link)
+https://1drv.ms/w/s!Amh1Ok_GC0i5jGtxZlaO1TWTeY7D?e=crAD41
+
+Façam as suas considerações pois o arquivo será encaminhado para a Adrina confirmar nosso entendimento sobre as observações e variáveis e as dúvidas de negócio que foram passadas.
+
+Rogério: 
+Criação do esquema do banco de dados para armazenamento dos dados. Banco de dados que será utilizado PostgreSQL.
+Criação dos scripts de banco
+
+
+Próxima reunião: terça-feira dia 22/out, às 22h.
+Link de acesso: https://meet.google.com/oxf-iuev-coo
