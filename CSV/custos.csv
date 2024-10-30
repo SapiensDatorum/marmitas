@@ -1,1 +1,741 @@
-
+Num_Nota,Data,Semana,Descrição,Local,Valor,Ano,Mes,id_categoria,Categoria,Subcategoria,semana
+1.0,2024-09-03,Tuesday,Gasolina,GS Posto de Combustivel Ltda,209.31,2024.0,9.0,9,Transporte,Combustivel,Tuesday
+2.0,2024-09-05,Thursday,Atacadao ,Brasileiro Atacado SA,407.83,2024.0,9.0,1,Alimentação,Mercado,Thursday
+3.0,2024-09-05,Thursday,Atacadao ,Atacadão S.A.,717.94,2024.0,9.0,1,Alimentação,Mercado,Thursday
+4.0,2024-09-08,Sunday,Salário Cleverton (motorista),,3250.0,2024.0,9.0,8,Salário,Pagamento Motorista,Sunday
+5.0,2024-09-08,Sunday,Salário Thiago (cozinheiro),,3250.0,2024.0,9.0,8,Salário,Pagamento Cozinheiro,Sunday
+6.0,2024-09-08,Sunday,Aluguel da cozinha casa Thiago,,1200.0,2024.0,9.0,2,Aluguel,Cozinha,Sunday
+7.0,2024-09-18,Wednesday,Alimentos,Feira,90.0,2024.0,9.0,1,Alimentação,Mercado,Wednesday
+8.0,2024-09-18,Wednesday,Alimentos,Feira,55.0,2024.0,9.0,1,Alimentação,Mercado,Wednesday
+9.0,2024-09-26,Thursday,Atacadao ,Brasileiro Atacado SA,563.26,2024.0,9.0,1,Alimentação,Mercado,Thursday
+10.0,2024-09-26,Thursday,Atacadao ,Atacadão S.A.,777.38,2024.0,9.0,1,Alimentação,Mercado,Thursday
+1.0,2024-08-06,Tuesday,Salário Cleverton (motorista),,3250.0,2024.0,8.0,8,Salário,Pagamento Motorista,Tuesday
+2.0,2024-08-06,Tuesday,Salário Thiago (cozinheiro),,3250.0,2024.0,8.0,8,Salário,Pagamento Cozinheiro,Tuesday
+3.0,2024-08-06,Tuesday,Aluguel da cozinha casa Thiago,,1200.0,2024.0,8.0,2,Aluguel,Cozinha,Tuesday
+4.0,2024-08-07,Wednesday,Gasolina,GS Posto de Combustivel Ltda,209.96,2024.0,8.0,9,Transporte,Combustivel,Wednesday
+5.0,2024-08-09,Friday,Embalagens,Comercio Embalagens,820.0,2024.0,8.0,3,Descartáveis,Embalagens,Friday
+6.0,2024-08-14,Wednesday,Alimentos,Feira,52.0,2024.0,8.0,1,Alimentação,Mercado,Wednesday
+7.0,2024-08-14,Wednesday,Alimentos,Feira,40.0,2024.0,8.0,1,Alimentação,Mercado,Wednesday
+8.0,2024-08-15,Thursday,Atacadao ,Brasileiro Atacado SA,554.81,2024.0,8.0,1,Alimentação,Mercado,Thursday
+9.0,2024-08-15,Thursday,Atacadao ,Atacadão S.A.,459.13,2024.0,8.0,1,Alimentação,Mercado,Thursday
+10.0,2024-08-28,Wednesday,Alimentos,Feira,50.0,2024.0,8.0,1,Alimentação,Mercado,Wednesday
+11.0,2024-08-28,Wednesday,Alimentos,Feira,37.0,2024.0,8.0,1,Alimentação,Mercado,Wednesday
+12.0,2024-08-29,Thursday,Gás,Coronel Diogo Comercio e Transporte de Gas Ltda,250.0,2024.0,8.0,4,ONG,Gás,Thursday
+1.0,2024-07-02,Tuesday,Gás,Gasbom Ipiranga Comercio de Gás,220.99,2024.0,7.0,4,ONG,Gás,Tuesday
+2.0,2024-07-03,Wednesday,Atacadao ,Brasileiro Atacado SA,827.08,2024.0,7.0,1,Alimentação,Mercado,Wednesday
+3.0,2024-07-03,Wednesday,Atacadao ,Atacadão S.A.,392.1,2024.0,7.0,1,Alimentação,Mercado,Wednesday
+4.0,2024-07-03,Wednesday,Alimentos,Feira,35.0,2024.0,7.0,1,Alimentação,Mercado,Wednesday
+5.0,2024-07-03,Wednesday,Alimentos,Feira,30.0,2024.0,7.0,1,Alimentação,Mercado,Wednesday
+6.0,2024-07-04,Thursday,Gasolina,GS Posto de Combustivel Ltda,232.56,2024.0,7.0,9,Transporte,Combustivel,Thursday
+7.0,2024-07-08,Monday,Salário Cleverton (motorista),,3250.0,2024.0,7.0,8,Salário,Pagamento Motorista,Monday
+8.0,2024-07-08,Monday,Salário Thiago (cozinheiro),,3250.0,2024.0,7.0,8,Salário,Pagamento Cozinheiro,Monday
+9.0,2024-07-08,Monday,Aluguel da cozinha casa Thiago,,1200.0,2024.0,7.0,2,Aluguel,Cozinha,Monday
+10.0,2024-07-17,Wednesday,Alimentos,Feira,57.0,2024.0,7.0,1,Alimentação,Mercado,Wednesday
+11.0,2024-07-17,Wednesday,Alimentos,Feira,30.0,2024.0,7.0,1,Alimentação,Mercado,Wednesday
+12.0,2024-07-24,Wednesday,Atacadao ,Brasileiro Atacado SA,634.12,2024.0,7.0,1,Alimentação,Mercado,Wednesday
+13.0,2024-07-24,Wednesday,Atacadao ,Atacadão S.A.,294.16,2024.0,7.0,1,Alimentação,Mercado,Wednesday
+14.0,2024-07-24,Wednesday,Alimentos,Feira,30.0,2024.0,7.0,1,Alimentação,Mercado,Wednesday
+15.0,2024-07-24,Wednesday,Alimentos,Feira,32.0,2024.0,7.0,1,Alimentação,Mercado,Wednesday
+16.0,2024-07-31,Wednesday,Alimentos,Feira,50.0,2024.0,7.0,1,Alimentação,Mercado,Wednesday
+17.0,2024-07-31,Wednesday,Alimentos,Feira,60.0,2024.0,7.0,1,Alimentação,Mercado,Wednesday
+1.0,2024-06-04,Tuesday,Gasolina,CIA Brasileira de Distribuicao,189.98,2024.0,6.0,9,Transporte,Combustivel,Tuesday
+2.0,2024-06-07,Friday,Salário Cleverton (motorista),,3250.0,2024.0,6.0,8,Salário,Pagamento Motorista,Friday
+3.0,2024-06-07,Friday,Salário Thiago (cozinheiro),,3250.0,2024.0,6.0,8,Salário,Pagamento Cozinheiro,Friday
+4.0,2024-06-07,Friday,Aluguel da cozinha casa Thiago,,1200.0,2024.0,6.0,2,Aluguel,Cozinha,Friday
+5.0,2024-06-12,Wednesday,Atacadao ,Brasileiro Atacado SA,396.77,2024.0,6.0,1,Alimentação,Mercado,Wednesday
+6.0,2024-06-12,Wednesday,Atacadao ,Atacadão S.A.,537.98,2024.0,6.0,1,Alimentação,Mercado,Wednesday
+7.0,2024-06-12,Wednesday,Alimentos,Feira,38.0,2024.0,6.0,1,Alimentação,Mercado,Wednesday
+8.0,2024-06-12,Wednesday,Alimentos,Feira,92.0,2024.0,6.0,1,Alimentação,Mercado,Wednesday
+9.0,2024-06-17,Monday,Embalagens,Comercio Embalagens,930.0,2024.0,6.0,3,Descartáveis,Embalagens,Monday
+10.0,2024-06-19,Wednesday,Alimentos,Feira,60.0,2024.0,6.0,1,Alimentação,Mercado,Wednesday
+11.0,2024-06-19,Wednesday,Alimentos,Feira,15.0,2024.0,6.0,1,Alimentação,Mercado,Wednesday
+1.0,2024-05-01,Wednesday,Gasolina,GS Posto de Combustivel Ltda,215.33,2024.0,5.0,9,Transporte,Combustivel,Wednesday
+2.0,2024-05-01,Wednesday,Atacadao ,Atacadão S.A.,914.41,2024.0,5.0,1,Alimentação,Mercado,Wednesday
+3.0,2024-05-06,Monday,Gás,Coronel Diogo Comercio,249.8,2024.0,5.0,4,ONG,Gás,Monday
+4.0,2024-05-07,Tuesday,Embalagens,Comercio Embalagens,635.5,2024.0,5.0,3,Descartáveis,Embalagens,Tuesday
+5.0,2024-05-08,Wednesday,Alimentos,Feira,40.0,2024.0,5.0,1,Alimentação,Mercado,Wednesday
+6.0,2024-05-08,Wednesday,Alimentos,Feira,60.0,2024.0,5.0,1,Alimentação,Mercado,Wednesday
+7.0,2024-05-08,Wednesday,Salário Cleverton (motorista),,3250.0,2024.0,5.0,8,Salário,Pagamento Motorista,Wednesday
+8.0,2024-05-08,Wednesday,Salário Thiago (cozinheiro),,3250.0,2024.0,5.0,8,Salário,Pagamento Cozinheiro,Wednesday
+9.0,2024-05-08,Wednesday,Aluguel da cozinha casa Thiago,,1200.0,2024.0,5.0,2,Aluguel,Cozinha,Wednesday
+10.0,2024-05-09,Thursday,Atacadao ,Atacadão S.A.,719.4,2024.0,5.0,1,Alimentação,Mercado,Thursday
+11.0,2024-05-15,Wednesday,Alimentos,Feira,20.0,2024.0,5.0,1,Alimentação,Mercado,Wednesday
+12.0,2024-05-15,Wednesday,Alimentos,Feira,50.0,2024.0,5.0,1,Alimentação,Mercado,Wednesday
+13.0,2024-05-22,Wednesday,Atacadao ,Brasileiro Atacado SA,303.84,2024.0,5.0,1,Alimentação,Mercado,Wednesday
+14.0,2024-05-22,Wednesday,Atacadao ,Atacadão S.A.,636.76,2024.0,5.0,1,Alimentação,Mercado,Wednesday
+15.0,2024-05-29,Wednesday,Alimentos,Feira,60.0,2024.0,5.0,1,Alimentação,Mercado,Wednesday
+16.0,2024-05-29,Wednesday,Alimentos,Feira,57.0,2024.0,5.0,1,Alimentação,Mercado,Wednesday
+1.0,2024-04-03,Wednesday,Alimentos,Feira,30.0,2024.0,4.0,1,Alimentação,Mercado,Wednesday
+2.0,2024-04-03,Wednesday,Alimentos,Feira,50.0,2024.0,4.0,1,Alimentação,Mercado,Wednesday
+3.0,2024-04-05,Friday,Gasolina,GS Posto de Combustivel Ltda,196.63,2024.0,4.0,9,Transporte,Combustivel,Friday
+4.0,2024-04-08,Monday,Salário Cleverton (motorista),,3250.0,2024.0,4.0,8,Salário,Pagamento Motorista,Monday
+5.0,2024-04-08,Monday,Salário Thiago (cozinheiro),,3250.0,2024.0,4.0,8,Salário,Pagamento Cozinheiro,Monday
+6.0,2024-04-08,Monday,Aluguel da cozinha casa Thiago,,1200.0,2024.0,4.0,2,Aluguel,Cozinha,Monday
+7.0,2024-04-09,Tuesday,Atacadao ,Brasileiro Atacado SA,387.37,2024.0,4.0,1,Alimentação,Mercado,Tuesday
+8.0,2024-04-09,Tuesday,Atacadao ,Atacadão S.A.,902.35,2024.0,4.0,1,Alimentação,Mercado,Tuesday
+9.0,2024-04-10,Wednesday,Alimentos,Feira,45.0,2024.0,4.0,1,Alimentação,Mercado,Wednesday
+10.0,2024-04-10,Wednesday,Alimentos,Feira,25.0,2024.0,4.0,1,Alimentação,Mercado,Wednesday
+11.0,2024-04-17,Wednesday,Alimentos,Feira,26.0,2024.0,4.0,1,Alimentação,Mercado,Wednesday
+12.0,2024-04-17,Wednesday,Alimentos,Feira,29.0,2024.0,4.0,1,Alimentação,Mercado,Wednesday
+13.0,2024-04-18,Thursday,Batata Palha,Dia,17.78,2024.0,4.0,1,Alimentação,Mercado,Thursday
+14.0,2024-04-24,Wednesday,Alimentos,Feira,56.0,2024.0,4.0,1,Alimentação,Mercado,Wednesday
+15.0,2024-04-24,Wednesday,Alimentos,Feira,40.0,2024.0,4.0,1,Alimentação,Mercado,Wednesday
+16.0,2024-04-28,Sunday,Soja,Cia Brasileira Destribuição,24.75,2024.0,4.0,1,Alimentação,Mercado,Sunday
+1.0,2024-03-05,Tuesday,Salário Cleverton (motorista),,3250.0,2024.0,3.0,8,Salário,Pagamento Motorista,Tuesday
+2.0,2024-03-05,Tuesday,Salário Thiago (cozinheiro),,3250.0,2024.0,3.0,8,Salário,Pagamento Cozinheiro,Tuesday
+3.0,2024-03-05,Tuesday,Aluguel da cozinha casa Thiago,,1200.0,2024.0,3.0,2,Aluguel,Cozinha,Tuesday
+4.0,2024-03-06,Wednesday,Gasolina,GS Posto de Combustivel Ltda,200.58,2024.0,3.0,9,Transporte,Combustivel,Wednesday
+5.0,2024-03-06,Wednesday,Alimentos,Feira,18.0,2024.0,3.0,1,Alimentação,Mercado,Wednesday
+6.0,2024-03-06,Wednesday,Alimentos,Feira,55.0,2024.0,3.0,1,Alimentação,Mercado,Wednesday
+7.0,2024-03-12,Tuesday,Gás,Coronel Diogo Comercio,249.8,2024.0,3.0,4,ONG,Gás,Tuesday
+8.0,2024-03-13,Wednesday,Alimentos,Feira,48.0,2024.0,3.0,1,Alimentação,Mercado,Wednesday
+9.0,2024-03-13,Wednesday,Alimentos,Feira,53.0,2024.0,3.0,1,Alimentação,Mercado,Wednesday
+10.0,2024-03-20,Wednesday,Atacadao ,Brasileiro Atacado SA,304.72,2024.0,3.0,1,Alimentação,Mercado,Wednesday
+11.0,2024-03-20,Wednesday,Atacadao ,Atacadão S.A.,854.87,2024.0,3.0,1,Alimentação,Mercado,Wednesday
+12.0,2024-03-20,Wednesday,Alimentos,Feira,35.0,2024.0,3.0,1,Alimentação,Mercado,Wednesday
+13.0,2024-03-20,Wednesday,Alimentos,Feira,34.0,2024.0,3.0,1,Alimentação,Mercado,Wednesday
+14.0,2024-03-20,Wednesday,Embalagens,Comercio Embalagens,910.5,2024.0,3.0,3,Descartáveis,Embalagens,Wednesday
+15.0,2024-03-27,Wednesday,Alimentos,Feira,24.0,2024.0,3.0,1,Alimentação,Mercado,Wednesday
+16.0,2024-03-27,Wednesday,Alimentos,Feira,24.0,2024.0,3.0,1,Alimentação,Mercado,Wednesday
+1.0,2024-02-01,Thursday,Gasolina,Centro Automotivo,212.79,2024.0,2.0,9,Transporte,Combustivel,Thursday
+2.0,2024-02-04,Sunday,Salário Cleverton (motorista),,3250.0,2024.0,2.0,8,Salário,Pagamento Motorista,Sunday
+3.0,2024-02-04,Sunday,Salário Thiago (cozinheiro),,3250.0,2024.0,2.0,8,Salário,Pagamento Cozinheiro,Sunday
+4.0,2024-02-04,Sunday,Aluguel da cozinha casa Thiago,,1200.0,2024.0,2.0,2,Aluguel,Cozinha,Sunday
+5.0,2024-02-27,Tuesday,Atacadao ,Brasileiro Atacado SA,207.71,2024.0,2.0,1,Alimentação,Mercado,Tuesday
+6.0,2024-02-27,Tuesday,Atacadao ,Atacadão S.A.,940.11,2024.0,2.0,1,Alimentação,Mercado,Tuesday
+7.0,2024-02-28,Wednesday,Alimentos,Feira,50.0,2024.0,2.0,1,Alimentação,Mercado,Wednesday
+8.0,2024-02-28,Wednesday,Alimentos,Feira,18.0,2024.0,2.0,1,Alimentação,Mercado,Wednesday
+1.0,2024-01-02,Tuesday,Embalagens,Tudem,367.5,2024.0,1.0,3,Descartáveis,Embalagens,Tuesday
+2.0,2024-01-04,Thursday,Gás,Coronel Diogo Comercio,122.9,2024.0,1.0,4,ONG,Gás,Thursday
+3.0,2024-01-08,Monday,Salário Cleverton (motorista),,3250.0,2024.0,1.0,8,Salário,Pagamento Motorista,Monday
+4.0,2024-01-09,Tuesday,Salário Thiago (cozinheiro),,3250.0,2024.0,1.0,8,Salário,Pagamento Cozinheiro,Tuesday
+5.0,2024-01-09,Tuesday,Aluguel da cozinha casa Thiago,,1200.0,2024.0,1.0,2,Aluguel,Cozinha,Tuesday
+6.0,2024-01-22,Monday,Alimentos,Sendas Distribuidora,89.78,2024.0,1.0,1,Alimentação,Mercado,Monday
+7.0,2024-01-23,Tuesday,Atacadao ,Brasileiro Atacado SA,262.91,2024.0,1.0,1,Alimentação,Mercado,Tuesday
+8.0,2024-01-23,Tuesday,Atacadao ,Atacadão S.A.,597.26,2024.0,1.0,1,Alimentação,Mercado,Tuesday
+9.0,2024-01-24,Wednesday,Embalagens,Comercio Embalagens,910.5,2024.0,1.0,3,Descartáveis,Embalagens,Wednesday
+10.0,2024-01-24,Wednesday,Alimentos,Feira,48.0,2024.0,1.0,1,Alimentação,Mercado,Wednesday
+11.0,2024-01-24,Wednesday,Alimentos,Feira,25.0,2024.0,1.0,1,Alimentação,Mercado,Wednesday
+12.0,2024-01-31,Wednesday,Alimentos,Feira,33.0,2024.0,1.0,1,Alimentação,Mercado,Wednesday
+13.0,2024-01-31,Wednesday,Alimentos,Feira,20.0,2024.0,1.0,1,Alimentação,Mercado,Wednesday
+1.0,2023-12-01,Friday,Gás,Ultragaz,122.9,2023.0,12.0,4,ONG,Gás,Friday
+2.0,2023-12-01,Friday,Alimentos,Feira,21.0,2023.0,12.0,1,Alimentação,Mercado,Friday
+3.0,2023-12-04,Monday,Gasolina,Centro Automotivo,99.99,2023.0,12.0,9,Transporte,Combustivel,Monday
+4.0,2023-12-06,Wednesday,Alimentos,Feira,45.0,2023.0,12.0,1,Alimentação,Mercado,Wednesday
+5.0,2023-12-06,Wednesday,Alimentos,Feira,20.0,2023.0,12.0,1,Alimentação,Mercado,Wednesday
+6.0,2023-12-09,Saturday,Salário Cleverton (motorista),,3250.0,2023.0,12.0,8,Salário,Pagamento Motorista,Saturday
+7.0,2023-12-09,Saturday,Salário Thiago (cozinheiro),,3250.0,2023.0,12.0,8,Salário,Pagamento Cozinheiro,Saturday
+8.0,2023-12-09,Saturday,Aluguel da cozinha casa Thiago,,1200.0,2023.0,12.0,2,Aluguel,Cozinha,Saturday
+9.0,2023-12-14,Thursday,Atacadao ,Brasileiro Atacado SA,397.31,2023.0,12.0,1,Alimentação,Mercado,Thursday
+10.0,2023-12-14,Thursday,Atacadao ,Atacadão S.A.,1118.14,2023.0,12.0,1,Alimentação,Mercado,Thursday
+11.0,2023-12-20,Wednesday,Alimentos,Feira,10.0,2023.0,12.0,1,Alimentação,Mercado,Wednesday
+12.0,2023-12-20,Wednesday,Alimentos,Feira,62.0,2023.0,12.0,1,Alimentação,Mercado,Wednesday
+13.0,2023-12-22,Friday,Embalagens,Embalagens Vila Mariana,65.0,2023.0,12.0,3,Descartáveis,Embalagens,Friday
+14.0,2023-12-28,Thursday,Supermercado,Chiegas Supermercados Ltda,64.35,2023.0,12.0,1,Alimentação,Mercado,Thursday
+15.0,2023-12-28,Thursday,Embalagens,Impakto Sistemas de Limpeza e Descartáveis Ltda,121.69,2023.0,12.0,3,Descartáveis,Embalagens,Thursday
+1.0,2023-11-02,Thursday,Atacadao ,Brasileiro Atacado SA,218.4,2023.0,11.0,1,Alimentação,Mercado,Thursday
+2.0,2023-11-02,Thursday,Atacadao ,Atacadão S.A.,511.04,2023.0,11.0,1,Alimentação,Mercado,Thursday
+3.0,2023-11-02,Thursday,Embalagens,Embalagens Vila Mariana,89.0,2023.0,11.0,3,Descartáveis,Embalagens,Thursday
+4.0,2023-11-06,Monday,Embalagens,Comercio de Embalagens,660.0,2023.0,11.0,3,Descartáveis,Embalagens,Monday
+5.0,2023-11-08,Wednesday,Alimentos,Feira,39.0,2023.0,11.0,1,Alimentação,Mercado,Wednesday
+6.0,2023-11-08,Wednesday,Alimentos,Feira,25.0,2023.0,11.0,1,Alimentação,Mercado,Wednesday
+7.0,2023-11-09,Thursday,Água para morador de Rua,Nova Visao Distr.,275.0,2023.0,11.0,1,Alimentação,Água,Thursday
+8.0,2023-11-13,Monday,Gasolina,Auto Posto Boqueirão,187.75,2023.0,11.0,9,Transporte,Combustivel,Monday
+9.0,2023-11-15,Wednesday,Alimentos,Feira,30.0,2023.0,11.0,1,Alimentação,Mercado,Wednesday
+10.0,2023-11-15,Wednesday,Alimentos,Feira,15.0,2023.0,11.0,1,Alimentação,Mercado,Wednesday
+11.0,2023-11-15,Wednesday,Salário Cleverton (motorista),,3250.0,2023.0,11.0,8,Salário,Pagamento Motorista,Wednesday
+12.0,2023-11-15,Wednesday,Salário Thiago (cozinheiro),,3250.0,2023.0,11.0,8,Salário,Pagamento Cozinheiro,Wednesday
+13.0,2023-11-15,Wednesday,Aluguel da cozinha casa Thiago,,1200.0,2023.0,11.0,2,Aluguel,Cozinha,Wednesday
+14.0,2023-11-16,Thursday,Talheres,Comercio de Embalagens Sendai,300.13,2023.0,11.0,3,Descartáveis,Talheres,Thursday
+15.0,2023-11-16,Thursday,Atacadao ,Atacadão S.A.,854.1,2023.0,11.0,1,Alimentação,Mercado,Thursday
+16.0,2023-11-16,Thursday,Atacadao ,Brasileiro Atacado SA,102.8,2023.0,11.0,1,Alimentação,Mercado,Thursday
+17.0,2023-11-22,Wednesday,Alimentos,Feira,38.0,2023.0,11.0,1,Alimentação,Mercado,Wednesday
+18.0,2023-11-22,Wednesday,Alimentos,Feira,14.0,2023.0,11.0,1,Alimentação,Mercado,Wednesday
+19.0,2023-11-29,Wednesday,Alimentos,Feira,8.0,2023.0,11.0,1,Alimentação,Mercado,Wednesday
+20.0,2023-11-29,Wednesday,Alimentos,Feira,27.0,2023.0,11.0,1,Alimentação,Mercado,Wednesday
+1.0,2023-10-03,Tuesday,Atacadao ,Brasileiro Atacado SA,352.99,2023.0,10.0,1,Alimentação,Mercado,Tuesday
+2.0,2023-10-03,Tuesday,Atacadao ,Atacadão S.A.,728.52,2023.0,10.0,1,Alimentação,Mercado,Tuesday
+3.0,2023-10-04,Wednesday,Alimentos,Feira,18.0,2023.0,10.0,1,Alimentação,Mercado,Wednesday
+4.0,2023-10-04,Wednesday,Alimentos,Feira,21.0,2023.0,10.0,1,Alimentação,Mercado,Wednesday
+5.0,2023-10-06,Friday,Gas,Coronel Diogo Comercio,245.8,2023.0,10.0,4,ONG,Gás,Friday
+6.0,2023-10-07,Saturday,Salário Cleverton (motorista),,3250.0,2023.0,10.0,8,Salário,Pagamento Motorista,Saturday
+7.0,2023-10-07,Saturday,Salário Thiago (cozinheiro),,3250.0,2023.0,10.0,8,Salário,Pagamento Cozinheiro,Saturday
+8.0,2023-10-07,Saturday,Aluguel da cozinha casa Thiago,,1200.0,2023.0,10.0,2,Aluguel,Cozinha,Saturday
+9.0,2023-10-11,Wednesday,Talheres,Comercio de Embalagens Sendai,330.0,2023.0,10.0,3,Descartáveis,Talheres,Wednesday
+10.0,2023-10-11,Wednesday,Alimentos,Feira,30.0,2023.0,10.0,1,Alimentação,Mercado,Wednesday
+11.0,2023-10-11,Wednesday,Alimentos,Feira,30.0,2023.0,10.0,1,Alimentação,Mercado,Wednesday
+12.0,2023-10-18,Wednesday,Gasolina,Cia Brasileira de Distribuic,100.0,2023.0,10.0,9,Transporte,Combustivel,Wednesday
+13.0,2023-10-18,Wednesday,Atacadao ,Brasileiro Atacado SA,418.52,2023.0,10.0,1,Alimentação,Mercado,Wednesday
+14.0,2023-10-18,Wednesday,Atacadao ,Atacadão S.A.,628.7,2023.0,10.0,1,Alimentação,Mercado,Wednesday
+15.0,2023-10-18,Wednesday,Alimentos,Feira,15.0,2023.0,10.0,1,Alimentação,Mercado,Wednesday
+16.0,2023-10-18,Wednesday,Alimentos,Feira,15.0,2023.0,10.0,1,Alimentação,Mercado,Wednesday
+17.0,2023-10-25,Wednesday,Alimentos,Feira,38.0,2023.0,10.0,1,Alimentação,Mercado,Wednesday
+18.0,2023-10-25,Wednesday,Alimentos,Feira,14.0,2023.0,10.0,1,Alimentação,Mercado,Wednesday
+1.0,2023-09-05,Tuesday,Salário Cleverton (motorista),,3250.0,2023.0,9.0,8,Salário,Pagamento Motorista,Tuesday
+2.0,2023-09-05,Tuesday,Salário Thiago (cozinheiro),,3250.0,2023.0,9.0,8,Salário,Pagamento Cozinheiro,Tuesday
+3.0,2023-09-05,Tuesday,Aluguel da cozinha casa Thiago,,1200.0,2023.0,9.0,2,Aluguel,Cozinha,Tuesday
+4.0,2023-09-06,Wednesday,Atacadao ,Brasileiro Atacado SA,361.15,2023.0,9.0,1,Alimentação,Mercado,Wednesday
+5.0,2023-09-06,Wednesday,Atacadao ,Atacadão S.A.,1113.56,2023.0,9.0,1,Alimentação,Mercado,Wednesday
+6.0,2023-09-11,Monday,Gasolina,Auto Posto Boqueirao da Saude,120.0,2023.0,9.0,9,Transporte,Combustivel,Monday
+7.0,2023-09-13,Wednesday,Alimentos,Feira,31.0,2023.0,9.0,1,Alimentação,Mercado,Wednesday
+8.0,2023-09-13,Wednesday,Alimentos,Feira,43.0,2023.0,9.0,1,Alimentação,Mercado,Wednesday
+9.0,2023-09-20,Wednesday,Talheres,Comercio de Embalagens Sendai,430.5,2023.0,9.0,3,Descartáveis,Talheres,Wednesday
+10.0,2023-09-20,Wednesday,Alimentos,Feira,39.0,2023.0,9.0,1,Alimentação,Mercado,Wednesday
+11.0,2023-09-20,Wednesday,Alimentos,Feira,27.0,2023.0,9.0,1,Alimentação,Mercado,Wednesday
+12.0,2023-09-21,Thursday,Água para morador de Rua,Nova Visao Distr.,200.0,2023.0,9.0,1,Alimentação,Água,Thursday
+13.0,2023-09-27,Wednesday,Alimentos,Feira,30.0,2023.0,9.0,1,Alimentação,Mercado,Wednesday
+14.0,2023-09-27,Wednesday,Alimentos,Feira,50.0,2023.0,9.0,1,Alimentação,Mercado,Wednesday
+1.0,2023-08-04,Friday,Embalagens,Comercio de Emabalgens,800.5,2023.0,8.0,3,Descartáveis,Embalagens,Friday
+2.0,2023-08-06,Sunday,Salário Cleverton (motorista),,3250.0,2023.0,8.0,8,Salário,Pagamento Motorista,Sunday
+3.0,2023-08-08,Tuesday,Gás,,239.8,2023.0,8.0,4,ONG,Gás,Tuesday
+4.0,2023-08-09,Wednesday,Alimentos,Feira,36.0,2023.0,8.0,1,Alimentação,Mercado,Wednesday
+5.0,2023-08-09,Wednesday,Alimentos,Feira,55.0,2023.0,8.0,1,Alimentação,Mercado,Wednesday
+6.0,2023-08-10,Thursday,Atacadao ,Brasileiro Atacado SA,427.46,2023.0,8.0,1,Alimentação,Mercado,Thursday
+7.0,2023-08-10,Thursday,Atacadao ,Atacadão S.A.,882.28,2023.0,8.0,1,Alimentação,Mercado,Thursday
+8.0,2023-08-10,Thursday,Salário Thiago (cozinheiro),,3250.0,2023.0,8.0,8,Salário,Pagamento Cozinheiro,Thursday
+9.0,2023-08-10,Thursday,Aluguel da cozinha casa Thiago,,1200.0,2023.0,8.0,2,Aluguel,Cozinha,Thursday
+10.0,2023-08-16,Wednesday,Alimentos,Feira,14.0,2023.0,8.0,1,Alimentação,Mercado,Wednesday
+11.0,2023-08-16,Wednesday,Alimentos,Feira,23.0,2023.0,8.0,1,Alimentação,Mercado,Wednesday
+12.0,2023-08-23,Wednesday,Alimentos,Feira,50.0,2023.0,8.0,1,Alimentação,Mercado,Wednesday
+13.0,2023-08-23,Wednesday,Alimentos,Feira,20.0,2023.0,8.0,1,Alimentação,Mercado,Wednesday
+1.0,2023-07-05,Wednesday,Alimentos,Feira,30.0,2023.0,7.0,1,Alimentação,Mercado,Wednesday
+2.0,2023-07-05,Wednesday,Alimentos,Feira,10.0,2023.0,7.0,1,Alimentação,Mercado,Wednesday
+3.0,2023-07-13,Thursday,Salário Thiago (cozinheiro),,3250.0,2023.0,7.0,8,Salário,Pagamento Cozinheiro,Thursday
+4.0,2023-07-13,Thursday,Salário Cleverton (motorista),,3250.0,2023.0,7.0,8,Salário,Pagamento Motorista,Thursday
+5.0,2023-07-13,Thursday,Aluguel da cozinha casa Thiago,,1200.0,2023.0,7.0,2,Aluguel,Cozinha,Thursday
+6.0,2023-07-20,Thursday,Alimentos,Chibras Supermercado,122.92,2023.0,7.0,1,Alimentação,Mercado,Thursday
+7.0,2023-07-21,Friday,Atacadao ,Atacadão S.A.,873.74,2023.0,7.0,1,Alimentação,Mercado,Friday
+8.0,2023-07-21,Friday,Atacadao ,Brasileiro Atacado SA,467.83,2023.0,7.0,1,Alimentação,Mercado,Friday
+9.0,2023-07-24,Monday,Embalagens,Embalagens Vila Mariana,65.0,2023.0,7.0,3,Descartáveis,Embalagens,Monday
+10.0,2023-07-25,Tuesday,gasolina,Auto Posto Boqueirão da Saude,150.0,2023.0,7.0,9,Transporte,Combustivel,Tuesday
+11.0,2023-07-26,Wednesday,Alimentos,Feira,86.0,2023.0,7.0,1,Alimentação,Mercado,Wednesday
+12.0,2023-07-26,Wednesday,Alimentos,Feira,10.0,2023.0,7.0,1,Alimentação,Mercado,Wednesday
+13.0,2023-07-26,Wednesday,Embalagens,Embalagens Vila Mariana,183.0,2023.0,7.0,3,Descartáveis,Embalagens,Wednesday
+1.0,2023-06-02,Friday,Atacadao ,Brasileiro Atacado SA,648.67,2023.0,6.0,1,Alimentação,Mercado,Friday
+2.0,2023-06-02,Friday,Atacadao ,Atacadão S.A.,823.1,2023.0,6.0,1,Alimentação,Mercado,Friday
+3.0,2023-06-07,Wednesday,Alimentos,Feira,45.0,2023.0,6.0,1,Alimentação,Mercado,Wednesday
+4.0,2023-06-07,Wednesday,Alimentos,Feira,34.0,2023.0,6.0,1,Alimentação,Mercado,Wednesday
+5.0,2023-06-09,Friday,Água para moradores,Malte Comercio de Bebidas,360.0,2023.0,6.0,1,Alimentação,Água,Friday
+6.0,2023-06-11,Sunday,gasolina,Auto Posto Boqueirão da Saude,188.34,2023.0,6.0,9,Transporte,Combustivel,Sunday
+7.0,2023-06-14,Wednesday,Alimentos,Feira,30.0,2023.0,6.0,1,Alimentação,Mercado,Wednesday
+8.0,2023-06-15,Thursday,Salário Thiago (cozinheiro),,3250.0,2023.0,6.0,8,Salário,Pagamento Cozinheiro,Thursday
+9.0,2023-06-15,Thursday,Salário Cleverton (motorista),,3250.0,2023.0,6.0,8,Salário,Pagamento Motorista,Thursday
+10.0,2023-06-15,Thursday,Aluguel da cozinha casa Thiago,,1200.0,2023.0,6.0,2,Aluguel,Cozinha,Thursday
+11.0,2023-06-21,Wednesday,Atacadao ,Brasileiro Atacado SA,454.53,2023.0,6.0,1,Alimentação,Mercado,Wednesday
+12.0,2023-06-21,Wednesday,Atacadao ,Atacadão S.A.,578.6,2023.0,6.0,1,Alimentação,Mercado,Wednesday
+13.0,2023-06-21,Wednesday,Alimentos,Feira,10.0,2023.0,6.0,1,Alimentação,Mercado,Wednesday
+14.0,2023-06-21,Wednesday,Alimentos,Feira,23.0,2023.0,6.0,1,Alimentação,Mercado,Wednesday
+15.0,2023-06-28,Wednesday,Alimentos,Feira,15.0,2023.0,6.0,1,Alimentação,Mercado,Wednesday
+16.0,2023-06-28,Wednesday,Alimentos,Feira,38.0,2023.0,6.0,1,Alimentação,Mercado,Wednesday
+17.0,2023-06-28,Wednesday,Alimentos,Feira,22.0,2023.0,6.0,1,Alimentação,Mercado,Wednesday
+1.0,2023-05-03,Wednesday,Alimentos,Feira,25.0,2023.0,5.0,1,Alimentação,Mercado,Wednesday
+2.0,2023-05-03,Wednesday,Alimentos,Feira,28.0,2023.0,5.0,1,Alimentação,Mercado,Wednesday
+3.0,2023-05-03,Wednesday,gasolina,Auto Posto Boqueirão da Saude,173.05,2023.0,5.0,9,Transporte,Combustivel,Wednesday
+4.0,2023-05-11,Thursday,Atacadao ,Brasileiro Atacado SA,174.67,2023.0,5.0,1,Alimentação,Mercado,Thursday
+5.0,2023-05-11,Thursday,Atacadao ,Atacadão S.A.,760.93,2023.0,5.0,1,Alimentação,Mercado,Thursday
+6.0,2023-05-11,Thursday,Mangueira de Gás para Fogão,Embalagens Vila Mariana,16.0,2023.0,5.0,4,ONG,outros,Thursday
+7.0,2023-05-15,Monday,Aluguel da cozinha casa Thiago,,1200.0,2023.0,5.0,2,Aluguel,Cozinha,Monday
+8.0,2023-05-15,Monday,Salário Thiago (cozinheiro),,3250.0,2023.0,5.0,8,Salário,Pagamento Cozinheiro,Monday
+9.0,2023-05-15,Monday,Salário Cleverton (motorista),,3250.0,2023.0,5.0,8,Salário,Pagamento Motorista,Monday
+10.0,2023-05-17,Wednesday,Alimentos,Feira,32.0,2023.0,5.0,1,Alimentação,Mercado,Wednesday
+11.0,2023-05-17,Wednesday,Alimentos,Feira,35.0,2023.0,5.0,1,Alimentação,Mercado,Wednesday
+12.0,2023-05-23,Tuesday,Gás,Coronel Diogo,239.8,2023.0,5.0,4,ONG,Gás,Tuesday
+13.0,2023-05-23,Tuesday,Colheres + Marmitas (embalagem),Comercio de Embalagens,910.5,2023.0,5.0,3,Descartáveis,Talheres,Tuesday
+14.0,2023-03-24,Friday,Alimentos,Feira,18.0,2023.0,3.0,1,Alimentação,Mercado,Friday
+15.0,2023-03-24,Friday,Alimentos,Feira,53.0,2023.0,3.0,1,Alimentação,Mercado,Friday
+1.0,2023-03-31,Friday,Gás,Coronel Diogo,251.8,2023.0,3.0,4,ONG,Gás,Friday
+2.0,2023-03-31,Friday,Atacadao ,Atacadão S.A.,711.82,2023.0,3.0,1,Alimentação,Mercado,Friday
+3.0,2023-03-31,Friday,Atacadao ,Brasileiro Atacado SA,480.29,2023.0,3.0,1,Alimentação,Mercado,Friday
+4.0,2023-04-04,Tuesday,gasolina,Agua espraiada she,190.14,2023.0,4.0,9,Transporte,Combustivel,Tuesday
+5.0,2023-04-05,Wednesday,Alimentos,Feira,69.0,2023.0,4.0,1,Alimentação,Mercado,Wednesday
+6.0,2023-04-05,Wednesday,Alimentos,Feira,61.0,2023.0,4.0,1,Alimentação,Mercado,Wednesday
+7.0,2023-04-08,Saturday,Marmitas - embalagens,Embalagens Cursino,76.99,2023.0,4.0,3,Descartáveis,Embalagens,Saturday
+8.0,2023-04-10,Monday,Marmitas - embalagens,Comercio de Embalagens,825.0,2023.0,4.0,3,Descartáveis,Embalagens,Monday
+9.0,2023-04-11,Tuesday,Água para moradores,Malte Comercio de Bebidas,752.0,2023.0,4.0,1,Alimentação,Água,Tuesday
+10.0,2023-04-11,Tuesday,Atacadao ,Brasileiro Atacado SA,380.74,2023.0,4.0,1,Alimentação,Mercado,Tuesday
+11.0,2023-04-11,Tuesday,Atacadao ,Atacadão S.A.,535.51,2023.0,4.0,1,Alimentação,Mercado,Tuesday
+12.0,2023-04-12,Wednesday,Salário Cleverton (motorista),,3250.0,2023.0,4.0,8,Salário,Pagamento Motorista,Wednesday
+13.0,2023-04-12,Wednesday,gasolina,Auto posto Boqueirão,176.52,2023.0,4.0,9,Transporte,Combustivel,Wednesday
+14.0,2023-04-12,Wednesday,Alimentos,Feira,52.0,2023.0,4.0,1,Alimentação,Mercado,Wednesday
+15.0,2023-04-12,Wednesday,Alimentos,Feira,45.0,2023.0,4.0,1,Alimentação,Mercado,Wednesday
+16.0,2023-04-14,Friday,Aluguel da cozinha casa Thiago,,1200.0,2023.0,4.0,2,Aluguel,Cozinha,Friday
+17.0,2023-04-14,Friday,Salário Thiago (cozinheiro),,3250.0,2023.0,4.0,8,Salário,Pagamento Cozinheiro,Friday
+18.0,2023-04-19,Wednesday,Alimentos,Feira,40.0,2023.0,4.0,1,Alimentação,Mercado,Wednesday
+19.0,2023-04-19,Wednesday,Alimentos,Feira,55.0,2023.0,4.0,1,Alimentação,Mercado,Wednesday
+20.0,2023-04-20,Thursday,Colheres,Comercio de Embalagens,85.5,2023.0,4.0,3,Descartáveis,Talheres,Thursday
+21.0,2023-04-26,Wednesday,Atacadao ,Atacadão S.A.,711.3,2023.0,4.0,1,Alimentação,Mercado,Wednesday
+22.0,2023-04-26,Wednesday,Atacadao ,Brasileiro Atacado SA,372.74,2023.0,4.0,1,Alimentação,Mercado,Wednesday
+23.0,2023-04-26,Wednesday,Alimentos,Feira,29.0,2023.0,4.0,1,Alimentação,Mercado,Wednesday
+24.0,2023-04-26,Wednesday,Alimentos,Feira,97.0,2023.0,4.0,1,Alimentação,Mercado,Wednesday
+1.0,2023-03-01,Wednesday,Alimentos,Feira,30.0,2023.0,3.0,1,Alimentação,Mercado,Wednesday
+2.0,2023-03-01,Wednesday,Alimentos,Feira,50.0,2023.0,3.0,1,Alimentação,Mercado,Wednesday
+3.0,2023-03-02,Thursday,Descartaveis,Comercio de Emabalagens,85.5,2023.0,3.0,3,Descartáveis,Embalagens,Thursday
+4.0,2023-03-02,Thursday,Descartaveis,Comercio de Emabalagens,12.0,2023.0,3.0,3,Descartáveis,Embalagens,Thursday
+5.0,2023-03-02,Thursday,Atacadao ,Atacadão S.A.,411.14,2023.0,3.0,1,Alimentação,Mercado,Thursday
+6.0,2023-03-02,Thursday,Atacadao ,Brasileiro Atacado SA,137.99,2023.0,3.0,1,Alimentação,Mercado,Thursday
+7.0,2023-03-08,Wednesday,Alimentos,Feira,25.0,2023.0,3.0,1,Alimentação,Mercado,Wednesday
+10.0,2023-03-08,Wednesday,Alimentos,Feira,57.0,2023.0,3.0,1,Alimentação,Mercado,Wednesday
+11.0,2023-03-13,Monday,Gasolina,Centro Automotivo,100.0,2023.0,3.0,9,Transporte,Combustivel,Monday
+12.0,2023-03-15,Wednesday,Alimentos,Feira,52.0,2023.0,3.0,1,Alimentação,Mercado,Wednesday
+12.0,2023-03-15,Wednesday,Alimentos,Feira,20.0,2023.0,3.0,1,Alimentação,Mercado,Wednesday
+13.0,2023-03-21,Tuesday,Salário Cleverton (motorista),,3250.0,2023.0,3.0,8,Salário,Pagamento Motorista,Tuesday
+14.0,2023-03-23,Thursday,Salário Thiago (cozinheiro),,3250.0,2023.0,3.0,8,Salário,Pagamento Cozinheiro,Thursday
+15.0,2023-03-30,Thursday,Luz,,199.38,2023.0,3.0,4,ONG,Luz,Thursday
+16.0,2023-03-30,Thursday,Aluguel SEDE ONG,Rizk Imobiliaria,3562.96,2023.0,3.0,2,Aluguel,ONG,Thursday
+1.0,2023-02-07,Tuesday,Colheres,Prado MiniMercado,16.5,2023.0,2.0,3,Descartáveis,Talheres,Tuesday
+2.0,2023-02-23,Thursday,Atacadao ,Brasileiro Atacado SA,154.14,2023.0,2.0,1,Alimentação,Mercado,Thursday
+3.0,2023-02-23,Thursday,Atacadao ,Atacadão S.A.,473.32,2023.0,2.0,1,Alimentação,Mercado,Thursday
+4.0,2023-02-24,Friday,Gás,Ultragaz,125.9,2023.0,2.0,4,ONG,Gás,Friday
+5.0,2023-02-24,Friday,80 engradado de Água,Malte Comercio de Bebidas,752.0,2023.0,2.0,1,Alimentação,Água,Friday
+6.0,2023-02-26,Sunday,Salário Thiago (cozinheiro),,3250.0,2023.0,2.0,8,Salário,Pagamento Cozinheiro,Sunday
+7.0,2023-02-26,Sunday,Salário Cleverton (motorista),,3250.0,2023.0,2.0,8,Salário,Pagamento Motorista,Sunday
+10.0,2023-02-26,Sunday,Água,,63.59,2023.0,2.0,1,Alimentação,Água,Sunday
+11.0,2023-02-26,Sunday,Luz,,147.75,2023.0,2.0,4,ONG,Luz,Sunday
+12.0,2023-02-26,Sunday,Aluguel SEDE ONG,Rizk Imobiliaria,3562.96,2023.0,2.0,2,Aluguel,ONG,Sunday
+1.0,2023-01-05,Thursday,Atacadao Semana 1,Atacadão S.A.,231.37,2023.0,1.0,1,Alimentação,Mercado,Thursday
+2.0,2023-01-05,Thursday,Atacadao Semana 1,Brasileiro Atacado SA,135.13,2023.0,1.0,1,Alimentação,Mercado,Thursday
+3.0,2023-01-11,Wednesday,Gás,Ultragaz,125.9,2023.0,1.0,4,ONG,Gás,Wednesday
+4.0,2023-01-11,Wednesday,Gasolina ,C A Agua Espraiada,100.0,2023.0,1.0,9,Transporte,Combustivel,Wednesday
+5.0,2023-01-24,Tuesday,Salário Thiago (cozinheiro),,3250.0,2023.0,1.0,8,Salário,Pagamento Cozinheiro,Tuesday
+6.0,2023-01-24,Tuesday,Salário Cleverton (motorista),,3250.0,2023.0,1.0,8,Salário,Pagamento Motorista,Tuesday
+7.0,2023-01-29,Sunday,Água,,76.08,2023.0,1.0,1,Alimentação,Água,Sunday
+10.0,2023-01-29,Sunday,Luz,,163.47,2023.0,1.0,4,ONG,Luz,Sunday
+11.0,2023-01-29,Sunday,Aluguel SEDE ONG (vcto 01_02 - adiantei),Rizk Imobiliaria,3602.85,2023.0,1.0,2,Aluguel,ONG,Sunday
+12.0,2023-01-31,Tuesday,Emabalagens,Comercio de Emabalagens,838.5,2023.0,1.0,3,Descartáveis,Embalagens,Tuesday
+13.0,2023-01-31,Tuesday,Atacadao Semana 4,Atacadão S.A.,320.02,2023.0,1.0,1,Alimentação,Mercado,Tuesday
+14.0,2023-01-31,Tuesday,Atacadao Semana 4,Brasileiro Atacado SA,107.86,2023.0,1.0,1,Alimentação,Mercado,Tuesday
+1.0,2022-12-01,Thursday,Atacadao Semana 1,Atacadão S.A.,331.79,2022.0,12.0,1,Alimentação,Mercado,Thursday
+2.0,2022-12-01,Thursday,Atacadao Semana 1,Brasileiro Atacado SA,241.48,2022.0,12.0,1,Alimentação,Mercado,Thursday
+3.0,2022-12-14,Wednesday,Atacadao Semana 2,Atacadão S.A.,113.21,2022.0,12.0,1,Alimentação,Mercado,Wednesday
+4.0,2022-12-14,Wednesday,Atacadao Semana 2,Brasileiro Atacado SA,504.85,2022.0,12.0,1,Alimentação,Mercado,Wednesday
+5.0,2022-12-14,Wednesday,Feira Semana 2,Feira,40.0,2022.0,12.0,1,Alimentação,Feira,Wednesday
+6.0,2022-12-14,Wednesday,Feira Semana 2,Feira,70.0,2022.0,12.0,1,Alimentação,Feira,Wednesday
+7.0,2022-12-21,Wednesday,Feira Semana 3,Feira,30.0,2022.0,12.0,1,Alimentação,Feira,Wednesday
+8.0,2022-12-21,Wednesday,Feira Semana 3,Feira,40.0,2022.0,12.0,1,Alimentação,Feira,Wednesday
+9.0,2022-12-21,Wednesday,Água 510 ml,Malte Comercio de Bebidas,758.4,2022.0,12.0,1,Alimentação,Água,Wednesday
+10.0,2022-12-27,Tuesday,Atacadao Semana 4,Atacadão S.A.,188.95,2022.0,12.0,1,Alimentação,Mercado,Tuesday
+11.0,2022-12-27,Tuesday,Atacadao Semana 4,Brasileiro Atacado SA,314.09,2022.0,12.0,1,Alimentação,Mercado,Tuesday
+12.0,2022-12-29,Thursday,Água,,65.76,2022.0,12.0,1,Alimentação,Água,Thursday
+13.0,2022-12-29,Thursday,Luz,,152.7,2022.0,12.0,4,ONG,Luz,Thursday
+14.0,2022-12-29,Thursday,Aluguel SEDE ONG (vcto 01_01 - adiantei),Rizk Imobiliaria,3126.48,2022.0,12.0,2,Aluguel,ONG,Thursday
+15.0,2022-12-29,Thursday,Salário Thiago (cozinheiro),,3000.0,2022.0,12.0,8,Salário,Pagamento Cozinheiro,Thursday
+16.0,2022-12-29,Thursday,Salário Cleverton (motorista),,3000.0,2022.0,12.0,8,Salário,Pagamento Motorista,Thursday
+1.0,2022-11-02,Wednesday,Feira Semana 1,Feira,61.0,2022.0,11.0,1,Alimentação,Feira,Wednesday
+2.0,2022-11-09,Wednesday,Feira Semana 2,Feira,40.0,2022.0,11.0,1,Alimentação,Feira,Wednesday
+3.0,2022-11-09,Wednesday,Feira Semana 2,Feira,48.0,2022.0,11.0,1,Alimentação,Feira,Wednesday
+4.0,2022-11-09,Wednesday,Atacadao Semana 2,Atacadão S.A.,257.17,2022.0,11.0,1,Alimentação,Mercado,Wednesday
+5.0,2022-11-09,Wednesday,Atacadao Semana 2,Brasileiro Atacado SA,103.83,2022.0,11.0,1,Alimentação,Mercado,Wednesday
+6.0,2022-11-22,Tuesday,Atacadao Semana 4,Atacadão S.A.,314.04,2022.0,11.0,1,Alimentação,Mercado,Tuesday
+7.0,2022-11-22,Tuesday,Atacadao Semana 4,Brasileiro Atacado SA,201.19,2022.0,11.0,1,Alimentação,Mercado,Tuesday
+8.0,2022-11-23,Wednesday,Feira Semana 4,Feira,26.0,2022.0,11.0,1,Alimentação,Feira,Wednesday
+9.0,2022-11-23,Wednesday,Feira Semana 4,Feira,31.0,2022.0,11.0,1,Alimentação,Feira,Wednesday
+10.0,2022-11-23,Wednesday,Gás,Ultragaz,245.8,2022.0,11.0,4,ONG,Gás,Wednesday
+11.0,2022-11-29,Tuesday,Bobina de saco plastico,Embalagens da Praça,15.0,2022.0,11.0,3,Descartáveis,Outros,Tuesday
+12.0,2022-11-30,Wednesday,Feira Semana 5,Feira,30.0,2022.0,11.0,1,Alimentação,Feira,Wednesday
+13.0,2022-11-30,Wednesday,Feira Semana 5,Feira,30.0,2022.0,11.0,1,Alimentação,Feira,Wednesday
+14.0,2022-12-01,Thursday,Água,,67.93,2022.0,12.0,1,Alimentação,Água,Thursday
+15.0,2022-12-01,Thursday,Luz,,186.42,2022.0,12.0,4,ONG,Luz,Thursday
+16.0,2022-12-01,Thursday,Aluguel SEDE ONG (vcto 01_10 - adiantei),Rizk Imobiliaria,3126.48,2022.0,12.0,2,Aluguel,ONG,Thursday
+17.0,2022-12-01,Thursday,Salário Thiago (cozinheiro),,3000.0,2022.0,12.0,8,Salário,Pagamento Cozinheiro,Thursday
+18.0,2022-12-01,Thursday,Salário Cleverton (motorista),,3000.0,2022.0,12.0,8,Salário,Pagamento Motorista,Thursday
+1.0,2022-10-01,Saturday,Atacadao Semana 1,Atacadão S.A.,413.09,2022.0,10.0,1,Alimentação,Mercado,Saturday
+2.0,2022-10-01,Saturday,Atacadao Semana 1,Brasileiro Atacado SA,176.88,2022.0,10.0,1,Alimentação,Mercado,Saturday
+3.0,2022-10-05,Wednesday,Feira Semana 2,Feira,40.0,2022.0,10.0,1,Alimentação,Feira,Wednesday
+4.0,2022-10-05,Wednesday,Feira Semana 2,Feira,19.0,2022.0,10.0,1,Alimentação,Feira,Wednesday
+5.0,2022-10-08,Saturday,Atacadao Semana 2,Atacadão S.A.,364.58,2022.0,10.0,1,Alimentação,Mercado,Saturday
+6.0,2022-10-08,Saturday,Atacadao Semana 2,Brasileiro Atacado SA,195.12,2022.0,10.0,1,Alimentação,Mercado,Saturday
+7.0,2022-10-14,Friday,Feira Semana 3,Feira,20.0,2022.0,10.0,1,Alimentação,Feira,Friday
+8.0,2022-10-15,Saturday,Atacadao Semana 3,Atacadão S.A.,414.14,2022.0,10.0,1,Alimentação,Mercado,Saturday
+9.0,2022-10-15,Saturday,Atacadao Semana 3,Brasileiro Atacado SA,231.57,2022.0,10.0,1,Alimentação,Mercado,Saturday
+10.0,2022-10-17,Monday,Fibra de aço,Embalagens Vila Mariana,20.0,2022.0,10.0,4,ONG,Outros,Monday
+11.0,2022-10-18,Tuesday,Gás,Ultragaz,245.8,2022.0,10.0,4,ONG,Gás,Tuesday
+12.0,2022-10-21,Friday,Mercado Extra,PFM & LC Supermercado,26.58,2022.0,10.0,1,Alimentação,Mercado,Friday
+13.0,2022-10-22,Saturday,Atacadao Semana 4,Atacadão S.A.,499.93,2022.0,10.0,1,Alimentação,Mercado,Saturday
+14.0,2022-10-22,Saturday,Atacadao Semana 4,Brasileiro Atacado SA,257.93,2022.0,10.0,1,Alimentação,Mercado,Saturday
+15.0,2022-10-25,Tuesday,Agua para moradores de rua (260 fardos),Malte Comercio de Bebidas,2652.0,2022.0,10.0,1,Alimentação,Água,Tuesday
+16.0,2022-10-26,Wednesday,Colheres e Marmitas,Embalagens Vila Mariana,1271.0,2022.0,10.0,3,Descartáveis,Talheres,Wednesday
+17.0,2022-10-26,Wednesday,Feira Semana 5,Feira,70.0,2022.0,10.0,1,Alimentação,Feira,Wednesday
+18.0,2022-10-26,Wednesday,Feira Semana 5,Feira,38.0,2022.0,10.0,1,Alimentação,Feira,Wednesday
+19.0,2022-10-28,Friday,Luz,Enel,159.21,2022.0,10.0,4,ONG,Luz,Friday
+20.0,2022-10-29,Saturday,Atacadao Semana 5,Atacadão S.A.,334.61,2022.0,10.0,1,Alimentação,Mercado,Saturday
+21.0,2022-10-29,Saturday,Atacadao Semana 5,Brasileiro Atacado SA,275.99,2022.0,10.0,1,Alimentação,Mercado,Saturday
+22.0,2022-10-31,Monday,Água Sede,Sabesp,67.93,2022.0,10.0,1,Alimentação,Água,Monday
+23.0,2022-10-31,Monday,Salário Thiago (cozinheiro) ,,3000.0,2022.0,10.0,8,Salário,Pagamento Cozinheiro,Monday
+24.0,2022-10-31,Monday,Salário Cleverton (motorista),,3000.0,2022.0,10.0,8,Salário,Pagamento Motorista,Monday
+25.0,2022-10-31,Monday,Aluguel SEDE ONG  (vcto 01_10 - adiantei),Rizk Imobiliaria,3576.78,2022.0,10.0,2,Aluguel,ONG,Monday
+1.0,2022-09-01,Thursday,Atacadao Semana 1,Atacadão S.A.,294.36,2022.0,9.0,1,Alimentação,Mercado,Thursday
+2.0,2022-09-01,Thursday,Atacadao Semana 1,Brasileiro Atacado SA,240.12,2022.0,9.0,1,Alimentação,Mercado,Thursday
+3.0,2022-09-06,Tuesday,Colheres,Embalagens Vila Mariana,23.0,2022.0,9.0,3,Descartáveis,Talheres,Tuesday
+4.0,2022-09-07,Wednesday,Feira Semana 2,Feira,39.0,2022.0,9.0,1,Alimentação,Feira,Wednesday
+5.0,2022-09-07,Wednesday,Atacadao Semana 2,Atacadão S.A.,248.73,2022.0,9.0,1,Alimentação,Mercado,Wednesday
+6.0,2022-09-07,Wednesday,Atacadao Semana 2,Roldao Auto Servico Comercio de Alimentos,141.19,2022.0,9.0,1,Alimentação,Mercado,Wednesday
+7.0,2022-09-09,Friday,Colheres,Embalagens da Praça,85.5,2022.0,9.0,3,Descartáveis,Talheres,Friday
+8.0,2022-09-14,Wednesday,Gás,Ultragaz,251.8,2022.0,9.0,4,ONG,Gás,Wednesday
+9.0,2022-09-14,Wednesday,Feira Semana 3,Feira,48.0,2022.0,9.0,1,Alimentação,Feira,Wednesday
+10.0,2022-09-14,Wednesday,Feira Semana 3,Feira,28.0,2022.0,9.0,1,Alimentação,Feira,Wednesday
+11.0,2022-09-14,Wednesday,Atacadao Semana 3,Atacadão S.A.,558.99,2022.0,9.0,1,Alimentação,Mercado,Wednesday
+12.0,2022-09-14,Wednesday,Atacadao Semana 3,Roldao Auto Servico Comercio de Alimentos,282.9,2022.0,9.0,1,Alimentação,Mercado,Wednesday
+13.0,2022-09-15,Thursday,Agua para moradores de rua (260 fardos),Malte Comercio de Bebidas,2652.0,2022.0,9.0,1,Alimentação,Água,Thursday
+14.0,2022-09-21,Wednesday,Feira Semana 4,Feira,50.0,2022.0,9.0,1,Alimentação,Feira,Wednesday
+15.0,2022-09-21,Wednesday,Feira Semana 4,Feira,47.0,2022.0,9.0,1,Alimentação,Feira,Wednesday
+16.0,2022-09-23,Friday,100 Embalagem Marmitas,Embalagens Vila Mariana,65.0,2022.0,9.0,3,Descartáveis,Embalagens,Friday
+17.0,2022-09-24,Saturday,5.500 Embalagem Marmitas,Embalagens da Praça,1194.5,2022.0,9.0,3,Descartáveis,Embalagens,Saturday
+18.0,2022-09-24,Saturday,Atacadao Semana 4,Atacadão S.A.,369.93,2022.0,9.0,1,Alimentação,Mercado,Saturday
+19.0,2022-09-24,Saturday,Atacadao Semana 4,Brasileiro Atacado SA,236.23,2022.0,9.0,1,Alimentação,Mercado,Saturday
+20.0,2022-09-27,Tuesday,Água Sede,Sabesp,63.59,2022.0,9.0,1,Alimentação,Água,Tuesday
+21.0,2022-09-28,Wednesday,Feira Semana 5,Feira,39.0,2022.0,9.0,1,Alimentação,Feira,Wednesday
+22.0,2022-09-28,Wednesday,Feira Semana 5,Feira,50.0,2022.0,9.0,1,Alimentação,Feira,Wednesday
+23.0,2022-09-28,Wednesday,Luz,Enel,188.99,2022.0,9.0,4,ONG,Luz,Wednesday
+24.0,2022-10-01,Saturday,Salário Thiago (cozinheiro) ,,3000.0,2022.0,10.0,8,Salário,Pagamento Cozinheiro,Saturday
+25.0,2022-10-01,Saturday,Salário Cleverton (motorista),,3000.0,2022.0,10.0,8,Salário,Pagamento Motorista,Saturday
+26.0,2022-10-01,Saturday,Aluguel SEDE ONG  (vcto 01_10 - adiantei),Rizk Imobiliaria,3576.78,2022.0,10.0,2,Aluguel,ONG,Saturday
+1.0,2022-08-01,Monday,Marmitas,Comercio Emabalagens,825.0,2022.0,8.0,3,Descartáveis,Embalagens,Monday
+2.0,2022-08-02,Tuesday,Atacadao Semana 1,Brasileiro Atacado SA,225.8,2022.0,8.0,1,Alimentação,Mercado,Tuesday
+3.0,2022-08-02,Tuesday,Atacadao Semana 1,Atacadão S.A.,412.06,2022.0,8.0,1,Alimentação,Mercado,Tuesday
+4.0,2022-08-03,Wednesday,Feira Semana 1 ,Feira,13.0,2022.0,8.0,1,Alimentação,Feira,Wednesday
+5.0,2022-08-03,Wednesday,Feira Semana 1 ,Feira,55.0,2022.0,8.0,1,Alimentação,Feira,Wednesday
+6.0,2022-08-06,Saturday,Atacadao Semana 2,Brasileiro Atacado SA,447.17,2022.0,8.0,1,Alimentação,Mercado,Saturday
+7.0,2022-08-06,Saturday,Atacadao Semana 2,Atacadão S.A.,286.31,2022.0,8.0,1,Alimentação,Mercado,Saturday
+8.0,2022-08-10,Wednesday,Feira Semana 2,Feira,37.0,2022.0,8.0,1,Alimentação,Feira,Wednesday
+9.0,2022-08-10,Wednesday,Feira Semana 2,Feira,37.0,2022.0,8.0,1,Alimentação,Feira,Wednesday
+10.0,2022-08-13,Saturday,Atacadao Semana 2,Brasileiro Atacado SA,351.57,2022.0,8.0,1,Alimentação,Mercado,Saturday
+11.0,2022-08-13,Saturday,Atacadao Semana 2,Atacadão S.A.,293.69,2022.0,8.0,1,Alimentação,Mercado,Saturday
+12.0,2022-08-13,Saturday,Agua para moradores de rua (60 fardos),Malte Comercio de Bebidas,2652.0,2022.0,8.0,1,Alimentação,Água,Saturday
+13.0,2022-08-17,Wednesday,Feira Semana 3,Feira,21.0,2022.0,8.0,1,Alimentação,Feira,Wednesday
+14.0,2022-08-17,Wednesday,Feira Semana 3,Feira,60.0,2022.0,8.0,1,Alimentação,Feira,Wednesday
+15.0,2022-08-20,Saturday,Atacadao Semana 3,Brasileiro Atacado SA,260.4,2022.0,8.0,1,Alimentação,Mercado,Saturday
+16.0,2022-08-20,Saturday,Atacadao Semana 3,Atacadão S.A.,331.72,2022.0,8.0,1,Alimentação,Mercado,Saturday
+17.0,2022-08-24,Wednesday,Feira Semana 4,Feira,40.0,2022.0,8.0,1,Alimentação,Feira,Wednesday
+18.0,2022-08-24,Wednesday,Feira Semana 4,Feira,47.0,2022.0,8.0,1,Alimentação,Feira,Wednesday
+19.0,2022-08-24,Wednesday,Embalagens e Talheres,Embalagens da Praça,838.5,2022.0,8.0,3,Descartáveis,Embalagens,Wednesday
+20.0,2022-08-25,Thursday,Atacadao Semana 4,Brasileiro Atacado SA,298.8,2022.0,8.0,1,Alimentação,Mercado,Thursday
+21.0,2022-08-25,Thursday,Atacadao Semana 4,Atacadão S.A.,434.56,2022.0,8.0,1,Alimentação,Mercado,Thursday
+22.0,2022-08-30,Tuesday,Talheres,Embalagens da Praça,27.0,2022.0,8.0,3,Descartáveis,Talheres,Tuesday
+23.0,2022-08-31,Wednesday,Feira Semana 5,Feira,55.0,2022.0,8.0,1,Alimentação,Feira,Wednesday
+24.0,2022-08-31,Wednesday,Feira Semana 5,Feira,46.0,2022.0,8.0,1,Alimentação,Feira,Wednesday
+25.0,2022-08-31,Wednesday,Luz,Enel,197.63,2022.0,8.0,4,ONG,Luz,Wednesday
+26.0,2022-08-31,Wednesday,Água Sede,Sabesp,67.93,2022.0,8.0,1,Alimentação,Água,Wednesday
+27.0,2022-08-31,Wednesday,Salário Thiago (cozinheiro) ,,3000.0,2022.0,8.0,8,Salário,Pagamento Cozinheiro,Wednesday
+28.0,2022-08-31,Wednesday,Salário Cleverton (motorista),,3000.0,2022.0,8.0,8,Salário,Pagamento Motorista,Wednesday
+29.0,2022-08-31,Wednesday,Aluguel SEDE ONG  (vcto 01_09 - adiantei),Rizk Imobiliaria,3398.12,2022.0,8.0,2,Aluguel,ONG,Wednesday
+1.0,2022-07-01,Friday,Marmitas,Embalagens da Vila,130.0,2022.0,7.0,3,Descartáveis,Embalagens,Friday
+2.0,2022-07-02,Saturday,Marmitas,Comercio Emabalagens,825.0,2022.0,7.0,3,Descartáveis,Embalagens,Saturday
+3.0,2022-07-02,Saturday,Atacadao Semana 1,Brasileiro Atacado SA,418.24,2022.0,7.0,1,Alimentação,Mercado,Saturday
+4.0,2022-07-02,Saturday,Atacadao Semana 1,Atacadão S.A.,390.85,2022.0,7.0,1,Alimentação,Mercado,Saturday
+5.0,2022-07-06,Wednesday,Gás,Ultragaz,243.8,2022.0,7.0,4,ONG,Gás,Wednesday
+6.0,2022-07-06,Wednesday,Colher - emergia,Padro Minimercado,15.0,2022.0,7.0,3,Descartáveis,Talheres,Wednesday
+7.0,2022-07-06,Wednesday,Agua para moradores de rua (60 fardos),Malte Comercio de Bebidas,492.0,2022.0,7.0,1,Alimentação,Água,Wednesday
+8.0,2022-07-07,Thursday,Agua para moradores de rua (200 fardos),Malte Comercio de Bebidas,2066.4,2022.0,7.0,1,Alimentação,Água,Thursday
+9.0,2022-07-09,Saturday,Atacadao Semana 2,Brasileiro Atacado SA,227.56,2022.0,7.0,1,Alimentação,Mercado,Saturday
+10.0,2022-07-09,Saturday,Atacadao Semana 2,Atacadão S.A.,491.33,2022.0,7.0,1,Alimentação,Mercado,Saturday
+11.0,2022-07-16,Saturday,Atacadao Semana 3,Brasileiro Atacado SA,422.95,2022.0,7.0,1,Alimentação,Mercado,Saturday
+12.0,2022-07-16,Saturday,Atacadao Semana 3,Atacadão S.A.,285.79,2022.0,7.0,1,Alimentação,Mercado,Saturday
+13.0,2022-07-21,Thursday,Atacadao Semana 4,Brasileiro Atacado SA,340.18,2022.0,7.0,1,Alimentação,Mercado,Thursday
+14.0,2022-07-21,Thursday,Atacadao Semana 4,Atacadão S.A.,402.82,2022.0,7.0,1,Alimentação,Mercado,Thursday
+15.0,2022-07-29,Friday,Luz,Enel,198.03,2022.0,7.0,4,ONG,Luz,Friday
+16.0,2022-07-29,Friday,Água Sede,Sabesp,78.13,2022.0,7.0,1,Alimentação,Água,Friday
+17.0,2022-07-31,Sunday,Salário Thiago (cozinheiro) ,,3000.0,2022.0,7.0,8,Salário,Pagamento Cozinheiro,Sunday
+18.0,2022-07-31,Sunday,Salário Cleverton (motorista),,3000.0,2022.0,7.0,8,Salário,Pagamento Motorista,Sunday
+19.0,2022-07-31,Sunday,Aluguel SEDE ONG  (vcto 01_08 - adiantei),Rizk Imobiliaria,3254.8,2022.0,7.0,2,Aluguel,ONG,Sunday
+1.0,2022-06-01,Wednesday,Agua para moradores de rua (60 fardos),Malte Comercio de Bebidas,572.4,2022.0,6.0,1,Alimentação,Água,Wednesday
+2.0,2022-06-02,Thursday,Agua para moradores de rua (200 fardos),Malte Comercio de Bebidas,1908.0,2022.0,6.0,1,Alimentação,Água,Thursday
+3.0,2022-06-02,Thursday,Gás,Ultragaz,249.8,2022.0,6.0,4,ONG,Gás,Thursday
+4.0,2022-06-04,Saturday,Atacadao Semana 1,Brasileiro Atacado SA,304.34,2022.0,6.0,1,Alimentação,Mercado,Saturday
+5.0,2022-06-04,Saturday,Atacadao Semana 1,Atacadão S.A.,469.42,2022.0,6.0,1,Alimentação,Mercado,Saturday
+6.0,2022-06-09,Thursday,Marmitas 1300 unidades,Embalagens da Vila,715.0,2022.0,6.0,3,Descartáveis,Embalagens,Thursday
+7.0,2022-06-10,Friday,Água,Sabesp,66.81,2022.0,6.0,1,Alimentação,Água,Friday
+8.0,2022-06-11,Saturday,Atacadao Semana 2,Brasileiro Atacado SA,419.02,2022.0,6.0,1,Alimentação,Mercado,Saturday
+9.0,2022-06-11,Saturday,Atacadao Semana 2,Atacadão S.A.,283.38,2022.0,6.0,1,Alimentação,Mercado,Saturday
+10.0,2022-06-18,Saturday,Atacadao Semana 3,Brasileiro Atacado SA,351.43,2022.0,6.0,1,Alimentação,Mercado,Saturday
+11.0,2022-06-18,Saturday,Atacadao Semana 3,Atacadão S.A.,434.99,2022.0,6.0,1,Alimentação,Mercado,Saturday
+12.0,2022-06-21,Tuesday,Suporte para mesa de montar marmita que quebrou,Leroy Merlin,69.8,2022.0,6.0,4,ONG,Outros,Tuesday
+13.0,2022-06-28,Tuesday,Luz,Enel,219.48,2022.0,6.0,4,ONG,Luz,Tuesday
+14.0,2022-06-28,Tuesday,Atacadao Semana 4,Brasileiro Atacado SA,277.08,2022.0,6.0,1,Alimentação,Mercado,Tuesday
+15.0,2022-06-28,Tuesday,Atacadao Semana 4,Atacadão S.A.,803.09,2022.0,6.0,1,Alimentação,Mercado,Tuesday
+16.0,2022-06-28,Tuesday,Atacadao Semana 4,Dia,79.5,2022.0,6.0,1,Alimentação,Mercado,Tuesday
+17.0,2022-07-01,Friday,Salário Thiago (cozinheiro) ,,3000.0,2022.0,7.0,8,Salário,Pagamento Cozinheiro,Friday
+18.0,2022-07-01,Friday,Salário Cleverton (motorista),,3000.0,2022.0,7.0,8,Salário,Pagamento Motorista,Friday
+19.0,2022-07-01,Friday,Aluguel SEDE ONG  (vcto 01_07 - adiantei),Rizk Imobiliaria,3276.59,2022.0,7.0,2,Aluguel,ONG,Friday
+,2022-06-02,Thursday,120 pares de meias,Magazine Luiza,339.0,2022.0,6.0,10,Vestuário,Roupa,Thursday
+,2022-06-10,Friday,30 cobertores fofinhos,Americanas,818.7,2022.0,6.0,10,Vestuário,Cobertores,Friday
+,2022-06-10,Friday,30 cobertores fofinhos,Americanas,818.7,2022.0,6.0,10,Vestuário,Cobertores,Friday
+,2022-06-03,Friday,130 agasalhos,Orfanato Obras promocionais de Jesus Cristo Ressucitad,390.0,2022.0,6.0,10,Vestuário,Roupa,Friday
+1.0,2022-05-03,Tuesday,Gás,Ultragaz,249.8,2022.0,5.0,4,ONG,Gás,Tuesday
+2.0,2022-05-04,Wednesday,Atacadao Semana 1,Brasileiro Atacado SA,466.51,2022.0,5.0,1,Alimentação,Mercado,Wednesday
+3.0,2022-05-04,Wednesday,Atacadao Semana 1,Atacadão S.A.,497.47,2022.0,5.0,1,Alimentação,Mercado,Wednesday
+4.0,2022-05-05,Thursday,Complemento Semana 1,Dia,35.0,2022.0,5.0,1,Alimentação,Mercado,Thursday
+5.0,2022-05-06,Friday,Complemento Semana 1,Dia,22.75,2022.0,5.0,1,Alimentação,Mercado,Friday
+6.0,2022-05-11,Wednesday,Atacadao Semana 2,Atacadão S.A.,523.74,2022.0,5.0,1,Alimentação,Mercado,Wednesday
+7.0,2022-05-11,Wednesday,Atacadao Semana 2,Dia,51.62,2022.0,5.0,1,Alimentação,Mercado,Wednesday
+8.0,2022-05-12,Thursday,Água,Sabesp,60.22,2022.0,5.0,1,Alimentação,Água,Thursday
+9.0,2022-05-13,Friday,Complemento Semana 2,Dia,19.5,2022.0,5.0,1,Alimentação,Mercado,Friday
+10.0,2022-05-13,Friday,Talheres (5 mil unidades para pegar desconto),R Motta Comercial LTDA,650.0,2022.0,5.0,3,Descartáveis,Talheres,Friday
+11.0,2022-05-14,Saturday,Atacadao Semana 2,Brasileiro Atacado SA,643.98,2022.0,5.0,1,Alimentação,Mercado,Saturday
+12.0,2022-05-14,Saturday,Atacadao Semana 2,Atacadão S.A.,351.81,2022.0,5.0,1,Alimentação,Mercado,Saturday
+13.0,2022-05-21,Saturday,Atacadao Semana 3,Brasileiro Atacado SA,489.34,2022.0,5.0,1,Alimentação,Mercado,Saturday
+14.0,2022-05-21,Saturday,Atacadao Semana 3,Atacadão S.A.,473.11,2022.0,5.0,1,Alimentação,Mercado,Saturday
+15.0,2022-05-24,Tuesday,Marmitas 900 unidades,Mercado Livre,449.1,2022.0,5.0,3,Descartáveis,Embalagens,Tuesday
+16.0,2022-05-27,Friday,Luz,Enel,178.26,2022.0,5.0,4,ONG,Luz,Friday
+17.0,2022-05-28,Saturday,Atacadao Semana 4,Brasileiro Atacado SA,309.07,2022.0,5.0,1,Alimentação,Mercado,Saturday
+18.0,2022-05-28,Saturday,Atacadao Semana 4,Atacadão S.A.,593.87,2022.0,5.0,1,Alimentação,Mercado,Saturday
+19.0,2022-05-28,Saturday,Salário Thiago (cozinheiro) ,,3000.0,2022.0,5.0,8,Salário,Pagamento Cozinheiro,Saturday
+20.0,2022-05-28,Saturday,Salário Cleverton (motorista),,3000.0,2022.0,5.0,8,Salário,Pagamento Motorista,Saturday
+21.0,2022-05-28,Saturday,Aluguel SEDE ONG  (vcto 01_06 - adiantei),Rizk Imobiliaria,3276.59,2022.0,5.0,2,Aluguel,ONG,Saturday
+1.0,2022-04-01,Friday,Atacadao Semana 1,Atacadão S.A.,383.8,2022.0,4.0,1,Alimentação,Mercado,Friday
+2.0,2022-04-04,Monday,Água,Sabesp,60.22,2022.0,4.0,1,Alimentação,Água,Monday
+3.0,2022-04-05,Tuesday,Atacadao Semana 1,Atacadão S.A.,580.02,2022.0,4.0,1,Alimentação,Mercado,Tuesday
+4.0,2022-04-05,Tuesday,Atacadao Semana 1,Brasileiro Atacado SA,569.59,2022.0,4.0,1,Alimentação,Mercado,Tuesday
+5.0,2022-04-11,Monday,Embalagens marmita (2.600 unidades),Embalagens Vila Mariana,1560.0,2022.0,4.0,3,Descartáveis,Embalagens,Monday
+6.0,2022-04-14,Thursday,Atacadao Semana 2,Brasileiro Atacado SA,526.15,2022.0,4.0,1,Alimentação,Mercado,Thursday
+7.0,2022-04-14,Thursday,Atacadao Semana 2,Atacadão S.A.,527.38,2022.0,4.0,1,Alimentação,Mercado,Thursday
+8.0,2022-04-24,Sunday,Luz,Enel,242.0,2022.0,4.0,4,ONG,Luz,Sunday
+9.0,2022-04-25,Monday,Água (270 fardos),Malte Comercio de Bebidas,2511.0,2022.0,4.0,1,Alimentação,Água,Monday
+10.0,2022-04-26,Tuesday,Atacadao Semana 2,Atacadão S.A.,553.62,2022.0,4.0,1,Alimentação,Mercado,Tuesday
+11.0,2022-04-26,Tuesday,Atacadao Semana 2,Brasileiro Atacado SA,484.04,2022.0,4.0,1,Alimentação,Mercado,Tuesday
+12.0,2022-05-08,Sunday,Salário Thiago (cozinheiro) ,,3000.0,2022.0,5.0,8,Salário,Pagamento Cozinheiro,Sunday
+13.0,2022-05-08,Sunday,Salário Cleverton (motorista),,3000.0,2022.0,5.0,8,Salário,Pagamento Motorista,Sunday
+14.0,2022-04-28,Thursday,Aluguel SEDE ONG  (vcto 05_05 - adiantei),Rizk Imobiliaria,3276.59,2022.0,4.0,2,Aluguel,ONG,Thursday
+1.0,2022-03-08,Tuesday,Atacadao Semana 1,Brasileiro Atacado SA,738.29,2022.0,3.0,1,Alimentação,Mercado,Tuesday
+2.0,2022-03-08,Tuesday,Atacadao Semana 1,Atacadão S.A.,532.23,2022.0,3.0,1,Alimentação,Mercado,Tuesday
+3.0,2022-03-15,Tuesday,Atacadao Semana 2,Brasileiro Atacado SA,653.12,2022.0,3.0,1,Alimentação,Mercado,Tuesday
+4.0,2022-03-15,Tuesday,Atacadao Semana 2,Atacadão S.A.,501.4,2022.0,3.0,1,Alimentação,Mercado,Tuesday
+5.0,2022-03-18,Friday,Água (104 fardos),Malte Comercio de Bebidas,934.96,2022.0,3.0,1,Alimentação,Água,Friday
+6.0,2022-03-21,Monday,Água (176 fardos),Malte Comercio de Bebidas,1582.24,2022.0,3.0,1,Alimentação,Água,Monday
+7.0,2022-03-21,Monday,Gás,Glória Gás,210.0,2022.0,3.0,4,ONG,Gás,Monday
+8.0,2022-03-21,Monday,Repolhos Semana 2,PFM & LC Supermercados,53.84,2022.0,3.0,1,Alimentação,Mercado,Monday
+9.0,2022-03-22,Tuesday,Atacadao Semana 3,Brasileiro Atacado SA,500.89,2022.0,3.0,1,Alimentação,Mercado,Tuesday
+10.0,2022-03-22,Tuesday,Atacadao Semana 3,Atacadão S.A.,667.31,2022.0,3.0,1,Alimentação,Mercado,Tuesday
+11.0,2022-03-26,Saturday,Remedio Morador,Drogasil,3.99,2022.0,3.0,7,Remédios,medicação,Saturday
+12.0,2022-03-29,Tuesday,Atacadao Semana 4,Brasileiro Atacado SA,678.71,2022.0,3.0,1,Alimentação,Mercado,Tuesday
+13.0,2022-03-29,Tuesday,Atacadao Semana 4,Atacadão S.A.,610.64,2022.0,3.0,1,Alimentação,Mercado,Tuesday
+14.0,2022-03-30,Wednesday,Gás,Glória Gás,264.32,2022.0,3.0,4,ONG,Gás,Wednesday
+15.0,2022-04-01,Friday,Salário Thiago (cozinheiro) ,,3000.0,2022.0,4.0,8,Salário,Pagamento Cozinheiro,Friday
+16.0,2022-04-01,Friday,Salário Cleverton (motorista),,3000.0,2022.0,4.0,8,Salário,Pagamento Motorista,Friday
+17.0,2022-04-04,Monday,Luz,Enel,245.36,2022.0,4.0,4,ONG,Luz,Monday
+18.0,2022-04-04,Monday,Água,Sabesp,60.22,2022.0,4.0,1,Alimentação,Água,Monday
+19.0,2022-04-04,Monday,Aluguel SEDE ONG  (vcto 05_04 - adiantei),Rizk Imobiliaria,3276.59,2022.0,4.0,2,Aluguel,ONG,Monday
+1.0,2022-02-01,Tuesday,Atacadao Semana 1,Atacadão S.A.,1306.87,2022.0,2.0,1,Alimentação,Mercado,Tuesday
+2.0,2022-02-04,Friday,Gás,Glória Gás,240.24,2022.0,2.0,4,ONG,Gás,Friday
+3.0,2022-02-09,Wednesday,Atacadao Semana 2,Atacadão S.A.,1103.73,2022.0,2.0,1,Alimentação,Mercado,Wednesday
+4.0,2022-02-12,Saturday,Atacadao Semana 3,PFM Supermercados,27.95,2022.0,2.0,1,Alimentação,Mercado,Saturday
+5.0,2022-02-16,Wednesday,Atacadao Semana 3,Brasileirao Atacadao,887.59,2022.0,2.0,1,Alimentação,Mercado,Wednesday
+6.0,2022-02-16,Wednesday,Água (50 fardos - teve aumento no valor),Bebidaria Nacional,487.5,2022.0,2.0,1,Alimentação,Água,Wednesday
+7.0,2022-02-17,Thursday,Água (225 fardos - teve aumento no valor),Bebidaria Nacional,2022.75,2022.0,2.0,1,Alimentação,Água,Thursday
+8.0,2022-02-19,Saturday,Embalagens para marmitas (2.500),Embalagens Vila Mariana,2000.0,2022.0,2.0,3,Descartáveis,Embalagens,Saturday
+9.0,2022-02-23,Wednesday,Atacadao Semana 4,Atacadão S.A.,628.5,2022.0,2.0,1,Alimentação,Mercado,Wednesday
+10.0,2022-02-23,Wednesday,Atacadao Semana 4,Atacadão S.A.,313.15,2022.0,2.0,1,Alimentação,Mercado,Wednesday
+11.0,2022-03-01,Tuesday,Luz sede,Enel,182.51,2022.0,3.0,4,ONG,Luz,Tuesday
+12.0,2022-03-01,Tuesday,Agua sede,Sabesp,58.29,2022.0,3.0,1,Alimentação,Água,Tuesday
+13.0,2022-03-01,Tuesday,Salário Thiago (cozinheiro) ,,3000.0,2022.0,3.0,8,Salário,Pagamento Cozinheiro,Tuesday
+14.0,2022-03-01,Tuesday,Salário Cleverton (motorista),,3000.0,2022.0,3.0,8,Salário,Pagamento Motorista,Tuesday
+15.0,2022-03-01,Tuesday,Aluguel SEDE ONG  (vcto 01_03 - adiantei),Rizk Imobiliaria,3276.59,2022.0,3.0,2,Aluguel,ONG,Tuesday
+1.0,2022-01-04,Tuesday,Atacadao Semana 1,Atacadão S.A.,1442.48,2022.0,1.0,1,Alimentação,Mercado,Tuesday
+2.0,2022-01-06,Thursday,Água (280 fardos),Bebidaria Nacional,2100.0,2022.0,1.0,1,Alimentação,Água,Thursday
+3.0,2022-01-07,Friday,Vegetais,Dia,37.99,2022.0,1.0,1,Alimentação,Mercado,Friday
+4.0,2022-01-08,Saturday,Embalagens para marmitas (2.500),Embalagens Vila Mariana,1250.0,2022.0,1.0,3,Descartáveis,Embalagens,Saturday
+5.0,2022-01-17,Monday,Atacadao Semana 2,Atacadão S.A.,1197.56,2022.0,1.0,1,Alimentação,Mercado,Monday
+6.0,2022-01-24,Monday,Atacadao Semana 3 (diminuimos um pouco),Atacadão S.A.,931.88,2022.0,1.0,1,Alimentação,Mercado,Monday
+7.0,2022-01-27,Thursday,Talheres (4 mil),R Motta Comercial Ltda,520.0,2022.0,1.0,3,Descartáveis,Talheres,Thursday
+8.0,2022-01-31,Monday,Luz sede,Enel,237.16,2022.0,1.0,4,ONG,Luz,Monday
+9.0,2022-01-31,Monday,Agua sede,Sabesp,59.91,2022.0,1.0,1,Alimentação,Água,Monday
+10.0,2022-01-31,Monday,Salário Thiago (cozinheiro) ,,3000.0,2022.0,1.0,8,Salário,Pagamento Cozinheiro,Monday
+11.0,2022-01-31,Monday,Salário Cleverton (motorista),,3000.0,2022.0,1.0,8,Salário,Pagamento Motorista,Monday
+12.0,2022-01-31,Monday,Aluguel SEDE ONG  (vcto 01_02 - adiantei),Rizk Imobiliaria,3276.59,2022.0,1.0,2,Aluguel,ONG,Monday
+1.0,2021-12-01,Wednesday,Aluguel SEDE ONG (vcto 01_12),Rizk Imobiliaria,2826.29,2021.0,12.0,2,Aluguel,ONG,Wednesday
+2.0,2021-12-02,Thursday,Atacadao Semana 1,Atacadão S.A.,1407.96,2021.0,12.0,1,Alimentação,Mercado,Thursday
+3.0,2021-12-06,Monday,Gás,Pompegas Comercio,212.0,2021.0,12.0,4,ONG,Gás,Monday
+4.0,2021-12-07,Tuesday,Água (250 fardos),Bebidaria Nacional,1875.0,2021.0,12.0,1,Alimentação,Água,Tuesday
+5.0,2021-12-08,Wednesday,Água (30 fardos),Bebidaria Nacional,225.0,2021.0,12.0,1,Alimentação,Água,Wednesday
+6.0,2021-12-08,Wednesday,Arroz,PFM &LC Supermercado,23.68,2021.0,12.0,1,Alimentação,Mercado,Wednesday
+7.0,2021-12-09,Thursday,Atacadao Semana 2,Atacadão S.A.,1409.47,2021.0,12.0,1,Alimentação,Mercado,Thursday
+8.0,2021-12-09,Thursday,Embalagens para marmitas (2.000),Embalagens Vila Mariana,1000.0,2021.0,12.0,3,Descartáveis,Embalagens,Thursday
+9.0,2021-12-17,Friday,Atacadao Semana 3 e 4,Atacadão S.A.,3074.58,2021.0,12.0,1,Alimentação,Mercado,Friday
+10.0,2021-12-21,Tuesday,Remedio para morador,Drogasil,13.9,2021.0,12.0,7,Remédios,medicação,Tuesday
+11.0,2021-12-21,Tuesday,Couve,PFM &LC Supermercado,32.96,2021.0,12.0,1,Alimentação,Mercado,Tuesday
+12.0,2021-12-21,Tuesday,Gás,Gasbom Tamuata,227.0,2021.0,12.0,4,ONG,Gás,Tuesday
+13.0,2021-12-28,Tuesday,Salário Thiago (cozinheiro) ,,3000.0,2021.0,12.0,8,Salário,Pagamento Cozinheiro,Tuesday
+14.0,2021-12-28,Tuesday,Salário Cleverton (motorista),,3000.0,2021.0,12.0,8,Salário,Pagamento Motorista,Tuesday
+15.0,2021-12-28,Tuesday,Luz,Enel,227.5,2021.0,12.0,4,ONG,Luz,Tuesday
+16.0,2021-12-29,Wednesday,Aluguel SEDE ONG (vcto 01_01 - adiantei),Rizk Imobiliaria,2826.29,2021.0,12.0,2,Aluguel,ONG,Wednesday
+1.0,2021-11-01,Monday,Embalagem marmitas,Emabalagens Vila MAriana,1600.0,2021.0,11.0,3,Descartáveis,Embalagens,Monday
+2.0,2021-11-02,Tuesday,Remedio Moradores,Drogasil,41.67,2021.0,11.0,7,Remédios,medicação,Tuesday
+3.0,2021-11-03,Wednesday,Aluguel SEDE ONG,Rizk Imobiliaria,3255.65,2021.0,11.0,2,Aluguel,ONG,Wednesday
+4.0,2021-11-03,Wednesday,Atacadao Semana 1,Atacadão S.A.,1972.98,2021.0,11.0,1,Alimentação,Mercado,Wednesday
+5.0,2021-11-04,Thursday,Gás,Maximo Gas,203.98,2021.0,11.0,4,ONG,Gás,Thursday
+6.0,2021-11-05,Friday,Regulador Gás,Prado Minimercado,32.5,2021.0,11.0,4,ONG,Outros,Friday
+7.0,2021-11-05,Friday,escarola e acelga,PFM & LC supermercado,71.23,2021.0,11.0,1,Alimentação,Mercado,Friday
+8.0,2021-11-06,Saturday,Atacadao Semana 2,Atacadão S.A.,1661.69,2021.0,11.0,1,Alimentação,Mercado,Saturday
+9.0,2021-11-09,Tuesday,Água fresca (140 engradados),Bebidaria Nacional,1050.0,2021.0,11.0,1,Alimentação,Água,Tuesday
+10.0,2021-11-10,Wednesday,Talheres 7 de 500,R.Motta Comercial,455.0,2021.0,11.0,3,Descartáveis,Talheres,Wednesday
+11.0,2021-11-17,Wednesday,Fralda moradores filhos,Drogasil,36.37,2021.0,11.0,5,Higiene,Higiene,Wednesday
+12.0,2021-11-18,Thursday,Atacadao Semana 3,Atacadão S.A.,1167.53,2021.0,11.0,1,Alimentação,Mercado,Thursday
+13.0,2021-11-23,Tuesday,Água fresca (140 engradados),Bebidaria Nacional,1050.0,2021.0,11.0,1,Alimentação,Água,Tuesday
+14.0,2021-11-25,Thursday,Atacadao Semana 4,Atacadão S.A.,1449.13,2021.0,11.0,1,Alimentação,Mercado,Thursday
+15.0,2021-12-01,Wednesday,Salário Thiago (cozinheiro) ,,3000.0,2021.0,12.0,8,Salário,Pagamento Cozinheiro,Wednesday
+16.0,2021-12-01,Wednesday,Salário Cleverton (motorista),,3000.0,2021.0,12.0,8,Salário,Pagamento Motorista,Wednesday
+17.0,2021-12-01,Wednesday,Luz vcto 28 nov,Enel,238.77,2021.0,12.0,4,ONG,Luz,Wednesday
+18.0,2021-12-01,Wednesday,agua vcto 09_dez,Sabesp,60.22,2021.0,12.0,1,Alimentação,Água,Wednesday
+1.0,2021-10-01,Friday,Aluguel SEDE ONG,Rizk Imobiliaria,3235.65,2021.0,10.0,2,Aluguel,ONG,Friday
+2.0,2021-10-01,Friday,Água sede,,58.29,2021.0,10.0,1,Alimentação,Água,Friday
+3.0,2021-10-01,Friday,Luz sede,,229.21,2021.0,10.0,4,ONG,Luz,Friday
+4.0,2021-10-01,Friday,Embalagens para marmitas (1300 unidades),Embalagens Vila Mariana,650.0,2021.0,10.0,3,Descartáveis,Embalagens,Friday
+5.0,2021-10-01,Friday,Embalagens para marmitas (1500 unidades),Embalagens Vila Mariana,750.0,2021.0,10.0,3,Descartáveis,Embalagens,Friday
+6.0,2021-10-01,Friday,Água fresca (140 engradados),Bebidaria Nacional,1050.0,2021.0,10.0,1,Alimentação,Água,Friday
+7.0,2021-10-02,Saturday,Atacadao Semana 1,Atacadão S.A.,1868.96,2021.0,10.0,1,Alimentação,Mercado,Saturday
+8.0,2021-10-07,Thursday,Shampoo morador,Drogasil,24.78,2021.0,10.0,5,Higiene,Higiene,Thursday
+9.0,2021-10-08,Friday,Água fresca (140 engradados),Bebidaria Nacional,1050.0,2021.0,10.0,1,Alimentação,Água,Friday
+10.0,2021-10-12,Tuesday,Atacadao Semana 2,Atacadão S.A.,1920.69,2021.0,10.0,1,Alimentação,Mercado,Tuesday
+11.0,2021-10-14,Thursday,Remedios morador,Drogasil,26.9,2021.0,10.0,7,Remédios,medicação,Thursday
+12.0,2021-10-14,Thursday,Arrumando Gás,Nicon,92.5,2021.0,10.0,6,Outros,ONG,Thursday
+13.0,2021-10-15,Friday,Água fresca (140 engradados),Bebidaria Nacional,1050.0,2021.0,10.0,1,Alimentação,Água,Friday
+14.0,2021-10-16,Saturday,Gás,glória gás,199.6,2021.0,10.0,4,ONG,Gás,Saturday
+15.0,2021-10-18,Monday,Atacadao Semana 3,Atacadão S.A.,1904.75,2021.0,10.0,1,Alimentação,Mercado,Monday
+16.0,2021-10-25,Monday,Remedios morador,Drogasil,25.18,2021.0,10.0,7,Remédios,medicação,Monday
+17.0,2021-10-26,Tuesday,Salário Thiago (cozinheiro) ,,3000.0,2021.0,10.0,8,Salário,Pagamento Cozinheiro,Tuesday
+18.0,2021-10-26,Tuesday,Salário Cleverton (motorista),,3000.0,2021.0,10.0,8,Salário,Pagamento Motorista,Tuesday
+19.0,2021-10-27,Wednesday,Atacadao Semana 4,Atacadão S.A.,2136.12,2021.0,10.0,1,Alimentação,Mercado,Wednesday
+20.0,2021-10-27,Wednesday,Água sede,,58.16,2021.0,10.0,1,Alimentação,Água,Wednesday
+21.0,2021-10-27,Wednesday,Luz sede,,241.51,2021.0,10.0,4,ONG,Luz,Wednesday
+22.0,2021-10-28,Thursday,Água fresca (140 engradados),Bebidaria Nacional,1050.0,2021.0,10.0,1,Alimentação,Água,Thursday
+23.0,2021-10-29,Friday,Remedios morador,Drogasil,68.84,2021.0,10.0,7,Remédios,medicação,Friday
+1.0,2021-09-02,Thursday,Fralda para morador de rua,Drogasil,75.8,2021.0,9.0,5,Higiene,Higiene,Thursday
+2.0,2021-09-03,Friday,Atacadao Semana 1 setembro,Atacadão S.A.,1369.65,2021.0,9.0,1,Alimentação,Mercado,Friday
+3.0,2021-09-03,Friday,Aluguel parcial SEDE ONG,Rizk Imobiliaria,1598.76,2021.0,9.0,2,Aluguel,ONG,Friday
+4.0,2021-09-06,Monday,Bombinha de ar para morado de rua,Drogasil,28.49,2021.0,9.0,7,Remédios,Medicação,Monday
+5.0,2021-09-06,Monday,Itens para Cozinha,Multi Nox Equipamentos,1225.22,2021.0,9.0,4,ONG,Outros,Monday
+6.0,2021-09-06,Monday,Itens para Cozinha,Multi Nox Equipamentos,289.0,2021.0,9.0,4,ONG,Outros,Monday
+7.0,2021-09-08,Wednesday,Água fresca (140 engradados),Bebidaria Nacional,1050.0,2021.0,9.0,1,Alimentação,Água,Wednesday
+8.0,2021-09-10,Friday,Atacadao Semana 2 setembro,Atacadão S.A.,2036.5,2021.0,9.0,1,Alimentação,Mercado,Friday
+9.0,2021-09-10,Friday,Complemento Carne - Semana 2 setembro,Casa de Carnes Machado,324.45,2021.0,9.0,1,Alimentação,Mercado,Friday
+10.0,2021-09-11,Saturday,Embalagens para marmitas (400 unidades),Comercio de Embalagens Sendai Ltda,218.4,2021.0,9.0,3,Descartáveis,Embalagens,Saturday
+11.0,2021-09-15,Wednesday,itens de higiene para moradores de rua,Cia brasileira de distribuicao exs,64.48,2021.0,9.0,5,Higiene,Higiene,Wednesday
+12.0,2021-09-17,Friday,Embalagens para marmitas (600 unidades),Embalagens Vila Mariana,300.0,2021.0,9.0,3,Descartáveis,Embalagens,Friday
+13.0,2021-09-18,Saturday,itens faltantes pro mercado,Chibrag Supermercado,37.84,2021.0,9.0,1,Alimentação,Mercado,Saturday
+14.0,2021-09-20,Monday,Arrumando fechadura da ong,Ayello,62.5,2021.0,9.0,6,Outros,ONG,Monday
+15.0,2021-09-20,Monday,Atacadao Semana 3 setembro,Atacadão S.A.,1776.8,2021.0,9.0,1,Alimentação,Mercado,Monday
+16.0,2021-09-21,Tuesday,Água fresca (140 engradados),Bebidaria Nacional,1050.0,2021.0,9.0,1,Alimentação,Água,Tuesday
+17.0,2021-09-22,Wednesday,2 Botijões de gás,Liquigas,189.6,2021.0,9.0,4,ONG,Gás,Wednesday
+18.0,2021-09-23,Thursday,Embalagens para marmitas (1000 unidades),Embalagens Vila Mariana,520.0,2021.0,9.0,3,Descartáveis,Embalagens,Thursday
+19.0,2021-09-25,Saturday,Atacadao Semana 4 setembro,Atacadão S.A.,1733.52,2021.0,9.0,1,Alimentação,Mercado,Saturday
+20.0,2021-09-29,Wednesday,Salário Thiago (cozinheiro) mês junho,,3000.0,2021.0,9.0,8,Salário,Pagamento Cozinheiro,Wednesday
+21.0,2021-09-29,Wednesday,Salário Cleverton (motorista),,3000.0,2021.0,9.0,8,Salário,Pagamento Motorista,Wednesday
+1.0,2021-08-03,Tuesday,Atacadao Semana 1 agosto,Atacadão S.A.,1042.56,2021.0,8.0,1,Alimentação,Mercado,Tuesday
+2.0,2021-08-06,Friday,Documentacao Cartório - parte 1,24 Subdistrito RCPN,261.75,2021.0,8.0,4,ONG,Documentos,Friday
+3.0,2021-08-09,Monday,Documentacao Cartório - parte 2,24 Subdistrito RCPN,84.25,2021.0,8.0,4,ONG,Documentos,Monday
+4.0,2021-08-09,Monday,Água fresca (70 engradados),Bebidaria Nacional,525.0,2021.0,8.0,1,Alimentação,Água,Monday
+5.0,2021-08-11,Wednesday,Ração e Shampoo para morador de rua,Cia Brasileira de Distribuicao,53.09,2021.0,8.0,5,Higiene,Higiene,Wednesday
+6.0,2021-08-11,Wednesday,Gás,Congás,226.14,2021.0,8.0,4,ONG,Gás,Wednesday
+7.0,2021-08-12,Thursday,Atacadao Semana 2 agosto,Atacadão S.A.,1096.17,2021.0,8.0,1,Alimentação,Mercado,Thursday
+8.0,2021-08-13,Friday,Certidões para assinatura de contrato,Risk Imobiliaria,100.0,2021.0,8.0,4,ONG,Documentos,Friday
+9.0,2021-08-18,Wednesday,Remédio para morador machucado,Drogasil,25.18,2021.0,8.0,7,Remédios,medicação,Wednesday
+10.0,2021-08-19,Thursday,Atacadao Semana 3 agosto,Atacadão S.A.,960.41,2021.0,8.0,1,Alimentação,Mercado,Thursday
+11.0,2021-08-19,Thursday,Água fresca (70 engradados),Bebidaria Nacional,525.0,2021.0,8.0,1,Alimentação,Água,Thursday
+12.0,2021-08-20,Friday,Autenticação dos documentos para o contrato do aluguel da Sede,Subdistrito RCPN,34.2,2021.0,8.0,4,ONG,Documentos,Friday
+13.0,2021-08-20,Friday,Copia da chave da casa Sede,Chaves de Ouro Caravelas,16.0,2021.0,8.0,4,ONG,outros,Friday
+14.0,2021-08-23,Monday,Fogão industrial de piso Invicto Fogões ,MB Shopp,2548.0,2021.0,8.0,4,ONG,Outros,Monday
+15.0,2021-08-23,Monday,Itens de higiene para moradores de rua,Drogasil,53.13,2021.0,8.0,5,Higiene,Higiene,Monday
+16.0,2021-08-24,Tuesday,Refrigerador Bastemp,Extra,2848.99,2021.0,8.0,4,ONG,Outros,Tuesday
+17.0,2021-08-24,Tuesday,Frete a mais do Fogão (tinham cobrado errado),MB Shopp,50.0,2021.0,8.0,4,ONG,Outros,Tuesday
+18.0,2021-08-24,Tuesday,Sacolas Plasticas - 1mil unidades,ARM Distribuidora,133.0,2021.0,8.0,3,Descartáveis,Sacolas,Tuesday
+19.0,2021-08-24,Tuesday,2 x Kit Colher Refeicao Com Guardanapo Embalado C/500 - Sopa,Kitys Comercio,317.8,2021.0,8.0,3,Descartáveis,Talheres,Tuesday
+20.0,2021-08-24,Tuesday,2 x Kit Colher Refeicao Com Guardanapo Embalado C/500 - Sopa,Kitys Comercio,317.8,2021.0,8.0,3,Descartáveis,Talheres,Tuesday
+21.0,2021-08-24,Tuesday,2 x Kit Colher Refeicao Com Guardanapo Embalado C/500 - Sopa,Kitys Comercio,317.8,2021.0,8.0,3,Descartáveis,Talheres,Tuesday
+22.0,2021-08-24,Tuesday,2 x Kit Colher Refeicao Com Guardanapo Embalado C/500 - Sopa,Kitys Comercio,317.8,2021.0,8.0,3,Descartáveis,Talheres,Tuesday
+23.0,2021-08-24,Tuesday,2 x Kit Colher Refeicao Com Guardanapo Embalado C/500 - Sopa,Kitys Comercio,317.8,2021.0,8.0,3,Descartáveis,Talheres,Tuesday
+24.0,2021-08-24,Tuesday,Kit 300 Marmitas De Alumínio Bandeja P/refeição 500ml M-120,Aparecida Comercio Varejista,156.89,2021.0,8.0,3,Descartáveis,Embalagens,Tuesday
+25.0,2021-08-24,Tuesday,Kit 300 Marmitas De Alumínio Bandeja P/refeição 500ml M-120,Aparecida Comercio Varejista,156.89,2021.0,8.0,3,Descartáveis,Embalagens,Tuesday
+26.0,2021-08-24,Tuesday,Kit 300 Marmitas De Alumínio Bandeja P/refeição 500ml M-120,Aparecida Comercio Varejista,156.89,2021.0,8.0,3,Descartáveis,Embalagens,Tuesday
+27.0,2021-08-26,Thursday,Atacadao semana 4 agosto,Atacadão S.A.,1447.49,2021.0,8.0,1,Alimentação,Mercado,Thursday
+28.0,2021-08-27,Friday,Freezer Horizontal 2 portas,Submarino,2789.1,2021.0,8.0,4,ONG,Outros,Friday
+29.0,2021-08-28,Saturday,Salário Thiago (cozinheiro) mês junho,,3000.0,2021.0,8.0,8,Salário,Pagamento Cozinheiro,Saturday
+29.0,2021-08-28,Saturday,Transporte Thiago (cozinheiro) mês junho,,105.0,2021.0,8.0,9,Transporte,Transporte,Saturday
+30.0,2021-08-28,Saturday,Salário Cleverton (motorista),,3000.0,2021.0,8.0,8,Salário,Pagamento Motorista,Saturday
+31.0,2021-08-30,Monday,2 Botijões pro fogão novo,Ultragaz,739.8,2021.0,8.0,4,ONG,Gás,Monday
+32.0,2021-08-31,Tuesday,Água fresca (70 engradados),Bebidaria Nacional,525.0,2021.0,8.0,1,Alimentação,Água,Tuesday
+1.0,2021-07-02,Friday,Água fresca (70 engradados),Bebidaria Nacional,525.0,2021.0,7.0,1,Alimentação,Água,Friday
+2.0,2021-07-03,Saturday,Atacadao Semana 1 julho,Atacadão S.A.,1189.2,2021.0,7.0,1,Alimentação,Mercado,Saturday
+3.0,2021-07-05,Monday,Remédios,Drogasil,42.11,2021.0,7.0,7,Remédios,medicação,Monday
+4.0,2021-07-05,Monday,Remédios,Drogasil,31.22,2021.0,7.0,7,Remédios,medicação,Monday
+5.0,2021-07-12,Monday,"Mercado Seg e Terca (12,13/07)",Ricoy,293.09,2021.0,7.0,1,Alimentação,Mercado,Monday
+6.0,2021-07-13,Tuesday,Balas de Goma para moradora vender no farol,Mania Bomboniere e artigos para,83.8,2021.0,7.0,1,Alimentação,Mercado,Tuesday
+7.0,2021-07-13,Tuesday,Paçoca para moradora vender no farol,Distribuidora de prod Aliment Marsil,101.96,2021.0,7.0,1,Alimentação,Mercado,Tuesday
+8.0,2021-07-13,Tuesday,Água fresca (70 engradados),Bebidaria Nacional,525.0,2021.0,7.0,1,Alimentação,Água,Tuesday
+9.0,2021-07-14,Wednesday,Gás,Congás,196.72,2021.0,7.0,4,ONG,Gás,Wednesday
+10.0,2021-07-14,Wednesday,Atacadao Semana 2 julho,Atacadão S.A.,845.6,2021.0,7.0,1,Alimentação,Mercado,Wednesday
+11.0,2021-07-16,Friday,Potinhos para chandelli,Embala Chame e-commerce Ltda ME,78.99,2021.0,7.0,3,Descartáveis,Embalagens,Friday
+12.0,2021-07-17,Saturday,Pão francês para o dia de creme,Panificadora Vinhos,70.68,2021.0,7.0,1,Alimentação,Mercado,Saturday
+13.0,2021-07-17,Saturday,Remédios para moradores de rua,Drogasil,144.79,2021.0,7.0,7,Remédios,medicação,Saturday
+14.0,2021-07-17,Saturday,Gasolina,R Tres Auto Posto,18.04,2021.0,7.0,9,Transporte,Combustivel,Saturday
+15.0,2021-07-18,Sunday,Atacadao Semana 3 julho,Sendas Distribuidora,1070.83,2021.0,7.0,1,Alimentação,Mercado,Sunday
+16.0,2021-07-19,Monday,Remedio e Fraldas,Droga Mix,256.73,2021.0,7.0,7,Remédios,medicação,Monday
+17.0,2021-07-21,Wednesday,Balas de Goma para moradora vender no farol,Mania Bomboniere e artigos para,125.7,2021.0,7.0,1,Alimentação,Mercado,Wednesday
+18.0,2021-07-21,Wednesday,Paçoca para moradora vender no farol,Distribuidora de prod Aliment Marsil,152.94,2021.0,7.0,1,Alimentação,Mercado,Wednesday
+19.0,2021-07-21,Wednesday,mil colheres,kitys - comercio de descartaveis,317.8,2021.0,7.0,3,Descartáveis,Talheres,Wednesday
+20.0,2021-07-21,Wednesday,500 colheres,kitys - comercio de descartaveis,158.96,2021.0,7.0,3,Descartáveis,Talheres,Wednesday
+21.0,2021-07-21,Wednesday,Água fresca (70 engradados),Bebidaria Nacional,525.0,2021.0,7.0,1,Alimentação,Água,Wednesday
+22.0,2021-07-21,Wednesday,Chupeta para criancas,Drogasil,27.98,2021.0,7.0,6,Outros,Outros,Wednesday
+23.0,2021-07-22,Thursday,Kit 300 marmitas,Jonatas Ferreira,154.98,2021.0,7.0,3,Descartáveis,Embalagens,Thursday
+24.0,2021-07-22,Thursday,Kit 300 marmitas,Jonatas Ferreira,154.98,2021.0,7.0,3,Descartáveis,Embalagens,Thursday
+25.0,2021-07-24,Saturday,Molho de tomate para macarrão,Supermercado Aki Tudo,14.4,2021.0,7.0,1,Alimentação,Mercado,Saturday
+26.0,2021-07-26,Monday,Legumes,Dia Suoermercados,27.9,2021.0,7.0,1,Alimentação,Mercado,Monday
+27.0,2021-07-26,Monday,Uber para entregar as marmitas ,99 Taxi,27.8,2021.0,7.0,9,Transporte,Transporte,Monday
+28.0,2021-07-27,Tuesday,Legumes e milho,DIA Suoermercados,91.09,2021.0,7.0,1,Alimentação,Mercado,Tuesday
+29.0,2021-07-28,Wednesday,Atacadao Semana 4  julho,Atacadão Ipiranga,829.41,2021.0,7.0,1,Alimentação,Mercado,Wednesday
+30.0,2021-07-28,Wednesday,Garrafa termina para levarmos achocolatado,"Rinaldo Morais Fieri, LTDA",69.99,2021.0,7.0,4,ONG,Outros,Wednesday
+31.0,2021-07-28,Wednesday,Salário Thiago (cozinheiro) mês junho,,3000.0,2021.0,7.0,8,Salário,Pagamento Cozinheiro,Wednesday
+31.0,2021-07-28,Wednesday,Transporte Thiago (cozinheiro) mês junho,,105.0,2021.0,7.0,9,Transporte,Transporte,Wednesday
+32.0,2021-07-28,Wednesday,sacolas plasticas pros kits e ajudar no transporte,ARM DISTRIBUIDORA EMBALAGENS E PRODUTOS EM GERAL LTDA,72.88,2021.0,7.0,3,Descartáveis,Sacolas,Wednesday
+33.0,2021-07-30,Friday,Água fresca (70 engradados),Bebidaria Nacional,525.0,2021.0,7.0,1,Alimentação,Água,Friday
+34.0,2021-07-30,Friday,Balas e Paçoca para moradora vender,Marsil,92.18,2021.0,7.0,1,Alimentação,Mercado,Friday
+35.0,2021-07-30,Friday,Fraldas para moradora de rua,Droga Mix,89.4,2021.0,7.0,5,Higiene,Higiene,Friday
+36.0,2021-07-31,Saturday,1 mil marmitas + fio para casa de um ex morador de rua,,835.9,2021.0,7.0,6,Outros,Outros,Saturday
+1.0,2021-05-30,Sunday,Atacadao Semana 1 junho,Sendas Distribuidora,872.71,2021.0,5.0,1,Alimentação,Mercado,Sunday
+2.0,2021-05-31,Monday,Água fresca (70 engradados),Bebidaria Nacional,525.0,2021.0,5.0,1,Alimentação,Água,Monday
+3.0,2021-06-03,Thursday,"Remédio, homem machucado",Drogasil,61.66,2021.0,6.0,7,Remédios,medicação,Thursday
+4.0,2021-06-05,Saturday,20 Barracas de 2 lugares,Az Shopping,2600.0,2021.0,6.0,6,Outros,Barraca,Saturday
+5.0,2021-06-06,Sunday,Atacadao Semana 2 junho,Atacadão S.A.,952.3,2021.0,6.0,1,Alimentação,Mercado,Sunday
+6.0,2021-06-07,Monday,Remédios e itens de farmácia,Drogasil,237.14,2021.0,6.0,7,Remédios,medicação,Monday
+7.0,2021-06-09,Wednesday,Água fresca (70 engradados),Bebidaria Nacional,525.0,2021.0,6.0,1,Alimentação,Água,Wednesday
+8.0,2021-06-12,Saturday,Atacadao Semana 3 junho,Atacadão S.A.,1130.31,2021.0,6.0,1,Alimentação,Mercado,Saturday
+9.0,2021-06-15,Tuesday,Fraldas para doação,Drogasil,80.65,2021.0,6.0,5,Higiene,Higiene,Tuesday
+10.0,2021-06-16,Wednesday,Kit 300 Marmitas de Alumínio,Jonatas Ferreira JOTACELL EMBALAGENS,152.89,2021.0,6.0,3,Descartáveis,Embalagens,Wednesday
+11.0,2021-06-16,Wednesday,Kit 300 Marmitas de Alumínio,Jonatas Ferreira JOTACELL EMBALAGENS,152.89,2021.0,6.0,3,Descartáveis,Embalagens,Wednesday
+12.0,2021-06-16,Wednesday,Kit 300 Marmitas de Alumínio,Jonatas Ferreira JOTACELL EMBALAGENS,152.89,2021.0,6.0,3,Descartáveis,Embalagens,Wednesday
+13.0,2021-06-19,Saturday,Atacadao Semana 4 junho,Sendas Distribuidora,928.09,2021.0,6.0,1,Alimentação,Mercado,Saturday
+14.0,2021-06-19,Saturday,Água fresca (70 engradados),Bebidaria Nacional,525.0,2021.0,6.0,1,Alimentação,Água,Saturday
+15.0,2021-06-19,Saturday,Gás mês de maio,Congás,188.91,2021.0,6.0,4,ONG,Gás,Saturday
+16.0,2021-06-20,Sunday,20 Barracas de 2 lugares,Az Shopping,2600.0,2021.0,6.0,6,Outros,Barraca,Sunday
+17.0,2021-06-22,Tuesday,Kit 300 Marmitas de Alumínio,Jonatas Ferreira JOTACELL EMBALAGENS,154.98,2021.0,6.0,3,Descartáveis,Embalagens,Tuesday
+18.0,2021-06-22,Tuesday,1000 colheres embaladas,Kitys - Comercio de descartaveis embalados ltda,307.96,2021.0,6.0,3,Descartáveis,Talheres,Tuesday
+19.0,2021-06-22,Tuesday,500 colheres embaladas,Kitys - Comercio de descartaveis embalados ltda,153.98,2021.0,6.0,3,Descartáveis,Talheres,Tuesday
+20.0,2021-06-22,Tuesday,Kit 300 Marmitas de Alumínio,Jonatas Ferreira JOTACELL EMBALAGENS,154.98,2021.0,6.0,3,Descartáveis,Embalagens,Tuesday
+21.0,2021-06-24,Thursday,Paçoca para moradora vender no farol,Distribuidora de Prod Aliment Marsil Ltd,51.28,2021.0,6.0,1,Alimentação,Mercado,Thursday
+22.0,2021-06-24,Thursday,Balas para moradora vender no farol,Mania Bomboniere e Artigos Para,47.8,2021.0,6.0,1,Alimentação,Mercado,Thursday
+23.0,2021-06-25,Friday,Água fresca (70 engradados),Bebidaria Nacional,525.0,2021.0,6.0,1,Alimentação,Água,Friday
+24.0,2021-06-25,Friday,Atacadao Semana 5 junho,Atacadão S.A.,1234.24,2021.0,6.0,1,Alimentação,Mercado,Friday
+25.0,2021-06-25,Friday,Cestas Básicas,Atacadão S.A.,189.6,2021.0,6.0,1,Alimentação,Mercado,Friday
+26.0,2021-06-28,Monday,Batatas Palhas (esquecemos de pegar no atacadao),Lojas Americanas,24.95,2021.0,6.0,1,Alimentação,Mercado,Monday
+27.0,2021-07-06,Tuesday,Salário Thiago (cozinheiro) mês junho,,3000.0,2021.0,7.0,8,Salário,Pagamento Cozinheiro,Tuesday
+27.0,2021-07-06,Tuesday,Transporte Thiago (cozinheiro) mês junho,,105.0,2021.0,7.0,9,Transporte,Transporte,Tuesday
+,2021-04-30,Friday,Colheres - 500 unidades,Mercado livre - Kitys,151.98,2021.0,4.0,3,Descartáveis,Talheres,Friday
+,2021-05-03,Monday,Bandeja de Aluminui 500m - 200 unidades,Mercado Livre - Aparecida Comercio,99.99,2021.0,5.0,3,Descartáveis,Bandejas,Monday
+,2021-05-03,Monday,Bandeja de Aluminui 500m - 300 unidades,Mercado Livre,130.0,2021.0,5.0,3,Descartáveis,Bandejas,Monday
+,2021-05-03,Monday,Bandeja de Aluminui 500m - 300 unidades,Mercado Livre,130.0,2021.0,5.0,3,Descartáveis,Bandejas,Monday
+,2021-04-30,Friday,Comidas Domingo,Supermercado Aki Tudo,223.57,2021.0,4.0,1,Alimentação,Mercado,Friday
+,2021-05-02,Sunday,Atacadao Semana 1 maio,Ipiranga Atacadão,683.57,2021.0,5.0,1,Alimentação,Mercado,Sunday
+,2021-05-03,Monday,Emabalagens de Marmitas,Norpack comercio de embalagens,135.0,2021.0,5.0,3,Descartáveis,Embalagens,Monday
+,2021-05-04,Tuesday,Linguicas,Supermercado Aki Tudo,290.34,2021.0,5.0,1,Alimentação,Mercado,Tuesday
+,2021-05-08,Saturday,Atacadao Semana 2 maio,Ipiranga Atacadão,1148.59,2021.0,5.0,1,Alimentação,Mercado,Saturday
+,2021-05-12,Wednesday,100 cobertores para doação,Loja do Brás,1099.0,2021.0,5.0,10,Vestuário,Cobertores,Wednesday
+,2021-05-14,Friday,Água fresca (20 engradados),Bebidaria Nacional,150.0,2021.0,5.0,1,Alimentação,Água,Friday
+,2021-05-15,Saturday,Atacadao Semana 3 maio,Ipiranga Atacadão,786.76,2021.0,5.0,1,Alimentação,Mercado,Saturday
+,2021-05-21,Friday,Água fresca (70 engradados),Bebidaria Nacional,525.0,2021.0,5.0,1,Alimentação,Água,Friday
+,2021-05-22,Saturday,Atacadao Semana 4 maio,Sendas Distribuidora,824.98,2021.0,5.0,1,Alimentação,Mercado,Saturday
+,2021-05-23,Sunday,2 barracas de 4 lugares,Palacio das ferramentas e parafusos,355.76,2021.0,5.0,6,Outros,Barraca,Sunday
+,2021-05-23,Sunday,Colheres - 500 unidades,Mercado livre - Kitys,153.98,2021.0,5.0,3,Descartáveis,Talheres,Sunday
+,2021-05-26,Wednesday,2 barracas de 2 lugares,AZ Shopping,289.8,2021.0,5.0,6,Outros,Barraca,Wednesday
+,2021-05-26,Wednesday,2 kits de Colheres - 500 unidades,"(a nota ainda nao foi emitida, solicitando no mercado livre)",307.96,2021.0,5.0,3,Descartáveis,Talheres,Wednesday
+,2021-05-26,Wednesday,Emabalagens de Marmitas - 1500 unidades,"(a nota ainda nao foi emitida, solicitando no mercado livre)",669.95,2021.0,5.0,3,Descartáveis,Embalagens,Wednesday
+,2021-05-26,Wednesday,Emabalagem de marmitsa - 300 unidades,Norpak comercio de embalagem,225.0,2021.0,5.0,3,Descartáveis,Embalagens,Wednesday
+,2021-05-31,Monday,Salário Thiago (cozinheiro),,3000.0,2021.0,5.0,8,Salário,Pagamento Cozinheiro,Monday
+,2021-05-31,Monday,Transporte Thiago (cozinheiro),,105.6,2021.0,5.0,9,Transporte,Transporte,Monday
