@@ -1,0 +1,802 @@
+data_completa,data,semana,qtd_marmitas,cardapio,qtd_frango,qtd_carne,qtd_calabresa,qtd_linguica,qtd_arroz,qtd_feijao,qtd_macarao,ano,mes
+,2021-05-01,sábado,47,"arroz, feijao, farofa e carne com batata",,,,,,,,2021,5
+,2021-05-02,domingo,45,"Arroz, Strogonoff de frango e batata palha.",,,,,,,,2021,5
+,2021-05-03,segunda,46,"Arroz, feijao, farofa e carne com batata",,,,,,,,2021,5
+,2021-05-04,terça,44,"Arroz, feijao, farofa e carne de porco",,,,,,,,2021,5
+2021-05-05 13:33:27.124,2021-05-05,quarta,47,Macarrão com molho de linguiça.,,,,,,,,2021,5
+2021-05-06 13:56:41.880,2021-05-06,quinta,42,"Arroz, feijão, linguiça e batata sautee.",,,,,,,,2021,5
+2021-05-07 13:21:28.582,2021-05-07,sexta,43,"Arroz, Strogonoff de frango e batata palha",,,,,,,,2021,5
+2021-05-09 00:45:33.814,2021-05-08,sábado,49,"Arroz , feijão, frango e legumes.",,,,,,,,2021,5
+2021-05-09 11:46:44.531,2021-05-09,domingo,49,"Arroz, Strogonoff de frango e batata palha.",,,,,,,,2021,5
+2021-05-11 13:56:18.843,2021-05-11,terça,63,"Arroz,feijão, frango e abóbora.",,,,,,,,2021,5
+2021-05-12 22:33:20.360,2021-05-12,quarta,59,"Sopa abóbora, carne, cenoura, repolho e macarrão.",,,,,,,,2021,5
+2021-05-13 23:41:56.485,2021-05-13,quinta,59,"Arroz, feijão, carne panela e purê de abóbora.",,,,,,,,2021,5
+,2021-05-14,sexta,66,Macarrão com molho de linguiça.,,,,,,,,2021,5
+2021-05-15 20:46:21.452,2021-05-15,sábado,63,"Arroz, feijão, calabresa acebolada e salada(chuchu, abobrinha, cenoura e abóbora).",,,,,,,,2021,5
+2021-05-17 17:28:02.515,2021-05-17,segunda,60,"Arroz, Strogonoff de frango e batata palha.",,,,,,,,2021,5
+,2021-05-18,terça,53,"sopa de abóbora, feijão, repolho, cenoura, carne e macarrão",,,,,,,,2021,5
+2021-05-19 23:32:14.008,2021-05-19,quarta,62,"Arroz, feijão, frango e salada de repolho com cenoura.",,,,,,,,2021,5
+2021-05-20 20:10:45.246,2021-05-20,quinta,60,Macarrão com molho de calabresa e ragu de carne com frango.,,,,,,,,2021,5
+2021-05-22 00:16:44.071,2021-05-21,sexta,61,"Arroz, feijão, carne de panela e purê de abóbora cabotia.",,,,,,,,2021,5
+2021-05-22 16:01:14.444,2021-05-22,sábado,55,"Arroz, feijão, calabresa acebolada e salada de abobrinha com abóbora.",,,,,,,,2021,5
+,2021-05-24,segunda,55,Sopa de legumes com carne e macarrão,,,,,,,,2021,5
+2021-05-27 08:51:12.296,2021-05-25,terça,54,"Strogonoff de frango , arroz e batata palha.",,,,,,,,2021,5
+2021-05-27 08:52:00.828,2021-05-26,quarta,55,"Arroz, feijão,carne de panela e salada de cenoura com repolho.",,,,,,,,2021,5
+2021-05-27 13:09:13.243,2021-05-27,quinta,63,Macarrão com ragu de carne e frango.,,,,,,,,2021,5
+2021-05-29 05:50:01.365,2021-05-28,sexta,60,"Arroz, feijão, frango e purê de abóbora cobotia.",,,,,,,,2021,5
+2021-05-29 23:19:55.796,2021-05-29,sábado,67,"Arroz, feijão, calabresa acebolada e salada e abóbora com abobrinha.",,,,,,,,2021,5
+2021-06-01 12:16:35.466,2021-05-31,Segunda,58,"Sopa de frango, cenoura, repolho e macarrão.",5.0,,,,,,2.0,2021,5
+2021-06-01 12:17:11.815,2021-06-01,Terça,55,"Arroz, Strogonoff de frango e batata palha.",5.0,,,,2.5,,,2021,6
+2021-06-02 15:33:57.028,2021-06-02,Quarta,63,"Arroz, feijão,salada repolho com cenoura e carne de panela.",,5.0,,,2.5,2.0,,2021,6
+,2021-06-03,Quinta,60,Macarrão com molho de frango e com ragu de frango e carne.,2.5,2.5,,,,,5.0,2021,6
+2021-06-04 00:25:14.823,2021-06-04,Sexta,60,"Arroz, feijão, carne panela e mix de legumes( abóbora, cenoura e abobrinha).",,5.0,,,2.5,2.0,,2021,6
+2021-06-06 13:04:29.549,2021-06-05,Sábado,68,"Arroz, feijão, purê abóbora cabotia e calabresa acebolada.",,,5.0,,2.5,2.0,,2021,6
+2021-06-07 23:40:33.883,2021-06-07,Segunda,60,"Arroz, Strogonoff de frango e batata palha.",5.0,,,,2.5,,,2021,6
+2021-06-08 14:11:44.137,2021-06-08,Terça,64,Macarrão com molho de frango.,5.0,,,,,,5.0,2021,6
+2021-06-09 19:35:02.279,2021-06-09,Quarta,60,"Arroz, feijão,carne de panela e salada de cenoura com repolho.",,5.0,,,2.5,2.0,,2021,6
+,2021-06-10,Quinta,60,"Arroz, feijão, salada de repolho com cenoura e calabresa.",,,5.0,,2.5,2.0,,2021,6
+2021-06-11 22:54:10.984,2021-06-11,Sexta,63,"Arroz, feijão,salada de cenoura com repolho e carne de panela.",,5.0,,,2.5,2.0,,2021,6
+2021-06-13 15:17:28.801,2021-06-12,Sábado,60,"Arroz, feijão, purê de abóbora com abobrinha  e frango/carne.",2.5,2.5,,,2.5,2.0,,2021,6
+2021-06-14 18:47:02.006,2021-06-14,Segunda,62,"Arroz, Strogonoff de frango e batata palha.",5.0,,,,2.5,,,2021,6
+2021-06-15 13:09:48.485,2021-06-15,Terça,55,"Arroz,feijão,salada de repolho com cenoura e frango com molho.",5.0,,,,2.5,2.0,,2021,6
+,2021-06-16,Quarta,62,Macarrão com molho de linguiça.,,,,5.0,,,5.0,2021,6
+2021-06-17 21:03:27.015,2021-06-17,Quinta,60,"Arroz,feijão,carne de panela e salada de cenoura com repolho.",,5.0,,,2.5,2.0,,2021,6
+2021-06-18 19:01:07.221,2021-06-18,Sexta,60,"Sopa de frango, abóbora, cenoura e macarrão.",5.0,,,,,,2.0,2021,6
+2021-06-19 21:47:53.821,2021-06-19,Sábado,60,"Arroz, feijão, carne de panela e salada de abóbora com abobrinha.",,5.0,,,2.5,2.0,,2021,6
+2021-06-21 18:21:20.519,2021-06-21,Segunda,60,"Arroz, Strogonoff de frango e batata palha.",5.0,,,,2.5,,,2021,6
+2021-06-22 17:36:38.735,2021-06-22,Terça,60,"Arroz, feijão, salada de repolho Col cenoura e calabresa acebolada.",,,5.0,,2.5,2.0,,2021,6
+2021-06-24 14:35:24.371,2021-06-23,Quarta,67,Macarrão com molho de frango.,5.0,,,,,,5.0,2021,6
+2021-06-24 14:36:24.318,2021-06-24,Quinta,60,"Arroz, feijão, salada de repolho e frango com cenoura.",5.0,,,,2.5,2.0,,2021,6
+,2021-06-25,Sexta,54,"Sopa de cenoura, repolho, abobrinha , carne e macarrão.",,5.0,,,,,2.0,2021,6
+,2021-06-26,Sábado,65,"Arroz, feijão, salada de repolho com cenoura e carne de panela.",,5.0,,,2.5,2.0,,2021,6
+2021-06-29 13:46:11.957,2021-06-28,Segunda,56,"Arroz, Strogonoff de frango e batata palha.",5.0,,,,2.5,,,2021,6
+2021-06-29 13:47:24.968,2021-06-29,Terça,62,"Arroz, feijão, picadinho de carne e farofa de banana.",,5.0,,,2.5,2.0,,2021,6
+2021-06-30 22:23:28.744,2021-06-30,Quarta,68,"Macarrão com molho de carne.
+",,5.0,,,,,5.0,2021,6
+2021-07-01 18:20:06.611,2021-07-01,Quinta,58,"Arroz,feijão, salada de repolho,cenoura ,tomate e picadinho de carne. ",,5.0,,,2.5,2.0,,2021,7
+2021-07-03 19:22:14.051,2021-07-02,Sexta,56,"Sopa de abóbora com mandioquinha , calabresa e macarrão.",,,5.0,,,,2.0,2021,7
+2021-07-03 19:22:54.068,2021-07-03,Sábado,58,"Arroz, feijão, salada de repolho e frango ao molho e azeitona.",5.0,,,,2.5,2.0,,2021,7
+2021-08-01 22:30:42.050,2021-07-05,Segunda,60,"arroz, strogonoff de frango e batata palha",5.0,,,,2.5,,,2021,7
+2021-08-01 22:31:30.524,2021-07-06,Terça,71,macarrao com molho de linguiça e azeitona,,,,5.0,,,5.0,2021,7
+2021-08-01 22:32:42.420,2021-07-07,Quarta,60,"arroz ,feijao picdinho de carne com azeitona e salada de repolho com cenoura.",,5.0,,,2.5,2.0,,2021,7
+2021-08-01 22:33:36.567,2021-07-08,Quinta,60,"arroz, feijao, picadinho de frango com azeitona e salada de repolho com cenoura.",5.0,,,,2.5,2.0,,2021,7
+2021-08-01 22:34:22.547,2021-07-09,Sexta,60,"arroz, feijao, carne com mandioquinha e banana.",,5.0,,,2.5,2.0,,2021,7
+2021-08-01 22:35:15.212,2021-07-10,Sábado,60,"sopa de frango com cenoura, repolho e macarrao.",5.0,,,,,,2.0,2021,7
+2021-08-01 22:36:06.328,2021-07-12,Segunda,60,"arroz, feijao, frango ensopado e legumes no vapor.",5.0,,,,2.5,2.0,,2021,7
+2021-08-01 22:37:02.175,2021-07-13,Terça,60,"arroz, feijao, picadinho de carne com frango e salada de repolho com cenoura.",2.5,2.5,,,2.5,2.0,,2021,7
+2021-08-01 22:38:05.341,2021-07-14,Quarta,76,macarrao com molho de linguiça e azeitonas.,,,,5.0,,,5.0,2021,7
+2021-08-01 22:39:09.620,2021-07-15,Quinta,63,"arroz, strogonoff de sobrecoxa de frango e batata palha.",5.0,,,,2.5,,,2021,7
+2021-08-01 22:40:31.523,2021-07-17,Sexta,83,creme de mandioquinha com calabresa e macarrao,,,5.0,,,,2.0,2021,7
+2021-08-01 22:41:12.953,2021-07-18,Sábado,67,"arroz, feijao, maionese e frango frito.",5.0,,,,2.5,2.0,,2021,7
+2021-08-01 22:42:01.074,2021-07-19,Segunda,60,"arroz, strogonoff de frango com champignon e batata palha.",5.0,,,,2.5,,,2021,7
+2021-08-01 22:42:54.172,2021-07-20,Terça,62,"arroz, feijao, pure de cabotia com leite de coco e picadinho de carne com azeitonas.",,5.0,,,2.5,2.0,,2021,7
+2021-08-01 22:43:38.340,2021-07-21,Quarta,65,macarrao com molho de frango e azeitona.,5.0,,,,,,5.0,2021,7
+2021-08-01 22:44:13.830,2021-07-22,Quinta,60,"arroz, feijao , calabresa e maionese.",,,5.0,,2.5,2.0,,2021,7
+2021-08-01 22:44:55.155,2021-07-23,Sexta,60,"sopa de frango com repolho , cenoura e macarrao.",5.0,,,,,,2.0,2021,7
+2021-08-01 22:45:25.081,2021-08-24,Sábado,70,macarrao com molho de frango.,5.0,,,,,,5.0,2021,8
+2021-08-01 22:46:14.510,2021-07-26,Segunda,60,"arroz, feijao, seleta de legumes e frango ensopado com azeitonas.",5.0,,,,2.5,2.0,,2021,7
+2021-08-01 22:47:17.710,2021-07-27,Terça,27,"salada de macarrao com cenoura, ervilha, milho, palmito, atum, sardinha e azeitonas.",,,,,,,5.0,2021,7
+2021-08-01 22:48:00.557,2021-07-28,Quarta,60,"arroz, strogonoff de frango , champignon e batata palha.",5.0,,,,2.5,,,2021,7
+2021-08-01 22:48:39.847,2021-07-29,Quinta,69,"sopa de mandioquinha com frango, cenoura e macarrao.",5.0,,,,,,2.0,2021,7
+2021-08-01 22:49:36.853,2021-07-30,Sexta,60,"arroz, feijao, picadinho de frango com azeitonas e salada de repolho com cenoura.",5.0,,,,2.5,2.0,,2021,7
+2021-08-01 22:50:15.575,2021-07-31,Sábado,60,"arroz, feijao preto, calabresa e mix de legumes e azeitonas.",,,5.0,,2.5,2.0,,2021,7
+2021-09-04 10:08:05.669,2021-08-03,Terça,56,"arroz, feijao, maionese e linguiça.",,,,5.0,2.5,2.0,,2021,8
+2021-09-04 10:09:00.327,2021-08-04,Quarta,62,"arroz, strogonoff de frango e batata palha.",5.0,,,,2.5,,,2021,8
+2021-09-04 10:09:40.034,2021-08-05,Quinta,63,macarrao com molho de carne.,,5.0,,,,,5.0,2021,8
+2021-09-04 10:10:51.364,2021-08-06,Sexta,56,"arroz, feijao, calabresa e salada de legumes.",,,5.0,,2.5,2.0,,2021,8
+2021-09-04 10:12:01.590,2021-08-07,Sábado,65,"arroz, feijao, picadinho de carne com azeitona e salada de repolho com cenoura.",,5.0,,,2.5,2.0,,2021,8
+2021-09-04 10:13:02.842,2021-08-09,Segunda,65,"arroz, feijao, salada de batata e molho e frango com azeitonas.",5.0,,,,2.5,2.0,,2021,8
+2021-09-04 10:13:49.502,2021-08-10,Terça,55,"arroz, feijao, maionese e linguiça.",,,,5.0,2.5,2.0,,2021,8
+2021-09-04 10:14:31.950,2021-08-11,Quarta,60,"arroz, feijao, frango frito de mandioca frita.",5.0,,,,2.5,2.0,,2021,8
+2021-09-04 10:15:07.144,2021-08-12,Quinta,61,"arroz, strogonoff de frango e batata palha.",5.0,,,,2.5,,,2021,8
+2021-09-04 10:15:52.503,2021-08-13,Sexta,55,"arroz, feijao, pure de mandioquinha com cenoura e calabresa.",,,5.0,,2.5,2.0,,2021,8
+2021-09-04 10:17:49.961,2021-08-14,Sábado,75,"salada de macarrao( sardinha, ervilha, cenoura, batata e azetonas).",,,,,,,5.0,2021,8
+2021-09-04 10:18:29.654,2021-08-16,Segunda,60,"arroz, feijao preto, mix de legumes e linguiça.",,,,5.0,2.5,2.0,,2021,8
+2021-09-04 10:19:04.581,2021-08-17,Terça,60,macarrao com molho de frango e azeitonas.,5.0,,,,,,5.0,2021,8
+2021-09-04 10:19:43.917,2021-08-18,Quarta,60,"arroz, feijao, carne louca de cupim e mandioca frita.",,5.0,,,2.5,2.0,,2021,8
+2021-09-04 10:21:17.131,2021-08-19,Quinta,65,"salada de macarrao (sardinha, ervilha, cenoura, azeitonas, brocolis e couve flor).",,,,,,,5.0,2021,8
+2021-09-04 10:22:18.367,2021-08-20,Sexta,60,"arroz, strogonoff de frango e batata palha.",5.0,,,,2.5,,,2021,8
+2021-09-04 10:23:21.574,2021-08-21,Sábado,60,"arroz, vinagrete de feijao fradinho, salada de grao de bico , cenoura, ervilha, e carne louca de cupim.",,5.0,,,2.5,2.0,,2021,8
+2021-09-04 10:24:01.006,2021-08-23,Segunda,60,"arroz, feijao, calabresa e salada de mandioca.",,,5.0,,2.5,2.0,,2021,8
+2021-09-04 10:24:39.708,2021-08-24,Terça,56,"arroz, feijao, maionese e linguiça.",,,,5.0,2.5,2.0,,2021,8
+2021-09-04 10:25:09.184,2021-08-25,Quarta,57,macarrao com molho de cupim.,,5.0,,,,,5.0,2021,8
+2021-09-04 10:25:49.688,2021-08-26,Quinta,64,"arroz, strogonoff de frango e batata palha.",5.0,,,,2.5,,,2021,8
+2021-09-04 10:26:58.165,2021-08-27,Sexta,56,"arroz, feijao, carne moida com azeitonas e batata e salada de repolho com cenoura e tomate.",,5.0,,,2.5,2.0,,2021,8
+2021-09-04 10:27:37.106,2021-08-28,Sábado,53,"arroz, feijao, salada de mandioca e carne louca de cupim.",,5.0,,,2.5,2.0,,2021,8
+2021-09-04 10:28:43.562,2021-08-30,Segunda,64,"salada de macarrao( cenoura, azeitonas, palmito, ervilha, sardinha e batata).",,,5.0,,,,5.0,2021,8
+2021-09-04 10:29:50.255,2021-08-31,Terça,55,"arroz, feijao branco, calabresa e salada de couve flor, brocolis, vagem e cenoura.",,,,,2.5,2.0,,2021,8
+,2021-08-31,Terça,55,macarrao com molho de cupim e azeitonas,,,,,,,,2021,8
+2021-09-30 23:46:52.882,2021-09-01,Quarta,53,"Arroz , feijão preto, salada de mandioca e linguiça.",,,,5.0,2.5,2.0,,2021,9
+2021-09-30 23:47:52.024,2021-09-02,Quinta,60,"Arroz,feijão, picadinho de frango e mix de salada.",5.0,,,,2.5,2.0,,2021,9
+2021-09-30 23:48:33.840,2021-09-03,Sexta,64,Macarrão com molho de almôndegas.,,5.0,,,,,5.0,2021,9
+2021-09-30 23:49:43.418,2021-09-04,Sábado,54,"Arroz, vinagrete de feijão fradinho, salada de mandioca e almôndegas.",,5.0,,,2.5,2.0,,2021,9
+2021-09-30 23:50:40.418,2021-09-06,Segunda,60,"Arroz, feijão, calabresa e salada de batata.",,,5.0,,2.5,2.0,,2021,9
+2021-09-30 23:51:09.098,2021-09-07,Terça,113,Salada de macarrão.,,,,,,,10.0,2021,9
+2021-09-30 23:51:47.202,2021-09-08,Quarta,100,"Arroz, strogonoff de frango e batata palha.",10.0,,,,5.0,,,2021,9
+2021-09-30 23:52:23.244,2021-09-09,Quinta,132,"Arroz, feijão, maionese e linguiça.",,,,10.0,5.0,4.0,,2021,9
+2021-09-30 23:53:08.546,2021-09-10,Sexta,60,"Arroz, feijão preto, vaca atolada e mix de legumes.",,10.0,,,5.0,4.0,,2021,9
+2021-09-30 23:54:02.128,2021-09-11,Sábado,75,"Arroz, feijão preto, calabresa com mandioca e mix de legumes.",,,10.0,,5.0,4.0,,2021,9
+2021-09-30 23:54:26.687,2021-09-13,Segunda,116,Salada de macarrão.,,,,,,,10.0,2021,9
+2021-09-30 23:55:13.185,2021-09-14,Terça,107,"Arroz com calabresa e bacon, purê de batata.",,,10.0,,5.0,,,2021,9
+2021-09-30 23:56:02.659,2021-09-15,Quarta,110,"Arroz feijão com calabresa, linguiça e maionese.",,,5.0,5.0,5.0,4.0,,2021,9
+2021-09-30 23:56:41.983,2021-09-16,Quinta,89,Macarrão com molho de almôndegas.,,10.0,,,,,10.0,2021,9
+2021-09-30 23:57:27.462,2021-09-17,Sexta,125,"Arroz, strogonoff de frango e batata palha.",10.0,,,,5.0,,,2021,9
+2021-09-30 23:58:06.813,2021-09-18,Sábado,110,"Arroz, feijão, salada de repolho e lombo de porco.",,10.0,,,5.0,4.0,,2021,9
+2021-09-30 23:58:48.661,2021-09-20,Segunda,116,"Arroz, feijão, linguiça e salada de repolho com cenoura.",,,,10.0,5.0,4.0,,2021,9
+2021-09-30 23:59:29.715,2021-09-21,Terça,126,"Arroz, feijão e frango com legumes.",10.0,,,,5.0,4.0,,2021,9
+2021-09-30 23:59:53.440,2021-09-22,Quarta,124,Salada de macarrão.,,,,,,,10.0,2021,9
+2021-10-01 00:00:18.848,2021-09-23,Quinta,149,"Arroz, strogonoff de frango e batata palha.",10.0,,,,5.0,,,2021,9
+2021-10-01 00:01:27.329,2021-09-24,Sexta,125,"Arroz, feijão preto, calabresa e salada de repolho com cenoura.",,,10.0,,5.0,4.0,,2021,9
+2021-10-01 00:01:58.207,2021-09-25,Sábado,110,Macarrão com molho de linguiça.,,,,10.0,,,10.0,2021,9
+2021-10-01 00:02:58.276,2021-09-27,Segunda,122,"Arroz, feijão preto, linguiça e purê de batata.",,,,10.0,5.0,4.0,,2021,9
+2021-10-01 00:03:42.259,2021-09-28,Terça,115,Salada de macarrão.,,,,,,,10.0,2021,9
+2021-10-01 00:04:42.133,2021-09-29,Quarta,105,"Arroz, feijão preto/carioca, e frango com legumes.",10.0,,,,5.0,4.0,,2021,9
+2021-10-01 00:05:04.260,2021-09-30,Quinta,125,"Arroz, strogonoff de frango e batata palha.",10.0,,,,5.0,,,2021,9
+2021-10-04 01:49:26.211,2021-10-01,Sexta,125,"Arroz, feijão, calabresa e salada de repolho.",,,10.0,,5.0,4.0,,2021,10
+2021-10-04 01:49:52.881,2021-10-02,Sábado,86,Macarrão com molho de linguiça.,,,,10.0,,,10.0,2021,10
+2021-11-14 14:24:23.548,2021-10-05,Terça,112,Salada de macarrao,,,,,,,10.0,2021,10
+2021-11-14 14:25:22.148,2021-10-06,Quarta,114,"arroz, strogonoff de frango, batata palha",10.0,,,,5.0,,,2021,10
+2021-11-14 14:26:12.332,2021-10-07,Quinta,115,"arroz, feijao, calabresa e pure de cenoura.",,,10.0,,5.0,4.0,,2021,10
+2021-11-14 14:27:07.423,2021-10-08,Sexta,115,"arroz, feijao, linguiça e creme de milho",,,,10.0,5.0,4.0,,2021,10
+2021-11-14 14:28:06.409,2021-11-09,Sábado,115,"arroz, feijao preto, picadinho frango e polenta.",10.0,,,,5.0,4.0,,2021,11
+2021-11-14 14:29:06.777,2021-10-11,Segunda,84,macarrao com molho de linguiça e polenta.,,,,10.0,,,10.0,2021,10
+2021-11-14 14:29:40.251,2021-10-12,Terça,97,salada de macarrao,,,,,,,10.0,2021,10
+2021-11-14 14:30:49.701,2021-10-13,Quarta,111,"arroz, strogonoff de frango e batata palha",10.0,,,,5.0,,,2021,10
+2021-11-14 14:31:46.452,2021-10-14,Quinta,133,arroz carreteiro e feijao tropeiro,,,,,5.0,4.0,,2021,10
+2021-11-14 14:32:42.812,2021-10-15,Sexta,105,"arroz, feijao, frango e creme de milho",10.0,,,,5.0,4.0,,2021,10
+2021-11-14 14:33:41.994,2021-10-16,Sábado,111,"arroz, feijao, linguiça e pure de beterraba",,,,10.0,5.0,4.0,,2021,10
+2021-11-14 14:34:17.892,2021-10-18,Segunda,90,macarrao com molho de frango,10.0,,,,,,10.0,2021,10
+2021-11-14 14:35:19.345,2021-10-19,Terça,111,"arroz, feijao, frango ensopado e creme de milho",10.0,,,,5.0,4.0,,2021,10
+2021-11-14 14:35:51.426,2021-10-20,Quarta,118,salada de macarrao,,,,,,,10.0,2021,10
+2021-11-14 14:38:37.920,2021-10-21,Quinta,108,"arroz, strogonoff de frango e batata palha",10.0,,,,5.0,,,2021,10
+2021-11-14 14:39:08.315,2021-10-22,Sexta,108,macarrao com molho de linguiça,,,,10.0,,,10.0,2021,10
+2021-11-14 14:39:43.021,2021-10-23,Sábado,112,"arroz, feijoada, farofa e couve",,,,,5.0,4.0,,2021,10
+2021-11-14 14:40:52.073,2021-10-25,Segunda,80,"arroz, feijoada, farofa e couve",,,,,5.0,4.0,,2021,10
+2021-11-14 14:41:39.349,2021-10-26,Terça,101,macarrao com molho de linguiça,,,,10.0,,,10.0,2021,10
+2021-11-14 14:42:27.087,2021-10-27,Quarta,99,salada de macarrao,,,,,,,10.0,2021,10
+2021-11-14 14:43:26.033,2021-10-28,Quinta,116,"arroz, strogonoff de frango e batata palha",10.0,,,,5.0,,,2021,10
+2021-11-14 14:44:12.958,2021-10-29,Sexta,117,"arroz, feijao preto, calabresa e pure de batata",,,10.0,,5.0,4.0,,2021,10
+2021-11-14 14:45:36.321,2021-10-30,Sábado,111,"arroz, feijao, calabresa e salada de inhame.",,,10.0,,5.0,4.0,,2021,10
+2021-11-30 17:54:54.536,2021-11-01,Segunda,100,macarrao com molho de linguiça.,,,,10.0,,,10.0,2021,11
+,2021-11-02,Terça,122,"Arroz, salada de feijão fradinho, carne de porco e escabeche de berinjela",,10.0,,,5.0,4.0,,2021,11
+2021-11-30 17:55:34.260,2021-11-03,Quarta,116,salada de macarrao.,,,,,,,10.0,2021,11
+2021-11-30 17:56:12.465,2021-11-04,Quinta,112,"arroz, strogonoff de frango e batata palha.",10.0,,,,5.0,,,2021,11
+2021-11-30 17:56:49.442,2021-11-05,Sexta,123,"arroz, feijao, picadinho de carne e salada de acelga.",,10.0,,,5.0,4.0,,2021,11
+2021-11-30 17:57:24.479,2021-11-06,Sábado,110,"arroz, feijao preto, calabresa e salada de escarola.",,,10.0,,5.0,4.0,,2021,11
+2021-11-30 17:58:04.426,2021-11-09,Terça,104,macarrao com molho de linguiça,,,,10.0,,,10.0,2021,11
+2021-11-30 17:58:39.505,2021-11-10,Quarta,111,"arroz, feijao vermelho, carne de porco e salada de couve.",,10.0,,,5.0,4.0,,2021,11
+2021-11-30 17:59:28.751,2021-11-11,Quinta,112,"arroz, feijao, calabresa e pure de cenoura.",,,10.0,,5.0,4.0,,2021,11
+2021-11-30 18:00:09.144,2021-11-12,Sexta,114,"macarrao com molho de soja, milho, ervilha e azeitona.",,,,,,,10.0,2021,11
+2021-11-30 18:00:38.865,2021-11-13,Sábado,113,salada de macarrao.,,,,,,,10.0,2021,11
+2021-11-30 18:01:15.061,2021-11-15,Segunda,110,"arroz, strogonoff de frango e batata palha.",10.0,,,,5.0,,,2021,11
+2021-11-30 18:09:59.280,2021-11-16,Terça,108,"arroz feijao, salada de mandioca e almondegas de soja.",,,,,5.0,4.0,,2021,11
+2021-11-30 18:08:52.788,2021-11-17,Quarta,108,"arroz, feijao preto, carne de porco e slada de mandioca/acelga.",,10.0,,,5.0,4.0,,2021,11
+2021-11-30 18:10:25.820,2021-11-18,Quinta,93,arroz carrteiro e salada de batatas.,,5.0,,,5.0,,,2021,11
+2021-11-30 18:11:14.596,2021-11-19,Sexta,123,salada de macarrao.,,,,,,,10.0,2021,11
+2021-11-30 18:11:32.038,2021-11-20,Sábado,124,salada de macarrao.,,,,,,,10.0,2021,11
+2021-11-30 18:12:15.816,2021-11-22,Segunda,97,"macarrao mo molho de soja, ervilha . milho e azeitonas.",,,,,,,10.0,2021,11
+2021-11-30 18:12:54.269,2021-11-23,Terça,107,"arroz, strogonoff de frango de batata palha.",10.0,,,,5.0,,,2021,11
+2021-11-30 18:13:46.407,2021-11-24,Quarta,114,"arroz, feijao, carne de soja e salada de repolho.",,,,,5.0,4.0,,2021,11
+2021-11-30 18:14:10.848,2021-11-25,Quinta,121,salada de macarrao.,,,,,,,10.0,2021,11
+2021-11-30 18:14:56.134,2021-11-27,Sábado,112,"arroz, strogonoff de frango de batata palha.",10.0,,,,5.0,,,2021,11
+2021-11-30 18:15:39.586,2021-11-28,Domingo,82,arroz carreteiro e sadala de repolho.,,5.0,,,5.0,,,2021,11
+2021-11-30 18:16:12.955,2021-11-29,Segunda,100,"macarrao com molho de soja, ervilha e milho.",,,,,,,10.0,2021,11
+2021-11-30 19:59:45.266,2021-11-30,Terça,117,"arroz, feijao, polenta e molho de linguiça.",,,,10.0,5.0,4.0,,2021,11
+2021-12-29 21:41:24.169,2021-12-01,Quarta,109,"arroz, feijao preto, ovo mexido e carne de soja com molho.",,10.0,,,5.0,4.0,,2021,12
+2021-12-29 21:42:03.736,2021-12-02,Quinta,112,salada de macarrao.,,,,,,,10.0,2021,12
+2021-12-29 21:42:44.869,2021-12-03,Sexta,107,"arroz, strogonoff de frango e batata palha.",10.0,,,,5.0,,,2021,12
+2021-12-29 21:43:13.501,2021-12-04,Sábado,102,macarrao com molho de soja.,,,,,,,10.0,2021,12
+2021-12-29 21:44:11.935,2021-12-06,Segunda,97,"arroz, feijao ( preto e carioca), molho de linguiça e salada de repolho.",,,,10.0,5.0,4.0,,2021,12
+2021-12-29 21:44:46.238,2021-12-07,Terça,93,"arroz, feijao, salada de batatas e ovo mexido.",,,,,5.0,4.0,,2021,12
+2021-12-29 21:45:28.852,2021-12-08,Quarta,103,"arroz, feijao, salada de batatas e carne de porco.",,10.0,,,5.0,4.0,,2021,12
+2021-12-29 21:46:02.273,2021-12-09,Quinta,114,salada de macarrao.,,,,,,,10.0,2021,12
+2021-12-29 21:46:45.725,2021-12-10,Sexta,97,"macarrao com molho de soja, ervilha, milho e azeitonas.",,,,,,,10.0,2021,12
+2021-12-29 21:47:35.999,2021-12-13,Segunda,112,"arroz, strogonoff de frango e batata palha.",10.0,,,,5.0,,,2021,12
+2021-12-29 21:48:27.665,2021-12-14,Terça,107,"arroz, feijao(preto e carioca), carne vegetal e pure de cenoura.",,10.0,,,5.0,4.0,,2021,12
+2021-12-29 21:49:56.271,2021-12-15,Quarta,110,"arroz, feijao(preto e carioca), carne de soja e maionese.",,10.0,,,5.0,4.0,,2021,12
+2021-12-29 21:50:43.789,2021-12-16,Quinta,102,"arroz, feijao, carne de porco e salada de repolho /mandioca.",,10.0,,,5.0,4.0,,2021,12
+2021-12-29 21:51:10.398,2021-12-17,Sexta,109,salada de macarrao.,,,,,,,10.0,2021,12
+2021-12-29 21:51:41.738,2021-12-18,Sábado,107,"arroz, strogonoff de frango de batata palha.",10.0,,,,5.0,,,2021,12
+2021-12-29 21:52:38.909,2021-12-20,Segunda,104,"arroz, feijao, carne de soja e salada de acelga/mandioca.",,10.0,,,5.0,4.0,,2021,12
+2021-12-29 21:53:16.819,2021-12-21,Terça,115,"macarrao com molho de soja, milho, ervilha e azeitonas.",,,,,,,10.0,2021,12
+2021-12-29 21:54:08.692,2021-12-22,Quarta,107,"arroz temperado, feijao tropeiro, salpicao e pernil.",,10.0,,,5.0,4.0,,2021,12
+2021-12-29 21:54:45.508,2021-12-27,Segunda,100,salada de macarrao.,,,,,,,10.0,2021,12
+2021-12-29 21:55:18.863,2021-12-28,Terça,100,"arroz, strogonoff de frango e batata palha.",10.0,,,,5.0,,,2021,12
+2021-12-29 21:55:56.658,2021-12-29,Quarta,90,"arroz, feijao, carne de porco e salada de acelga.",,10.0,,,5.0,4.0,,2021,12
+2021-12-30 20:00:47.596,2021-12-30,Quinta,95,"Arroz com milho, vinagrete de feijão fradinho , maionese e lombo assado.",,10.0,,,5.0,4.0,,2021,12
+2022-02-01 00:36:06.791,2022-01-03,Segunda,100,"arroz carreteiro, feijao e farofa.",,,,,5.0,4.0,,2022,1
+2022-02-01 00:36:53.822,2022-01-04,Terça,112,salada de macarrao.,,,,,,,10.0,2022,1
+2022-02-01 00:39:03.579,2022-01-05,Quarta,105,"arroz, strogonoff de frango e batata palha.",10.0,,,,5.0,,,2022,1
+2022-02-01 00:39:47.211,2022-01-06,Quinta,118,"arroz, feijao, carne de soja e salada de batata.",,10.0,,,5.0,4.0,,2022,1
+2022-02-01 00:41:37.676,2022-01-07,Sexta,100,"arroz, feijao tropeiro e creme de milho.",,,,,5.0,4.0,,2022,1
+2022-02-01 00:43:48.540,2022-01-08,Sábado,105,"arroz, feijao tropeiro, mexido de ovo e farofa de cenoura com soja.",,,,,5.0,4.0,,2022,1
+2022-02-01 00:44:41.828,2022-01-17,Segunda,96,salada de macarrao.,,,,,,,10.0,2022,1
+2022-02-01 00:45:34.402,2022-01-18,Terça,101,"arroz, feijao, carne de porco e farofa de couve",,10.0,,,5.0,4.0,,2022,1
+2022-02-01 00:46:06.138,2022-01-19,Quarta,103,"arroz, strogonoff de frango de batata palha.",10.0,,,,5.0,,,2022,1
+2022-02-01 00:46:41.848,2022-01-20,Quinta,103,"arroz, feijao, carne de soja e pure de batata.",,10.0,,,5.0,4.0,,2022,1
+2022-02-01 00:47:25.737,2022-01-21,Sexta,106,"arroz, feijao preto, calabresa e farofa de soja.",,,10.0,,5.0,4.0,,2022,1
+2022-02-01 00:48:31.607,2022-01-22,Sábado,103,"arroz, feijao preto, creme de milho e ovos com bacon.",,,,,5.0,4.0,,2022,1
+2022-02-01 00:49:13.728,2022-01-24,Segunda,97,salada de macarrao.,,,,,,,10.0,2022,1
+2022-02-01 00:49:53.507,2022-01-25,Terça,80,"arroz, feijao, carne de soja e salada de batata com cenoura.",,10.0,,,5.0,4.0,,2022,1
+2022-02-01 00:50:50.065,2022-01-26,Quarta,102,"arroz, feijao, calabresa e salada de repolho/batata e cenoura.",,,10.0,,5.0,4.0,,2022,1
+2022-02-01 00:51:19.174,2022-01-27,Quinta,90,"arroz, strogonoff de frango e batata palha.",10.0,,,,5.0,,,2022,1
+2022-02-01 00:52:09.704,2022-01-28,Sexta,95,"arroz, feijao, polenta e molho de linguiça.",,,,10.0,5.0,4.0,,2022,1
+2022-02-01 00:53:02.108,2022-01-29,Sábado,95,"arroz, feijao preto, creme de erviha e farofa de calabresa com ovo.",,,10.0,,5.0,4.0,,2022,1
+2022-02-01 00:53:40.156,2022-01-31,Segunda,95,"arroz, feijao, carne de soja e salada de acelga.",,10.0,,,5.0,4.0,,2022,1
+2022-03-01 23:16:00.024,2022-02-01,Terça,95,"arroz , strogonoff de frango e batata palha.",10.0,,,,5.0,,,2022,2
+2022-03-01 23:19:23.497,2022-02-03,Quinta,86,"arroz, feijao, carne de soja e salada de acelga.",,10.0,,,5.0,4.0,,2022,2
+2022-03-01 23:20:03.415,2022-02-04,Sexta,97,arroz com frango e mexido de feijao.,10.0,,,,5.0,4.0,,2022,2
+2022-03-01 23:21:05.367,2022-02-07,Segunda,80,"arroz, feijao, carne louca de pernil e pure de batata doce.",,10.0,,,5.0,4.0,,2022,2
+2022-03-01 23:22:02.240,2022-02-08,Terça,85,"arroz, feijao preto, peru e creme de abobora.",10.0,,,,5.0,4.0,,2022,2
+2022-03-01 23:22:44.446,2022-02-09,Quarta,85,salada de macarrao.,,,,,,,10.0,2022,2
+2022-03-01 23:23:27.254,2022-02-10,Quinta,90,"arroz, strogonoff de frango e batata palha.",10.0,,,,5.0,4.0,,2022,2
+2022-03-01 23:24:47.929,2022-02-11,Sexta,98,"arroz, feijao, calabresa e maionese.",,,10.0,,5.0,4.0,,2022,2
+2022-03-01 23:25:27.370,2022-02-12,Sábado,78,macarrao com molho de soja.,,,,,,,10.0,2022,2
+2022-03-01 23:26:04.037,2022-02-14,Segunda,88,"arroz, feijao, pure de batata e pernil.",,10.0,,,5.0,4.0,,2022,2
+2022-03-01 23:26:38.749,2022-02-15,Terça,84,"arroz, feijao, mix de legumes e pernil.",,10.0,,,5.0,4.0,,2022,2
+2022-03-01 23:27:08.701,2022-02-16,Quarta,100,salada de macarrao.,,,,,,,10.0,2022,2
+2022-03-01 23:27:49.170,2022-02-17,Quinta,100,arroz strogonoff de frango de batata palha.,10.0,,,,5.0,,,2022,2
+2022-03-01 23:28:23.270,2022-03-18,Sexta,85,"arroz, feijao, carne de soja e farofa de legumes.",,10.0,,,5.0,4.0,,2022,3
+2022-03-01 23:29:02.736,2022-02-19,Sábado,95,arroz carreteiro e feijao tropeiro.,,,,,5.0,4.0,,2022,2
+2022-03-01 23:29:35.340,2022-02-21,Segunda,99,"arroz, feijao, calabresa e creme de milho.",,,10.0,,5.0,4.0,,2022,2
+2022-03-01 23:30:11.140,2022-02-22,Terça,91,"arroz, feijao preto, polenta e frango ensopado.",10.0,,,,5.0,4.0,,2022,2
+2022-03-01 23:30:43.385,2022-02-23,Quarta,97,salada de macarrao.,,,,,,,10.0,2022,2
+2022-03-01 23:31:21.444,2022-02-24,Quinta,101,"arroz, strogonoff de frango e batata palha.",10.0,,,,5.0,,,2022,2
+2022-03-01 23:31:54.224,2022-02-25,Sexta,93,"arroz, feijao, carne de porco e salada de repolho.",,10.0,,,5.0,4.0,,2022,2
+2022-03-01 23:32:47.839,2022-02-26,Sábado,92,"arroz, feijao, carne de soja e pure de abobora.",,10.0,,,5.0,4.0,,2022,2
+2022-03-01 23:33:36.790,2022-02-28,Segunda,90,"arroz, feijao, pure de batata e frango ensopado.",10.0,,,,5.0,4.0,,2022,2
+2022-04-01 01:49:05.085,2022-03-01,,87,salada de macarrao.,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2022,3
+2022-04-01 01:49:46.433,2022-03-02,,110,"arroz, strogonoff de frango e batata palha.",10.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,3
+2022-04-01 01:50:41.400,2022-03-03,,83,"arroz, feijao, carne de soja e abobrinha refogada.",0.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,3
+2022-04-01 01:51:27.984,2022-03-04,,83,"arroz, feijao, pure de batata e frango.",10.0,0.0,0.0,0.0,5.0,4.0,0.0,2022,3
+2022-04-01 01:52:14.733,2022-03-05,,94,"arroz, feijao, carne e batata.",0.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,3
+2022-04-01 01:53:08.279,2022-03-07,,84,"arroz, feijao, carne de porco e salada de repolho.",0.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,3
+2022-04-01 01:53:53.337,2022-03-08,,91,salada de macarrao.,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2022,3
+2022-04-01 01:54:36.764,2022-03-09,,86,"arroz, feijao, carne de soja e salada de batata.",0.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,3
+2022-04-01 01:55:38.715,2022-03-10,,94,"arroz, feijao, carne moida com batata e farofa de abobrinha.",0.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,3
+2022-04-01 01:56:20.285,2022-03-11,,93,"arroz, feijao,pernil  e pure de batata doce.",0.0,0.0,0.0,0.0,5.0,4.0,0.0,2022,3
+2022-04-01 01:56:58.412,2022-03-12,,97,"arroz, strogonoff de frango e batata palha.",10.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,3
+2022-04-01 01:57:27.030,2022-03-14,,101,"arroz, feijao, frango e creme de milho.",10.0,0.0,0.0,0.0,5.0,4.0,0.0,2022,3
+2022-04-01 01:57:53.285,2022-03-15,,100,salada de macarrao.,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2022,3
+2022-04-01 01:58:26.569,2022-03-16,,100,"arroz, feijao, carne de soja e pure de batata doce.",0.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,3
+2022-04-01 01:59:04.796,2022-03-17,,100,macarrao com molho de carne moida.,0.0,10.0,0.0,0.0,0.0,0.0,10.0,2022,3
+2022-04-01 01:59:42.171,2022-03-18,,98,"arroz, feijao, carne de porco e pure de batata doce.",0.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,3
+2022-04-01 02:00:14.230,2022-03-19,,103,"arroz, strogonoff de frango e batata palha.",10.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,3
+2022-04-01 02:00:51.732,2022-03-21,,98,"arroz, feijao, frango e salada de repolho.",10.0,0.0,0.0,0.0,5.0,4.0,0.0,2022,3
+2022-04-01 02:01:59.914,2022-03-22,,105,salada de macarrao.,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2022,3
+2022-04-01 02:02:32.114,2022-03-23,,107,"arroz, strogonoff de frango e batata palha.",10.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,3
+2022-04-01 02:02:57.829,2022-03-24,,80,macarrao com carne moida.,0.0,10.0,0.0,0.0,0.0,0.0,10.0,2022,3
+2022-04-01 02:03:36.206,2022-03-25,,110,"arroz carreteiro, feijao e pure de batata.",0.0,0.0,0.0,0.0,5.0,4.0,0.0,2022,3
+2022-04-01 02:04:07.723,2022-03-26,,80,"arroz, feijao, carne de soja e pure de batata doce.",0.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,3
+2022-04-01 02:04:59.490,2022-03-28,,114,"arroz, feijao, polenta/pure de batata doce e molho de frango.",10.0,0.0,0.0,0.0,5.0,4.0,0.0,2022,3
+2022-04-01 02:05:35.566,2022-03-29,,84,salada de macarrao.,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2022,3
+2022-04-01 02:06:31.526,2022-03-30,,109,"arroz, strogonoff de frango e batata palha.",10.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,3
+2022-04-01 02:07:01.457,2022-03-31,,75,macarrao com carne moida.,0.0,10.0,0.0,0.0,0.0,0.0,10.0,2022,3
+2022-05-02 21:25:24.636,2022-04-01,,103,"arroz, feijao, carne de soja e pure de batata.",0.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,4
+2022-05-02 21:26:28.851,2022-04-02,,89,"arroz, feijao, frango e creme de milho.",10.0,0.0,0.0,0.0,5.0,4.0,0.0,2022,4
+2022-05-02 21:27:52.906,2022-04-04,,107,"arroz carreteiro,feijao e creme de milho, batata doce.",0.0,0.0,0.0,0.0,5.0,4.0,0.0,2022,4
+2022-05-02 21:28:21.445,2022-04-05,,90,salada de macarrao.,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2022,4
+2022-05-02 21:30:11.156,2022-04-06,,91,"arroz, feijao, carne e batata.",0.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,4
+2022-05-02 21:31:00.817,2022-04-07,,146,macarrao com molho de frango.,10.0,0.0,0.0,0.0,0.0,0.0,10.0,2022,4
+2022-05-02 21:31:41.951,2022-04-11,,92,"arroz, feijao, carne de soja e creme de ervilha.",0.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,4
+2022-05-02 21:32:37.220,2022-04-12,,86,"arroz, feijao, carne louca de pernil e pure de batata doce.",0.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,4
+2022-05-02 21:33:20.636,2022-04-14,,94,salada de macarrao.,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2022,4
+2022-05-02 21:34:09.748,2022-04-15,,95,"arroz, strogonoff de frango e batata palha.",10.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,4
+2022-05-02 21:35:26.160,2022-04-19,,85,"arroz, feijao, carne de soja e salada de repolho.",0.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,4
+2022-05-02 21:36:02.645,2022-04-20,,87,"arroz, feijao, carne moida e batata.",0.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,4
+2022-05-02 21:36:52.611,2022-04-21,,73,"arroz, feijao, carne moida com repolho e pure de batata doce.",0.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,4
+2022-05-02 21:37:46.538,2022-04-22,,62,"arroz, feijao, creme de milho e salada de batata.",0.0,0.0,0.0,0.0,5.0,4.0,0.0,2022,4
+2022-05-02 21:38:33.359,2022-04-23,,65,"arroz, feijao, carne de soja com frango e pure de abobora.",10.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,4
+2022-05-02 21:39:19.536,2022-04-25,,62,"arroz, feijao, carne de porco com batata doce e salada de repolho.",0.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,4
+2022-05-02 21:39:58.437,2022-04-26,,82,"arroz, feijao, carne moida e salada de repolho.",0.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,4
+2022-05-02 21:40:35.657,2022-04-27,,99,"arroz, feijao, polenta e molho de frango.",10.0,0.0,0.0,0.0,5.0,4.0,0.0,2022,4
+2022-05-02 21:41:15.342,2022-04-28,,85,"arroz, strogonoff de frango e batata palha.",10.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,4
+2022-05-02 21:41:50.331,2022-04-29,,81,"arroz, feijao, frango e farofa de legumes.",10.0,0.0,0.0,0.0,5.0,4.0,0.0,2022,4
+2022-05-31 20:09:20.631,2022-05-02,,96,"arroz, feijao, carne soja com frango e farora/creme de abobora.",10.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,5
+2022-05-31 20:10:04.198,2022-05-03,,60,"arroz, feijao, carne de porco e salada de repolho.",0.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,5
+2022-05-31 20:18:00.134,2022-05-04,,81,salada de macarrao,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2022,5
+2022-05-31 20:18:49.132,2022-05-05,,78,"arroz, strogonoff de frango, e batata palha.",10.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,5
+2022-05-31 20:19:24.468,2022-05-06,,84,"arroz, feijao, frango e creme de milho.",10.0,0.0,0.0,0.0,5.0,4.0,0.0,2022,5
+2022-05-31 20:19:59.835,2022-05-07,,84,macarrao com carne moida e repolho.,0.0,10.0,0.0,0.0,0.0,0.0,10.0,2022,5
+2022-05-31 20:20:40.041,2022-05-09,,77,"arroz, feijao, frango e maionese.",10.0,0.0,0.0,0.0,5.0,4.0,0.0,2022,5
+2022-05-31 20:21:12.508,2022-05-10,,82,"arroz, feijao, soja e pure de batata doce.",0.0,0.0,0.0,0.0,5.0,4.0,0.0,2022,5
+2022-05-31 20:21:53.052,2022-05-11,,89,"arroz, feijao, carne de porco e salada de repolho/pure de batata doce.",0.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,5
+2022-05-31 20:22:21.469,2022-05-12,,78,"arroz, strogonoff de frango e batata palha.",10.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,5
+2022-05-31 20:22:59.544,2022-05-13,,79,"arroz, feijao, frango e farofa de legumes.",10.0,0.0,0.0,0.0,5.0,4.0,0.0,2022,5
+2022-05-31 20:23:28.444,2022-05-14,,81,salada de macarrao.,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2022,5
+2022-05-31 20:24:05.319,2022-05-16,,85,"arroz, feijao preto, frango e farofa de legumes.",10.0,0.0,0.0,0.0,5.0,4.0,0.0,2022,5
+2022-05-31 20:25:32.767,2022-05-17,,78,"arroz, feijao preto, carne moida e pure de cabotia.",0.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,5
+2022-05-31 20:26:14.937,2022-05-18,,79,"arroz, feijao preto, ovo mexido e pure de batata doce.",0.0,0.0,0.0,0.0,5.0,4.0,0.0,2022,5
+2022-05-31 20:26:49.962,2022-05-19,,72,"arroz com frango , feijao preto e polenta.",10.0,0.0,0.0,0.0,5.0,4.0,0.0,2022,5
+2022-05-31 20:27:29.695,2022-05-20,,89,"arroz, strogonoff de frango e batata palha.",10.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,5
+2022-05-31 20:28:06.977,2022-05-21,,79,salada de macarrao.,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2022,5
+2022-05-31 20:28:50.613,2022-05-23,,84,"arroz, feijao, carne moida e salada de acelga.",0.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,5
+2022-05-31 20:29:34.554,2022-05-24,,86,"arroz, strogonoff de frango e batata palha.",10.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,5
+2022-05-31 20:30:44.414,2022-05-25,,84,"arroz, feijao, ovo mexido e farofa de legumes.",0.0,0.0,0.0,0.0,5.0,4.0,0.0,2022,5
+2022-05-31 20:31:13.030,2022-05-26,,89,"arroz, feijao, calabresa e salada de beterraba.",0.0,0.0,10.0,0.0,5.0,4.0,0.0,2022,5
+2022-05-31 20:31:48.489,2022-05-27,,88,"arroz, feijao, carne louca de perbil e salada de couve.",0.0,10.0,0.0,0.0,5.0,4.0,0.0,2022,5
+2022-05-31 20:32:20.264,2022-05-28,,85,salada de macarrao.,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2022,5
+2022-05-31 20:32:55.796,2022-05-30,,86,"arroz, strogonoff de frango e batata palha.",10.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,5
+2022-05-31 20:33:30.275,2022-05-31,,68,"arroz, feojao, frango/moela e farofa, salada de cenoura.",10.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,5
+2022-06-30 23:03:32.542,2022-06-01,,66,"arroz, feijao, calabresa e salada de repolho/cenoura.",0.0,0.0,5.0,0.0,5.0,2.0,0.0,2022,6
+2022-06-30 23:04:19.739,2022-06-02,,67,"arroz, feijao, linguiça e pure de batata.",0.0,0.0,0.0,5.0,5.0,2.0,0.0,2022,6
+2022-06-30 23:05:05.989,2022-06-03,,65,"arroz, feijao, calabresa e creme de milho.",0.0,0.0,5.0,0.0,5.0,2.0,0.0,2022,6
+2022-06-30 23:05:34.966,2022-06-04,,76,salada de macarrao.,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2022,6
+2022-06-30 23:06:08.212,2022-06-06,,69,"arroz, strogonof de frango e batata palha.",6.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,6
+2022-06-30 23:06:51.582,2022-06-07,,67,"arroz, feijao, carne de soja e salada de beterraba.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,6
+2022-06-30 23:07:26.995,2022-06-08,,73,"arroz, feijao, carne moida e salada de batata doce.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,6
+2022-06-30 23:08:44.383,2022-06-09,,70,"arroz, feijao preto , moela e salada de beterraba / chucu.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,6
+2022-06-30 23:09:11.395,2022-06-10,,73,"arroz, feijoada e salada de couve.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,6
+2022-06-30 23:09:42.477,2022-06-11,,66,"arroz, feijoada e salada de couve.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,6
+2022-06-30 23:10:21.011,2022-06-13,,79,"arroz, feijao preto, frango e salada de cenoura.",6.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,6
+2022-06-30 23:11:04.430,2022-06-14,,64,"arroz, feijao preto, carne de porco e farofa de abobrinha.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,6
+2022-06-30 23:11:51.155,2022-06-15,,76,"arroz, feijao preto, carne de soja e salada de chucu.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,6
+2022-06-30 23:12:21.218,2022-06-16,,71,"arroz, strogonoff de frango e batata palha.",6.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,6
+2022-06-30 23:12:45.080,2022-06-17,,80,salada de macarrao.,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2022,6
+2022-06-30 23:14:07.134,2022-06-18,,73,"arroz, feijao preto, linguiça e creme de abobora.",0.0,0.0,0.0,5.0,5.0,2.0,0.0,2022,6
+2022-06-30 23:14:41.665,2022-06-20,,74,"arroz, feijao preto, carne moida de batata.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,6
+2022-06-30 23:15:28.667,2022-06-21,,85,"arroz, feijao preto, carne de soja e pure de batata doce.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,6
+2022-06-30 23:15:59.370,2022-06-22,,73,"arroz, strogonoff de frango e batata palha.",6.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,6
+2022-06-30 23:16:48.855,2022-06-23,,73,"arroz, feijao preto, frango e farofa de chuchu.",6.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,6
+2022-06-30 23:17:20.523,2022-06-27,,79,salada de macarrao.,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2022,6
+2022-06-30 23:17:53.797,2022-06-28,,70,"arroz, feijao preto, linguiça e polenta.",0.0,0.0,0.0,5.0,5.0,2.0,0.0,2022,6
+2022-06-30 23:18:26.332,2022-06-29,,67,"arroz, feijao preto, calabresa e farofa de cenoura.",0.0,0.0,5.0,0.0,5.0,2.0,0.0,2022,6
+2022-06-30 23:18:52.896,2022-06-30,,156,salada de macarrao.,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2022,6
+2022-07-31 19:52:17.606,2022-07-01,,118,"arroz, strogonoff de frango e batata palha.",6.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,7
+2022-07-31 19:53:03.066,2022-07-02,,71,macarrao a bolonhesa.,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2022,7
+2022-07-31 19:53:37.520,2022-07-04,,68,"arroz, strogonoff de frango e batata palha.",6.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,7
+2022-07-31 19:54:13.840,2022-07-05,,63,"arroz, feijao preto, moela e salada de repolho.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,7
+2022-07-31 19:54:56.425,2022-07-06,,58,"arroz, feijao preto, almondega e pure de batata doce.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,7
+2022-07-31 19:55:52.835,2022-07-07,,63,"arroz, feijao preto, carne de porco e farofa de abobrinha com cenoura.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,7
+2022-07-31 19:56:25.903,2022-07-08,,57,"arroz, feijao preto, calabresa e salada de batata.",0.0,0.0,5.0,0.0,5.0,2.0,0.0,2022,7
+2022-07-31 19:56:51.057,2022-07-09,,79,salada de macarrao.,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2022,7
+2022-07-31 19:57:30.127,2022-07-11,,61,"arroz, salada de feijao fradinho, moela e pure de batata.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,7
+2022-07-31 19:58:05.322,2022-07-12,,65,"arroz, feijao, bolinho de linguiça e coleslaw.",0.0,0.0,0.0,5.0,5.0,2.0,0.0,2022,7
+2022-07-31 19:59:09.133,2022-07-13,,63,"arroz, feijao, bolinho de linguiça/calabresa e coleslaw/ salada de beterraba.",0.0,0.0,5.0,5.0,5.0,2.0,0.0,2022,7
+2022-07-31 19:59:57.123,2022-07-14,,129,"arroz, strogonoff de frango e batata palha.",6.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,7
+2022-07-31 20:00:22.132,2022-07-15,,73,salada de macarrao.,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2022,7
+2022-07-31 20:01:05.494,2022-07-16,,62,"arroz, feijao, carne de soja e salada de beterraba.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,7
+2022-07-31 20:01:41.308,2022-07-18,,65,"arroz, salada de feijao fradinho, moela e salada de cenoura.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,7
+2022-07-31 20:02:06.929,2022-07-19,,76,salada de macarrao.,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2022,7
+2022-07-31 20:02:36.255,2022-07-20,,66,"arroz, feijao, carne moida e maionese.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,7
+2022-07-31 20:03:20.052,2022-07-21,,60,"arroz, strogonoff de frango e batata palha.",6.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,7
+2022-07-31 20:03:57.121,2022-07-22,,67,"arroz, feijao, frango e polenta.",6.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,7
+2022-07-31 20:04:33.078,2022-07-25,,67,"arroz, strogonoff de frango e batata palha.",6.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,7
+2022-07-31 20:05:23.570,2022-07-26,,65,"arroz, feijao, carne de soja e polenta.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,7
+2022-07-31 20:06:10.609,2022-07-27,,67,"arroz, feijao preto, carne moida e farofa de cenoura.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,7
+2022-07-31 20:06:34.541,2022-07-28,,75,salada de macarrao.,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2022,7
+2022-07-31 20:07:15.737,2022-07-29,,63,"arroz, feijao, pure de cabotia e carne de porco.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,7
+2022-08-31 16:56:36.617,2022-08-01,,75,arroz carreteiro e feijao tropeiro.,0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,8
+2022-08-31 16:57:22.242,2022-08-02,,63,"arroz, feijao, calabresa e farofa de cenoura.",0.0,0.0,5.0,0.0,5.0,2.0,0.0,2022,8
+2022-08-31 16:58:20.340,2022-08-03,,72,"arroz, feijao preto , carne de soja e polenta.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,8
+2022-08-31 16:59:22.751,2022-08-04,,110,macarrao a bolonhesa.,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2022,8
+2022-08-31 16:59:54.587,2022-08-05,,61,"arroz, strogonoff de frango e batata palha.",6.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,8
+2022-08-31 17:01:00.037,2022-08-06,,65,"arroz, feijao preto, moela  e espinafre com acelga.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,8
+2022-08-31 17:01:42.031,2022-08-08,,64,"arroz, feijao preto, soja e salada de acelga.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,8
+2022-08-31 17:02:10.212,2022-08-09,,66,"arroz, feijoada e vinagrete.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,8
+2022-08-31 17:02:47.231,2022-08-10,,66,"arroz, strogonoff de frango e batata palha.",6.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,8
+2022-08-31 17:03:38.829,2022-08-11,,61,macarrao a bolonhesa.,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2022,8
+2022-08-31 17:04:32.064,2022-08-12,,66,"arroz, feijao preto, linguiça e salada de repolho.",0.0,0.0,0.0,5.0,5.0,2.0,0.0,2022,8
+2022-08-31 17:05:13.298,2022-08-13,,65,"arroz, feijao preto, moela e maionese.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,8
+2022-08-31 17:05:56.053,2022-08-15,,66,"arroz, feijao preto, calabresa e vinagrete.",0.0,0.0,5.0,0.0,5.0,2.0,0.0,2022,8
+2022-08-31 17:06:40.133,2022-08-16,,70,"arroz, feijao preto, carne moida com repolho e salada de acelga.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,8
+2022-08-31 17:07:13.987,2022-08-17,,66,macarrao a bolonhesa.,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2022,8
+2022-08-31 17:07:48.340,2022-08-18,,63,"arroz, strogonoff de frango e batata palha.",6.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,8
+2022-08-31 17:08:18.394,2022-08-19,,70,"arroz, feijao preto, moela e salada de couve.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,8
+2022-08-31 17:09:18.268,2022-08-20,,76,"arroz carreteiro, salada de feijao fradinho, e creme de milho",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,8
+2022-08-31 17:10:39.289,2022-08-22,,66,"arroz, feijao preto, calabresa e salada de batata.",0.0,0.0,5.0,0.0,5.0,2.0,0.0,2022,8
+2022-08-31 17:11:17.690,2022-08-23,,67,"arroz, strogonoff de frango e batata palha.",6.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,8
+2022-08-31 17:12:04.737,2022-08-24,,65,"arroz, feijao preto, carne de soja e repolho refogado.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,8
+2022-08-31 17:12:37.198,2022-08-25,,133,macarrao a bolonhesa.,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2022,8
+2022-08-31 17:13:13.278,2022-08-26,,71,"arroz, feijao preto, moela e salada de batata.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,8
+2022-08-31 17:14:23.424,2022-08-29,,64,"arroz, strogonoff de frango e batata palha.",6.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,8
+2022-08-31 17:14:56.815,2022-08-30,,129,macarrao a bolonhesa.,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2022,8
+2022-08-31 17:15:47.096,2022-08-31,,68,"arroz, feijoada , vinagrete de acelga e couve.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,8
+2022-09-30 10:04:35.547,2022-09-01,,69,"arroz, feijao preto, carne moida e batata .",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,9
+2022-09-30 10:05:12.955,2022-09-02,,65,"arroz, feijao preto, calabresa e espinafre.",0.0,0.0,5.0,0.0,5.0,2.0,0.0,2022,9
+2022-09-30 10:06:26.055,2022-09-05,,68,"arroz, feijao preto, carne de soja e vinagrete de nabo.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,9
+2022-09-30 10:07:19.701,2022-09-06,,65,"arroz, feijao preto, pernil e salada de cenoura com vagem.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,9
+2022-09-30 10:08:08.539,2022-09-07,,64,"arroz, feijao preto,calabresa e salada de beterraba.",0.0,0.0,5.0,0.0,5.0,2.0,0.0,2022,9
+2022-09-30 10:08:58.665,2022-09-08,,68,macarrao com carne moida.,0.0,4.0,0.0,0.0,0.0,0.0,6.0,2022,9
+2022-09-30 10:09:35.313,2022-09-09,,67,"arroz, strogonoff de frango e batata palha.",6.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,9
+2022-09-30 10:10:40.993,2022-09-12,,68,"arroz, feijao preto, carne moida com repolho e salada de acelga/espinafre.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,9
+2022-09-30 10:11:08.224,2022-09-13,,131,macarrao com carne moida.,0.0,4.0,0.0,0.0,0.0,0.0,6.0,2022,9
+2022-09-30 10:11:55.318,2022-09-14,,66,"arroz, feijao preto, pernil/frango e salada de batata.",6.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,9
+2022-09-30 10:12:39.358,2022-09-15,,69,"arroz, strogonoff de frango e batata palha.",6.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,9
+2022-09-30 10:13:18.750,2022-09-16,,69,"arroz, feijao preto, moela e cuscuz/ salada de couve.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,9
+2022-09-30 10:14:19.110,2022-09-17,,65,"arroz, feijao preto, carne de soja e vinagrete.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,9
+2022-09-30 10:16:16.545,2022-09-19,,60,"arroz, feijao preto, calabresa e salada de beterraba.",0.0,0.0,5.0,0.0,5.0,2.0,0.0,2022,9
+2022-09-30 10:17:00.052,2022-09-20,,66,macarrao com carne moida.,0.0,4.0,0.0,0.0,0.0,0.0,6.0,2022,9
+2022-09-30 10:17:47.507,2022-09-21,,67,"arroz, strogonoff de frango e batata palha.",6.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,9
+2022-09-30 10:18:29.922,2022-09-22,,69,"arroz, feijao preto, frango com batata e salada de acelga.",6.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,9
+2022-09-30 10:19:13.012,2022-09-23,,74,"arroz, feijoada, vinagrete e salada de couve.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,9
+2022-09-30 10:19:54.967,2022-09-24,,67,"arroz, feijao preto, carne de soja e salada de repolho.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,9
+2022-09-30 10:21:08.528,2022-09-26,,63,"arroz, feijao preto, moela com cenoura e salada de repolho/pure de batata doce.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,9
+2022-09-30 10:23:15.567,2022-09-27,,64,"arroz, feijao preto, calabresa e salada de cenoura/repolho.",0.0,0.0,5.0,0.0,5.0,2.0,0.0,2022,9
+2022-09-30 10:23:59.649,2022-09-28,,67,"arroz, feijao preto, frango e salada de repolho.",6.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,9
+2022-09-30 10:24:35.407,2022-09-29,,61,"arroz, strogonoff de frango e batata palha.",6.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,9
+2022-09-30 16:04:37.668,2022-09-30,,67,"arroz, feijao preto, carne de soja com batata e repolho/acelga.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,9
+2022-10-31 18:07:12.478,2022-10-01,,65,macarrao com carne moida.,0.0,4.0,0.0,0.0,0.0,0.0,6.0,2022,10
+2022-10-31 18:08:44.997,2022-10-04,,69,"arroz, feijao preto, frango com espinafre e salada de acelga.",6.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,10
+2022-10-31 18:09:40.625,2022-10-05,,69,macarrao com molho de frango .,6.0,0.0,0.0,0.0,0.0,0.0,6.0,2022,10
+2022-10-31 18:11:12.918,2022-10-06,,69,"arroz, feijao preto, carne moida com cenoura e salada de beterraba.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,10
+2022-10-31 18:11:58.340,2022-10-06,,52,"arroz, feijao preto, carne moida com cenoura e salada de batata doce.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,10
+2022-10-31 18:12:26.920,2022-10-07,,71,"arroz, strogonoff de frango e batata palha.",6.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,10
+2022-10-31 18:13:57.965,2022-10-08,,69,"arroz, feijao preto, moela e salada de batata doce/acelga.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,10
+2022-10-31 18:14:33.894,2022-10-10,,62,"arroz, feijao preto, vinagrete e bolinho de soja.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,10
+2022-10-31 18:15:34.156,2022-10-11,,62,"arroz, feijao preto, carne moida e salada de acelga com tomate.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,10
+2022-10-31 18:16:08.021,2022-10-13,,60,"arroz, strogonoff de frango e batata palha.",6.0,0.0,0.0,0.0,5.0,0.0,0.0,2022,10
+2022-10-31 18:17:33.573,2022-10-14,,61,"arroz, feijao preto, calabresa e salada de mandioca.",0.0,0.0,5.0,0.0,5.0,2.0,0.0,2022,10
+2022-10-31 18:17:59.057,2022-10-15,,82,yakissoba de frango,6.0,0.0,0.0,0.0,0.0,0.0,0.0,2022,10
+2022-10-31 18:18:38.722,2022-10-17,,70,strogonoff e frango e batata palha.,6.0,0.0,0.0,0.0,0.0,0.0,0.0,2022,10
+2022-10-31 18:19:08.816,2022-10-18,,60,macarrao com molho de calabresa.,0.0,0.0,5.0,0.0,0.0,0.0,6.0,2022,10
+2022-10-31 18:19:40.351,2022-10-20,,66,"arroz, feijao preto, moela e farofa de legumes.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,10
+2022-10-31 18:22:01.653,2022-10-21,,131,"arroz, feijao preto, pernil com legumes e salada de repolho.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,10
+2022-10-31 18:22:35.803,2022-10-22,,66,"arroz, feijao preto. kibe frito e salada de batata.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,10
+2022-10-31 18:23:08.108,2022-10-24,,61,macarrao com molho de calabresa.,0.0,0.0,5.0,0.0,0.0,0.0,6.0,2022,10
+2022-10-31 18:23:51.468,2022-10-25,,65,"arroz, feijao preto, carne de soja e pure de batata doce.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,10
+2022-10-31 18:24:36.180,2022-10-26,,65,"arroz, feijao preto, polenta e molho de linguiça/ kibe assado.",0.0,0.0,0.0,5.0,5.0,2.0,0.0,2022,10
+2022-10-31 18:25:40.086,2022-10-27,,123,"arroz, feijao preto, pernil com legumes/carne de soja e polenta/farofa de abobrinha.",0.0,4.0,0.0,0.0,5.0,2.0,0.0,2022,10
+2022-10-31 18:26:06.464,2022-10-28,,76,yakissoba de frango,6.0,0.0,0.0,0.0,0.0,0.0,0.0,2022,10
+2022-10-31 18:28:14.074,2022-10-29,,65,"arroz, feijao preto, tabule e kibe frito.",0.0,0.0,0.0,0.0,5.0,2.0,0.0,2022,10
+2022-10-31 18:29:22.145,2022-10-31,,73,macarrao com calabresa e espinafre.,0.0,0.0,5.0,0.0,0.0,0.0,6.0,2022,10
+2022-11-29 23:23:22.053,2022-11-01,,71,"arroz. feijao preto, kibe assado e salada de couve.",0.0,0.0,0.0,0.0,1.5,1.5,0.0,2022,11
+2022-11-29 23:24:20.770,2022-11-02,,68,"arroz, feijao preto, canjiquinha com carne de porco e salada de couve.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2022,11
+2022-11-29 23:25:05.153,2022-11-03,,50,macarrao com molho de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2022,11
+2022-11-29 23:26:08.899,2022-11-07,,39,"arroz, feijao preto, moela com quiabo e salada de acelga com almeirao.",0.0,0.0,0.0,0.0,1.5,1.5,0.0,2022,11
+2022-11-29 23:27:01.074,2022-11-08,,35,"arroz, feijao preto, carne moida com pimentao e pure de batata doce.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2022,11
+2022-11-29 23:27:32.103,2022-11-09,,46,"arroz, feijao preto, carne de soja e maionese.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2022,11
+2022-11-29 23:28:39.736,2022-11-10,,39,"arroz, feijao preto,  kibe frito e maionese/creme de espinafre.",0.0,0.0,0.0,0.0,1.5,1.5,0.0,2022,11
+2022-11-29 23:29:37.524,2022-11-14,,43,"arroz, feijao preto, caponata de berinjela e kibe assado/moela.",0.0,0.0,0.0,0.0,1.5,1.5,0.0,2022,11
+2022-11-29 23:31:22.809,2022-11-16,,58,yakissoba de frango.,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2022,11
+2022-11-29 23:32:35.747,2022-11-17,,47,"arroz, feijao preto, moela/carne com pimenta e farofa de pernil/creme de espinafre e salada de beterraba.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2022,11
+2022-11-29 23:33:48.531,2022-11-21,,45,"arroz, feijao preto, carne moida com soja e salada de beterraba/ farofa de legumes.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2022,11
+2022-11-29 23:34:43.610,2022-11-22,,54,salada de macarrao com frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2022,11
+2022-11-29 23:36:09.831,2022-11-23,,42,"arroz, feijao preto, carne de porco e salada de acelga.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2022,11
+2022-11-29 23:36:56.692,2022-11-24,,40,"arroz, feijao preto, linguiça e salada de repolho.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2022,11
+2022-11-29 23:37:27.863,2022-11-28,,54,salada de macarrao.,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2022,11
+2022-11-29 23:39:02.890,2022-11-29,,40,"arroz, feijao preto, farofa de churrasco/maionese/carne de soja.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2022,11
+2022-11-30 22:49:29.836,2022-11-30,,48,"Arroz, feijão preto, carne moída com batata e salada de pepino/farofa de churrasco/salada de berinjela.",0.0,2.0,0.0,0.0,0.0,1.5,0.0,2022,11
+2023-01-04 08:17:25.338,2022-12-01,,48,Macarrão com molho de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2022,12
+2023-01-04 08:18:50.874,2022-12-05,,35,"Arroz, feijão preto, carne moída com repolho e quiabo refogado.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2022,12
+2023-01-04 08:20:13.243,2022-12-06,,41,"Arroz, feijão preto, carne moída com repolho/calabresa e salada de trigo.",0.0,2.0,2.5,0.0,1.5,1.5,0.0,2022,12
+2023-01-04 08:21:02.863,2022-12-07,,42,"Arroz feijão preto, linguiça e farofa de quiabo.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2022,12
+2023-01-04 08:22:17.609,2022-12-08,,57,Yakissoba de frango.,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2022,12
+2023-01-04 08:23:03.890,2022-12-12,,40,"Arroz ,feijão preto, carne moída e purê de batata doce.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2022,12
+2023-01-04 08:24:45.545,2022-12-13,,45,"Arroz, feijão preto, carne moída/linguiça e purê de batata doce/ salada de chuchu.",0.0,2.0,0.0,2.5,1.5,1.5,0.0,2022,12
+2023-01-04 08:25:23.773,2022-12-14,,48,"Arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2022,12
+2023-01-04 08:25:55.444,2022-12-15,,53,Salada de macarrão.,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2022,12
+2023-01-04 08:26:36.814,2022-12-19,,55,Yakissoba de frango.,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2022,12
+2023-01-04 08:27:37.064,2022-12-20,,38,"Arroz , strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2022,12
+2023-01-04 08:28:40.213,2022-12-21,,51,"Arroz sírio, vinagrete de feijão de corda, maionese e pernil.",0.0,0.0,0.0,0.0,1.5,1.5,0.0,2022,12
+2023-01-04 08:29:36.850,2022-12-22,,63,"Arroz com trigo, feijão tropeiro, salpicão de frango e filé de porco.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2022,12
+2023-01-04 08:30:31.508,2022-12-26,,38,"Arroz ,feijão preto, carne de soja e salada de chuchu com batata.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2022,12
+2023-01-04 08:31:19.424,2022-12-27,,42,"Arroz, feijão preto, linguiça e farofa de berinjela.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2022,12
+2023-01-04 08:32:41.345,2022-12-28,,42,"Arroz, feijão preto,carne moída com pimentão e creme de espinafre.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2022,12
+2023-01-04 08:34:02.260,2022-12-29,,50,"Arroz, feijão preto,frango com cenoura e salada de acelga.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2022,12
+2023-02-01 01:55:29.321,2023-01-04,,42,"arroz,feijao prero, kibe frito e salada repolho.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,1
+2023-02-01 01:56:12.365,2023-01-04,,44,"arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2023,1
+2023-02-01 01:56:59.568,2023-01-05,,80,"arroz, feijao preto, kibe frito/calabresa e polenta.",0.0,0.0,2.5,0.0,1.5,1.5,0.0,2023,1
+2023-02-01 01:57:46.202,2023-01-09,,41,"arroz, feijao, calabresa e farofa de abobrinha.",0.0,0.0,2.5,0.0,1.5,1.5,0.0,2023,1
+2023-02-01 01:59:09.769,2023-01-10,,50,"arroz, feijao, cheester com legumes e salada de repolho/farofa de repolho.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2023,1
+2023-02-01 01:59:58.597,2023-01-11,,45,"arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2023,1
+2023-02-01 02:00:34.570,2023-01-12,,62,yakissoba de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2023,1
+2023-02-01 02:01:18.031,2023-01-31,,44,"arroz, feijao, cheester com repolho e salada de batata doce.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2023,1
+2023-03-01 23:25:00.499,2023-02-01,,41,"arroz, feijao moela e salada de batata.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,2
+2023-03-01 23:25:57.915,2023-02-02,,46,"arroz, feijao, pernil com cenoura e salada de acelga.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,2
+2023-03-01 23:27:23.318,2023-02-03,,46,"arroz, feijao, linguiça e salada de chuchu com beterraba.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2023,2
+2023-03-01 23:27:53.826,2023-02-06,,41,macarrao com molho de carne moida.,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2023,2
+2023-03-01 23:28:31.572,2023-02-07,,46,"arroz, feijao, farofa de legumes e moela.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,2
+2023-03-01 23:28:59.272,2023-02-08,,47,yakissoba de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2023,2
+2023-03-01 23:29:33.892,2023-02-09,,56,"arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2023,2
+2023-03-01 23:30:35.055,2023-02-23,,39,macarrao com molho de carne moida.,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2023,2
+2023-03-01 23:31:07.702,2023-02-24,,46,"arroz, feijao preto, moela e salada de batata.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,2
+2023-03-01 23:31:50.025,2023-02-27,,43,"arroz, feijao preto, linguiça e salada de batata doce.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2023,2
+2023-03-01 23:32:22.631,2023-02-28,,46,"arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2023,2
+2023-03-31 20:29:16.783,2023-03-01,,47,salada de macarrao com frango,3.0,2.0,0.0,0.0,0.0,0.0,3.0,2023,3
+2023-03-31 20:30:08.795,2023-03-02,,46,"arroz, feijao preto, linguiça e farofa de repolho com pimetao.",0.0,2.0,0.0,2.5,1.5,1.5,0.0,2023,3
+2023-03-31 20:34:01.386,2023-03-07,,48,"arroz, feijao preto, calabresa e pure de batata doce.",0.0,2.0,2.5,0.0,1.5,1.5,0.0,2023,3
+2023-03-31 20:34:34.670,2023-03-08,,51,"arroz, strogonoff de frango e batata palha.",3.0,2.0,0.0,0.0,1.5,0.0,0.0,2023,3
+2023-03-31 20:35:18.625,2023-03-09,,47,"arroz, feijao preto, carne se soja e salada de batata.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,3
+2023-03-31 20:36:07.380,2023-03-10,,44,macarrao a bolonhesa.,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2023,3
+2023-03-31 20:37:17.838,2023-03-14,,53,"arroz, salada de feijao de corda, moela com quiabo e salada de acelga.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,3
+2023-03-31 20:37:55.101,2023-03-16,,41,"arroz, strogonoff de frango e batata palha.",3.0,2.0,0.0,0.0,1.5,0.0,0.0,2023,3
+2023-03-31 20:38:42.121,2023-03-17,,48,"arroz, temperado, salada de feijao fradinho, pernil e caponata de berinjela.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,3
+2023-03-31 20:40:11.216,2023-03-30,,73,"arroz, feijao preto/feijao fradinho, frango e farofa de quiabo com abobrinha/salada de mandioca.",3.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,3
+2023-03-31 20:40:34.933,2023-03-31,,79,macarrao a bolonhesa.,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2023,3
+2023-04-30 22:40:30.972,2023-04-02,,67,"arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2023,4
+2023-04-30 22:41:16.016,2023-04-03,,71,"arroz, feijao preto, linguiça e salada de mandioca/ batata.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2023,4
+2023-04-30 22:42:01.425,2023-04-04,,71,"arroz, feijao preto, pernil e salada de couve/salada de batata.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,4
+2023-04-30 22:42:55.279,2023-04-05,,73,"arroz, feijao preto, moela e salada de acelga.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,4
+2023-04-30 22:43:35.739,2023-04-06,,70,"arroz, feijao preto, calabresa e salada de chuchu.",0.0,0.0,2.5,0.0,1.5,1.5,0.0,2023,4
+2023-04-30 22:44:43.141,2023-04-08,,79,"arroz, feijao preto, linguiça e salada de beterraba/batata soute.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2023,4
+2023-04-30 22:45:09.878,2023-04-10,,80,yakissoba de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2023,4
+2023-04-30 22:46:08.395,2023-04-11,,46,"arroz, strogonff de frango e batata palha",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2023,4
+2023-04-30 22:46:47.844,2023-04-12,,55,"arroz, feijao preto, polenta e carne moida com molho.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,4
+2023-04-30 22:47:25.763,2023-04-13,,57,"arroz, feijao preto, calabresa e farofa de legumes.",0.0,0.0,2.5,0.0,1.5,1.5,0.0,2023,4
+2023-04-30 22:48:04.177,2023-04-14,,55,"arroz, feijao preto, pernil e maionese.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,4
+2023-04-30 22:48:44.294,2023-04-18,,55,"arroz, feijao preto, frango e pure de batata.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2023,4
+2023-04-30 22:49:26.645,2023-04-19,,52,"arroz, feijao preto, moela e milho refogada.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,4
+2023-04-30 22:50:07.696,2023-04-20,,56,"arroz, feijao preto, kibe frito e salada de abobrinha.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,4
+2023-04-30 22:51:05.553,2023-04-21,,54,"arroz, feijao preto,kibe frito, e salada de couve/espinafre refogado.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,4
+2023-04-30 22:52:19.127,2023-04-24,,56,"arroz, feijao preto, carne de soja e salada de pepino/milho refogado.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,4
+2023-04-30 22:53:44.879,2023-04-25,,61,"arroz, feijao preto, carne de soja/calabresa e farofa de abobrinha com milho.",0.0,2.0,2.5,0.0,1.5,1.5,0.0,2023,4
+2023-04-30 22:54:10.552,2023-04-26,,56,salada de macarrao.,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2023,4
+2023-04-30 22:55:01.230,2023-04-28,,54,"arroz, feijao preto, carne moida com batata e salada de acelga.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,4
+2023-05-31 18:57:47.083,2023-05-01,,49,"arroz, feijao preto, carne de soja com batata e escabeche de berinjela.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,5
+2023-05-31 18:58:41.143,2023-05-02,,54,"arroz, feijao preto, polenta e molho de linguiça.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2023,5
+2023-05-31 18:59:25.110,2023-05-03,,49,"arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2023,5
+2023-05-31 19:00:13.592,2023-05-04,,51,"arroz, feijao preto, frango e maionese.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2023,5
+2023-05-31 19:00:52.295,2023-05-08,,48,macarrao a bolonhesa.,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2023,5
+2023-05-31 19:01:30.145,2023-05-09,,51,"arroz, feijao tropeiro, pernil e salada de couve.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,5
+2023-05-31 19:02:31.749,2023-05-10,,52,"arroz, feijao tropeiro, moela e salada de beterraba.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,5
+2023-05-31 19:03:08.088,2023-05-11,,49,"arroz, feijao preto, linguiça e farofa de legumes.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2023,5
+2023-05-31 19:04:14.890,2023-05-15,,54,"arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2023,5
+2023-05-31 19:05:10.292,2023-05-16,,58,"arroz, feijao preto, calabresa/frango e farofa de legumes /salada de beterraba.",3.0,0.0,2.5,0.0,1.5,1.5,0.0,2023,5
+2023-05-31 19:05:53.670,2023-05-17,,60,"arroz, feijoada, farofa de cenoura e salada de couve.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,5
+2023-05-31 19:06:44.401,2023-05-18,,68,"arroz, feijoada, farofa de berinjela com jilo e salada de acelga.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,5
+2023-05-31 19:07:35.693,2023-05-22,,52,"arroz, feijao preto, frango e pure de batata doce.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2023,5
+2023-05-31 19:08:16.875,2023-05-23,,48,"arroz, feijao preto, linguiça e pure de batata doce/ salada de chuchu.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2023,5
+2023-05-31 19:08:51.680,2023-05-24,,49,macarrao com molho de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2023,5
+2023-05-31 19:09:26.302,2023-05-25,,46,"arroz, feijao preto, soja com repolho e maionese.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,5
+2023-05-31 19:10:00.320,2023-05-29,,51,macarrao com molho de linguiça.,0.0,0.0,0.0,2.5,0.0,0.0,3.0,2023,5
+2023-05-31 19:10:44.778,2023-05-30,,46,"arroz, feijao preto, soja e salada de repolho com cenoura.",0.0,0.0,0.0,0.0,1.5,1.5,0.0,2023,5
+2023-06-30 19:27:17.333,2023-06-01,,60,salada de macarrao.,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2023,6
+2023-06-30 19:28:03.945,2023-06-02,,52,"arroz, feijao preto, calabresa e salada de acelga.",0.0,0.0,2.5,0.0,1.5,1.5,0.0,2023,6
+2023-06-30 19:28:35.134,2023-06-05,,48,"arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2023,6
+2023-06-30 19:29:05.853,2023-06-06,,50,"arroz, feijao preto, frango e salada de batata.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2023,6
+2023-06-30 19:29:37.413,2023-06-07,,48,"arroz, feijao preto, moela e salada de cenoura.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,6
+2023-06-30 19:30:14.750,2023-06-08,,52,yakissoba de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2023,6
+2023-06-30 19:31:40.142,2023-06-12,,50,"arroz, feijao preto, carne moida com batata e salada de acelga com repolho.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,6
+2023-06-30 19:32:21.481,2023-06-13,,50,"arroz, feijao preto, soja com batata e farofa de linguiça com berinjela.",0.0,2.0,0.0,2.5,1.5,1.5,0.0,2023,6
+2023-06-30 19:32:58.300,2023-06-14,,48,"arroz, feijao, moela e salada de batata.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,6
+2023-06-30 19:33:27.254,2023-06-15,,50,macarrao com molho de calabresa.,0.0,0.0,2.5,0.0,0.0,0.0,3.0,2023,6
+2023-06-30 19:33:59.278,2023-06-19,,49,"arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2023,6
+2023-06-30 19:34:36.138,2023-06-20,,49,macarrao com molho de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2023,6
+2023-06-30 19:35:22.528,2023-06-21,,53,"arroz, feijao, pernil e salada de chuchu com abobrinha.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,6
+2023-06-30 19:36:06.216,2023-06-22,,49,"arroz, feijao, carne moida /pernil e maionese.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,6
+2023-06-30 19:36:53.680,2023-06-26,,46,"arroz, feijao, inguiça e farofa de berinjela.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2023,6
+2023-06-30 19:37:28.839,2023-06-27,,51,"arroz, feijao, molho de bolonhesa e polenta.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,6
+2023-06-30 19:38:13.703,2023-06-28,,53,"arroz, feijao, molho de linguiça e polenta.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2023,6
+2023-06-30 19:38:42.784,2023-06-29,,56,"arroz, feijao, frango com legumes e tabule.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2023,6
+2023-07-29 17:47:55.400,2023-07-03,,52,"arroz, strogonoff de frango e batata palha..",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2023,7
+2023-07-29 17:48:34.075,2023-07-04,,50,macarrao com molho de calabresa.,0.0,0.0,2.5,0.0,0.0,0.0,3.0,2023,7
+2023-07-29 17:49:15.578,2023-07-05,,48,"arroz, feijao, kibe frito e farofa de jilo com ovo.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,7
+2023-07-29 17:50:55.372,2023-07-06,,48,"arroz, feijao, kibe /pernil e salada de beterraba.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,7
+2023-07-29 17:51:42.587,2023-07-13,,56,yakissoba de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2023,7
+2023-07-29 17:52:24.981,2023-07-14,,46,macarrao com molho bolonhesa.,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2023,7
+2023-07-29 17:53:16.706,2023-07-16,,54,"arroz, cassoulet e salada de beterraba / pepino.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,7
+2023-07-29 17:55:01.318,2023-07-17,,49,"arroz, cassoulet, e pure de mandioca/abobora.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,7
+2023-07-29 17:55:58.709,2023-07-19,,56,"arroz com milho, cenoura , frango , linguiça e feijao.",3.0,0.0,0.0,2.5,1.5,1.5,0.0,2023,7
+2023-07-29 17:56:42.298,2023-07-20,,56,"arroz, feijao, frango com batata e salada e pepino.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2023,7
+2023-07-29 17:57:23.156,2023-07-21,,45,"arroz, feijao, carne moida com batata e salada de repolho.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,7
+2023-07-29 17:58:44.070,2023-07-25,,44,"arroz , strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2023,7
+2023-07-29 18:00:07.079,2023-07-26,,45,"arroz , feijao, carne moida com batata/frango e salada de repolho.",3.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,7
+2023-07-29 18:01:39.340,2023-07-27,,49,"arroz, feijao, moela com legumes e farofa de cenoura com bacon.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,7
+2023-07-29 21:00:45.139,2023-07-28,,49,macarrao com molho bolonhesa.,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2023,7
+2023-07-29 18:02:19.752,2023-07-29,,48,"arroz, feijao, calabresa e salada de batata.",0.0,0.0,2.5,0.0,1.5,1.5,0.0,2023,7
+2023-09-02 00:53:57.368,2023-08-01,,51,"Arroz, feijao,pernil com abobrinha e tabule.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,8
+2023-09-02 00:54:50.324,2023-08-02,,58,"Arroz, feijão , linguiça e purê de batata doce.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2023,8
+2023-09-02 00:56:00.784,2023-08-03,,50,"Arroz, feijão, carne moída e maionese de frango com batata.",3.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,8
+2023-09-02 00:56:40.986,2023-08-04,,53,Macarrão com molho de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2023,8
+2023-09-02 00:57:37.512,2023-08-07,,48,"Arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2023,8
+2023-09-02 00:59:02.067,2023-08-08,,48,"Arroz, feijão,frango e farofa de linguiça com abobrinha.",3.0,0.0,0.0,2.5,1.5,1.5,0.0,2023,8
+2023-09-02 01:00:29.954,2023-08-09,,50,"Arroz, feijoada, farofa de cenoura com bacon e salada de couve.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,8
+2023-09-02 01:01:58.017,2023-08-10,,49,"Arroz, feijoada, farofa de abobrinha com ovo e salada de repolho.",0.0,0.0,0.0,0.0,1.5,1.5,0.0,2023,8
+2023-09-02 01:02:52.673,2023-08-14,,49,Macarrão com molho bolonhesa.,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2023,8
+2023-09-02 01:03:58.078,2023-08-15,,48,"Arroz, feijão, carne moída com legumes e salada de batata.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,8
+2023-09-02 01:05:05.712,2023-08-16,,43,"Arroz, feijão, moela com quiabo e farofa de jiló.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,8
+2023-09-02 01:07:11.449,2023-08-18,,48,"Arroz, salada de feijão de corda, pernil e salpicão de frango.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,8
+2023-09-02 01:07:46.870,2023-08-21,,46,"Arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2023,8
+2023-09-02 01:08:23.527,2023-08-22,,55,Yakissoba de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2023,8
+2023-09-02 01:09:29.307,2023-08-23,,47,"Arroz, feijão, carne moída com repolho e salada de acelgam",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,8
+2023-09-02 01:10:31.002,2023-08-24,,52,"Arroz, feijão ,frango e salada de beterraba.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2023,8
+2023-09-02 01:11:26.823,2023-08-28,,45,Macarrão com molho de linguiça.,0.0,0.0,0.0,2.5,0.0,0.0,3.0,2023,8
+2023-09-02 01:12:33.679,2023-08-22,,55,"Arroz, feijão, frango e polenta ",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2023,8
+2023-09-02 01:15:45.603,2023-08-31,,50,"Arroz, feijoada, farofa de alho poró e vinagrete de nabo.",0.0,0.0,0.0,0.0,1.5,1.5,0.0,2023,8
+2023-10-06 15:19:46.369,2023-09-01,,51,"Arroz, feijoada, farofa de berinjela e vagem.",0.0,0.0,0.0,0.0,1.5,1.5,0.0,2023,9
+2023-10-06 15:21:38.460,2023-09-05,,49,"Arroz com açafrão,feijão, moela com cenoura e salada de batata.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,9
+2023-10-06 15:22:24.215,2023-09-06,,46,"Arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2023,9
+2023-10-06 15:23:07.059,2023-09-07,,51,Macarrão a bolonhesa.,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2023,9
+2023-10-06 15:24:06.923,2023-09-08,,48,"Arroz, feijão,carne moída com batata e farofa de cenoura.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,9
+2023-10-06 15:29:07.682,2023-09-11,,54,Macarrão com molho de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2023,9
+2023-10-06 15:29:49.405,2023-09-12,,46,"Arroz, feijão, linguiça e purê de batata doce.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2023,9
+2023-10-06 15:30:47.320,2023-09-13,,44,"Arroz, feijão, frango e salada de batata.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2023,9
+2023-10-06 15:31:48.067,2023-09-14,,43,"Arroz, feijão, ragu de linguiça e farofa de legumes.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2023,9
+2023-10-06 15:32:34.241,2023-09-18,,47,"Arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2023,9
+2023-10-06 15:33:28.702,2023-10-19,,54,"Arroz, feijão, pernil e salada de beterraba.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,10
+2023-10-06 15:34:39.478,2023-09-20,,47,"Arroz, feijoada, vinagrete de rabanete e farofa de legumes /milho refogado.",0.0,0.0,0.0,0.0,1.5,1.5,0.0,2023,9
+2023-10-06 15:35:23.856,2023-09-21,,63,Yakissoba de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2023,9
+2023-10-06 15:38:03.958,2023-09-26,,43,"Arroz, feijão, moela e salada de acelga.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,9
+2023-10-06 15:38:56.099,2023-09-27,,48,"Arroz, feijão, frango com brócolis e purê de abóbora.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2023,9
+2023-10-06 15:39:51.594,2023-09-28,,49,"Arroz, cassoulet, brócolis e salada de batata.",0.0,2.0,0.0,0.0,1.5,0.0,0.0,2023,9
+2023-10-06 15:40:40.772,2023-09-29,,46,"Arroz, cassoulet, couve e salada de repolho/batata.",0.0,2.0,0.0,0.0,1.5,0.0,0.0,2023,9
+2023-11-13 13:30:37.409,2023-10-03,,41,"Arroz, feijão,carne moída com pimenta e farofa de linguiça.",0.0,2.0,0.0,2.5,1.5,1.5,0.0,2023,10
+2023-11-13 13:31:10.695,2023-10-04,,48,"Arroz, feijão, Kibe frito e vinagrete .",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,10
+2023-11-13 13:31:53.750,2023-10-05,,47,"Arroz, feijão,kibe frito e purê de batata doce.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,10
+2023-11-13 13:32:24.998,2023-10-06,,54,Macarrão com molho de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2023,10
+2023-11-13 13:33:04.227,2023-10-09,,50,"Arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2023,10
+2023-11-13 13:33:37.365,2023-10-10,,50,"Arroz, feijão,moela com cenoura e farofa de berinjela.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,10
+2023-11-13 13:34:10.414,2023-10-11,,50,"Arroz, feijão, ragu de linguiça e polenta.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2023,10
+2023-11-13 13:34:38.126,2023-10-12,,49,Macarrão a bolonhesa.,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2023,10
+2023-11-13 13:35:11.352,2023-10-16,,61,Yakissoba de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2023,10
+2023-11-13 13:36:07.432,2023-10-17,,49,"Arroz, feijão tropeiro, frango/linguiça e tabule.",3.0,0.0,0.0,2.5,1.5,1.5,0.0,2023,10
+2023-11-13 13:36:56.312,2023-10-18,,52,"Arroz, feijão tropeiro, carne moída com batata e salada de nabo com repolho.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,10
+2023-11-13 13:37:25.027,2023-10-19,,54,"Arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2023,10
+2023-11-13 13:38:04.728,2023-10-23,,49,"Arroz, feijão, frango e purê de beterraba.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2023,10
+2023-11-13 13:38:54.130,2023-10-24,,49,"Arroz, feijão, linguiça e salada de acelga.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2023,10
+2023-11-13 13:39:38.017,2023-10-25,,58,"Arroz, feijão, carne moída com repolho e farofa de linguiça.",0.0,2.0,0.0,2.5,1.5,1.5,0.0,2023,10
+2023-11-13 13:40:46.150,2023-10-30,,48,Macarrão a bolonhesa.,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2023,10
+2023-11-13 13:41:23.136,2023-10-31,,53,"Arroz, feijão, calabresa e maionese.",0.0,0.0,2.5,0.0,1.5,1.5,0.0,2023,10
+2023-12-04 13:52:58.578,2023-11-01,,48,"Arroz, feijão, lagarto e salpicão.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,11
+2023-12-04 13:53:40.482,2023-11-02,,48,"Arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2023,11
+2023-12-04 13:54:39.946,2023-11-03,,45,"Arroz, feijão,frango/moela e salada de acelga com repolho.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2023,11
+2023-12-04 13:55:39.288,2023-11-06,,49,"Arroz, feijão branco,calabresa e salada de batata.",0.0,0.0,2.5,0.0,1.5,1.5,0.0,2023,11
+2023-12-04 13:56:11.019,2023-11-07,,49,Macarrão a bolonhesa.,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2023,11
+2023-12-04 13:56:49.834,2023-11-08,,47,"Arroz, feijão, linguiça e maionese.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2023,11
+2023-12-04 13:57:44.955,2023-11-09,,47,"Arroz, feijão,pernil e purê de abóbora.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,11
+2023-12-04 13:58:20.130,2023-11-13,,47,Macarrão com molho de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2023,11
+2023-12-04 13:59:28.660,2023-11-15,,42,"Arroz, feijão , carne moída com batata e salada de beterraba.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,11
+2023-12-04 14:00:17.154,2023-11-16,,48,"Arroz, feijão, frango com brócolis e farofa de linguiça.",3.0,0.0,0.0,2.5,1.5,1.5,0.0,2023,11
+2023-12-04 14:01:45.058,2023-11-17,,51,"Arroz, feijão , calabresa/frango com brócolis e farofa de linguiça/beterraba e milho refogado.",3.0,0.0,2.5,2.5,1.5,1.5,0.0,2023,11
+2023-12-04 14:02:20.550,2023-11-20,,48,Macarrão a bolonhesa.,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2023,11
+2023-12-04 14:02:46.964,2023-11-21,,51,"Arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2023,11
+2023-12-04 14:04:04.726,2023-11-22,,49,"Arroz, feijão, frango/moela e salada de beterraba/milho  refogado.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2023,11
+2023-12-04 14:04:46.196,2023-11-23,,48,"Arroz, feijão, carne moída com batata e salada de repolho.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,11
+2023-12-04 14:05:25.553,2023-11-28,,48,"Arroz, feijão, frango e purê de batata.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2023,11
+2023-12-04 14:06:05.841,2023-11-29,,51,"Arroz, feijão, frango e farofa de cenoura com abobrinha.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2023,11
+2023-12-04 14:06:42.854,2023-11-30,,48,"Arroz, feijão, kibe frito e tabule.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,11
+2023-12-04 14:07:35.171,2023-12-01,,47,"Arroz, feijão ,kibe frito e salpicão de frango.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2023,12
+2023-12-04 14:08:13.919,2023-12-04,,53,Macarrão com molho de linguiça.,0.0,0.0,0.0,2.5,0.0,0.0,3.0,2023,12
+2024-01-09 00:54:29.157,2023-12-05,,45,"Arroz, feijão tropeiro, calabresa e maionese.",0.0,0.0,2.5,0.0,1.5,1.5,0.0,2023,12
+2024-01-09 00:55:27.485,2023-12-06,,48,"Arroz, feijão tropeiro, linguiça e maionese/salada de repolho.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2023,12
+2024-01-09 00:56:12.388,2023-12-07,,63,Yakissoba e frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2023,12
+2024-01-09 00:57:19.960,2023-12-12,,50,"Arroz, feijão, pernil/calabresa e purê de batata doce.",0.0,0.0,2.5,0.0,1.5,1.5,0.0,2023,12
+2024-01-09 00:58:23.987,2023-12-14,,48,"Arroz, feijão, linguiça com cenoura e salada de repolho com tomate.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2023,12
+2024-01-09 00:59:12.122,2023-12-19,,45,"Arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2023,12
+2024-01-09 00:59:56.924,2023-12-20,,47,"Arroz, feijão, carne moída com batata e farofa de abobrinha.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,12
+2024-01-09 01:00:42.184,2023-12-21,,46,"Arroz, feijão, linguiça e farofa de abobrinha com cenoura.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2023,12
+2024-01-09 01:02:02.936,2023-12-22,,53,"Arroz temperado, feijão branco, carne louca e maionese.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,12
+2024-01-09 01:03:43.680,2023-12-27,,53,Macarrão com molho de linguiça.,0.0,0.0,0.0,2.5,0.0,0.0,3.0,2023,12
+2024-01-09 01:04:34.433,2023-12-28,,50,"Arroz ,feijão, calabresa e salada de acelga.",0.0,0.0,2.5,0.0,1.5,1.5,0.0,2023,12
+2024-01-09 01:05:55.828,2023-12-29,,50,"Arroz com lentilha, feijão tropeiro, pernil e salada de batata com cenoura.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2023,12
+2024-01-09 01:07:07.937,2024-01-02,,43,"Arroz ,feijão, pernil/linguiça e salada de batata/purê de batata doce.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2024,1
+2024-01-09 01:07:55.581,2024-01-03,,44,"Arroz, feijão tropeiro, moela e salada de cenoura com repolho.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,1
+2024-01-09 01:08:22.038,2024-01-04,,53,Macarrão com molho de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2024,1
+2024-01-09 01:09:48.117,2024-01-05,,44,"Arroz, feijão, frango e farofa de berinjela.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2024,1
+2024-02-01 19:38:46.564,2024-01-22,,52,Macarrão com molho de carne moída com calabresa.,0.0,2.0,2.5,0.0,0.0,0.0,3.0,2024,1
+2024-02-01 19:39:21.454,2024-01-23,,42,"Arroz, feijão, linguiça e salada de repolho.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2024,1
+2024-02-01 19:40:04.545,2024-01-24,,40,"Arroz, feijão, carne moída com pimentao e purê de batata doce.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,1
+2024-02-01 19:40:32.079,2024-01-25,,45,"Arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2024,1
+2024-02-01 19:41:28.218,2024-01-29,,45,"Arroz, feijão, frango e farofa de abobrinha com bacon.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2024,1
+2024-02-01 19:41:56.240,2024-01-30,,48,"Arroz, feijão, moela/linguiça e vinagrete de salsão.",0.0,2.0,0.0,2.5,1.5,1.5,0.0,2024,1
+2024-02-01 19:42:29.945,2024-01-31,,47,"Arroz, feijão, pirão de frango e milho refogado.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2024,1
+2024-02-01 19:43:03.975,2024-02-01,,46,Macarrão a bolonhesa.,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2024,2
+2024-03-05 16:38:25.666,2024-02-01,,46,Macarrão a bolonhesa.,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2024,2
+2024-03-05 16:40:48.717,2024-02-05,,48,"Arroz, feijão, carne moída com legumes e salada de acelga.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,2
+2024-03-05 16:41:27.427,2024-02-06,,48,"Arroz, feijão,pernil e salada de beterraba.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,2
+2024-03-05 16:42:00.932,2024-02-07,,48,Macarrão com molho de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2024,2
+2024-03-05 16:42:53.368,2024-02-08,,59,"Arroz, feijão tropeiro, linguiça e farofa de jiló com bacon.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2024,2
+2024-03-05 16:43:39.596,2024-02-26,,48,Macarrão com molho de calabresa.,0.0,0.0,2.5,0.0,0.0,0.0,3.0,2024,2
+2024-03-05 16:44:27.064,2024-02-27,,48,"Arroz, feijão, carne moída com abobrinha e salada de repolho.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,2
+2024-03-05 16:45:00.254,2024-02-28,,49,"Arroz, feijão, pernil e tabule.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,2
+2024-03-05 16:45:45.016,2024-02-29,,52,"Arroz, feijão, linguiça e farofa de legumes.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2024,2
+2024-03-31 22:08:53.384,2024-03-04,,51,"Arroz, feijão, moela e vinagrete de nabo.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2024,3
+2024-03-31 22:09:29.798,2024-03-06,,49,"Arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2024,3
+2024-03-31 22:10:02.397,2024-03-07,,49,"Arroz, feijão, calabresa e purê de batata doce.",0.0,0.0,2.5,0.0,1.5,1.5,0.0,2024,3
+2024-03-31 22:10:40.077,2024-03-08,,56,Yakissoba de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2024,3
+2024-03-31 22:11:38.314,2024-03-12,,49,"Arroz, feijão,caponata de berinjela e kibe frito.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,3
+2024-03-31 22:12:25.046,2024-03-13,,50,"Arroz, feijão, linguiça e salada de repolho.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2024,3
+2024-03-31 22:13:04.391,2024-03-14,,51,"Arroz, feijão,carne moída com pimentao e salada de cenoura.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,3
+2024-03-31 22:13:40.285,2024-03-15,,54,Macarrão com molho de linguiça.,0.0,0.0,0.0,2.5,0.0,0.0,3.0,2024,3
+2024-03-31 22:14:14.568,2024-03-18,,48,"Arroz, feijão, calabresa e milho refogado.",0.0,0.0,2.5,0.0,1.5,1.5,0.0,2024,3
+2024-03-31 22:14:58.429,2024-03-20,,51,"Arroz, feijão, frango e salada de batata.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2024,3
+2024-03-31 22:15:43.467,2024-03-21,,49,"Arroz, feijão, carne moída com repolho e salada de acelga.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,3
+2024-03-31 22:16:20.961,2024-03-25,,49,Macarrão com molho de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2024,3
+2024-03-31 22:17:00.585,2024-03-26,,47,"Arroz, feijão, pernil e salada de chuchu.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,3
+2024-03-31 22:17:40.224,2024-03-27,,50,"Arroz, feijão, carne moída com legumes e farofa de calabresa com cenoura.",0.0,2.0,2.5,0.0,1.5,1.5,0.0,2024,3
+2024-03-31 22:18:36.614,2024-03-28,,50,"Arroz, feijão tropeiro, linguiça e caponata de berinjela.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2024,3
+2024-03-31 22:19:01.096,2024-03-29,,48,"Arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2024,3
+2024-04-30 22:01:12.276,2024-04-01,,52,"Arroz, feijão tropeiro, carne moída com repolho e caponata de berinjela.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,4
+2024-04-30 22:02:04.008,2024-04-02,,53,"Arroz, feijão, linguiça bacon legumes e salpicão de frango.",3.0,0.0,0.0,2.5,1.5,1.5,0.0,2024,4
+2024-04-30 22:02:44.999,2024-04-03,,54,"Arroz feijão, calabresa e tabule.",0.0,0.0,2.5,0.0,1.5,1.5,0.0,2024,4
+2024-04-30 22:04:19.785,2024-04-06,,54,"Arroz, feijão, kibe frito e purê de batata doce.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,4
+2024-04-30 22:04:48.002,2024-04-08,,59,Yakissoba de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2024,4
+2024-04-30 22:05:36.833,2024-04-09,,52,"Arroz, feijão ,carne moída com batata e farofa de  banana.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,4
+2024-04-30 22:06:29.106,2024-04-10,,51,"Arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2024,4
+2024-04-30 22:07:10.410,2024-04-11,,52,"Arroz, feijão,moela com salsão e polenta.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2024,4
+2024-04-30 22:08:06.813,2024-04-15,,51,"Arroz, feijão , frango e polenta/maionese.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2024,4
+2024-04-30 22:10:25.215,2024-04-16,,51,"Arroz, feijão, carne moída com pimentao e batata doce frita.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,4
+2024-04-30 22:11:04.759,2024-04-17,,52,"Arroz, feijão, calabresa e farofa de legumes.",0.0,0.0,2.5,0.0,1.5,1.5,0.0,2024,4
+2024-04-30 22:11:32.147,2024-04-18,,52,"Arroz, strogonoff de frango e batata palha",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2024,4
+2024-04-30 22:12:22.747,2024-04-22,,52,"Arroz, feijão , carne louca de porco e salada de repolho com acelga.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,4
+2024-04-30 22:12:47.126,2024-04-23,,54,Macarrão a bolonhesa.,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2024,4
+2024-04-30 22:15:05.860,2024-04-24,,55,"Arroz,feijoada, farofa de cenoura com viagem e  couve.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,4
+2024-04-30 22:15:46.880,2024-04-25,,52,"Arroz, feijoada, farofa de legumes e vinagrete.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,4
+2024-04-30 22:16:57.758,2024-04-29,,52,"Arroz, feijoada, purê de abóbora e vinagrete.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,4
+2024-04-30 22:17:27.484,2024-04-30,,54,Macarrão com molho de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2024,4
+2024-06-13 17:05:55.543,2024-05-01,,51,"Arroz, feijão, carne moída com batata e salada de soja.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,5
+2024-06-13 17:06:36.453,2024-05-02,,55,"Arroz, feijão, fígado e salada de soja.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,5
+2024-06-13 17:07:20.780,2024-05-06,,47,"Arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2024,5
+2024-06-13 17:08:09.032,2024-05-07,,58,"Arroz, feijão preto, frango e farofa de banana.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2024,5
+2024-06-13 17:08:48.014,2024-05-08,,50,"Arroz , feijão, linguiça e salada de acelga.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2024,5
+2024-06-13 17:09:21.096,2024-05-09,,52,Macarrão com molho de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2024,5
+2024-06-13 17:10:12.426,2024-05-14,,52,"Arroz , feijão, moela e tabule.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,5
+2024-06-13 17:10:58.211,2024-05-15,,52,"Arroz, soja, pirão de frango e purê de abóbora.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2024,5
+2024-06-13 17:11:54.527,2024-05-16,,52,"Arroz, soja, carne louca de pernil e batata doce frita.",0.0,2.0,0.0,0.0,1.5,0.0,0.0,2024,5
+2024-06-13 17:12:35.669,2024-05-17,,49,"Arroz, soja, calabresa e farofa de legumes com ovo.",0.0,0.0,2.5,0.0,1.5,0.0,0.0,2024,5
+2024-06-13 17:13:16.482,2024-05-20,,53,"Arroz, soja, frango com legumes de milho refogado.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2024,5
+2024-06-13 17:14:07.404,2024-05-21,,54,"Arroz, feijão, frango e salada de pepino.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2024,5
+2024-06-13 17:14:56.322,2024-05-22,,52,"Arroz, soja, linguiça e salada de acelga.",0.0,0.0,0.0,2.5,1.5,0.0,0.0,2024,5
+2024-06-13 17:15:24.761,2024-05-23,,52,Arroz strogonoff de frango e batata palha.,3.0,0.0,0.0,0.0,1.5,0.0,0.0,2024,5
+2024-06-13 17:16:09.913,2024-05-27,,47,"Arroz, feijão, moela e salada de acelga.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,5
+2024-06-13 17:16:36.868,2024-05-28,,46,Macarrão com molho de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2024,5
+2024-06-13 17:17:19.491,2024-05-29,,49,"Arroz, feijão, calabresa e farofa de legumes com ovo.",0.0,0.0,2.5,0.0,1.5,1.5,0.0,2024,5
+2024-06-13 17:17:58.347,2024-05-30,,51,"Arroz, feijão, pirão de pernil e salada de couve.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,5
+2024-07-10 19:04:45.182,2024-06-03,,52,"Arroz, feijão, frango com escarola e batata doce.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2024,6
+2024-07-10 19:05:56.125,2024-06-04,,52,"Arroz feijão, linguiça com legumes e salada de repolho com cenoura.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2024,6
+2024-07-10 19:07:45.627,2024-06-06,,53,"Arroz, feijão, pernil/calabresa e salada de acelga.",0.0,2.0,2.5,0.0,1.5,1.5,0.0,2024,6
+2024-07-10 19:08:17.976,2024-06-07,,52,Macarrão com molho de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2024,6
+2024-07-10 19:10:05.147,2024-06-11,,53,"Arroz, feijão, pirão de frango e salada de acelga.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2024,6
+2024-07-10 19:11:07.293,2024-06-12,,47,"Arroz, feijão, carne moída com repolho e farofa de legumes com bacon.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,6
+2024-07-10 19:12:05.734,2024-06-13,,49,"Arroz, feijão, moela com legumes e salada de couve/farofa.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,6
+2024-07-10 19:12:51.415,2024-06-14,,47,"Arroz, feijão, frango com legumes e tabule.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2024,6
+2024-07-10 19:13:32.095,2024-06-17,,48,"Arroz , feijão, linguiça e batata doce.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2024,6
+2024-07-10 19:14:31.943,2024-06-18,,51,Macarrão com molho de carne moída.,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2024,6
+2024-07-10 19:14:56.633,2024-06-19,,51,"Arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2024,6
+2024-07-10 19:16:28.264,2024-06-20,,50,"Arroz, feijão, frango e salada de cenoura com batata.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2024,6
+2024-07-10 19:17:28.053,2024-06-25,,51,"Arroz, feijão, carne moída com acelga e farofa de legumes com bacon.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,6
+2024-07-10 19:18:18.851,2024-06-26,,51,"Arroz, feijão, linguiça e salada de repolho.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2024,6
+2024-07-10 19:18:54.743,2024-06-27,,50,"Arroz, feijão, moela e salada de acelga.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,6
+2024-07-10 19:19:37.629,2024-06-28,,51,"Arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2024,6
+2024-08-30 18:48:48.172,2024-07-01,,47,"Arroz, feijão, calabresa e farofa de berinjela .",0.0,0.0,2.5,0.0,1.5,1.5,0.0,2024,7
+2024-08-30 18:49:25.006,2024-07-02,,47,"Arroz, feijão , joelho de porco e farofa de berinjela/ salada de acelga.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,7
+2024-08-30 18:49:54.950,2024-07-03,,51,"Arroz, feijão, carne moída com talos de beterraba e purê de mandioquinha.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,7
+2024-08-30 18:50:24.330,2024-07-04,,48,"Arroz, feijão, kibe frito e salada de beterraba.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,7
+2024-08-30 18:50:57.600,2024-07-09,,50,"Arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2024,7
+2024-08-30 18:51:22.590,2024-07-10,,49,"Arroz, feijão, moela e farofa de abobrinha com ovo.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,7
+2024-08-30 18:51:51.412,2024-07-11,,48,"Arroz, feijão, carne moída com abobrinha e farofa/salada de rabanete com nabo.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,7
+2024-08-30 18:52:15.383,2024-07-12,,44,Macarrão com molho de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2024,7
+2024-08-30 18:52:49.568,2024-07-16,,50,"Arroz, feijão, carne louca e salada de acelga.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,7
+2024-08-30 18:53:16.484,2024-07-17,,49,"Arroz, feijoada, farofa de linguiça e salada de repolho.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2024,7
+2024-08-30 18:53:41.385,2024-07-18,,52,"Arroz, feijoada, farofa de berinjela e salada de acelga.",0.0,0.0,0.0,0.0,1.5,1.5,0.0,2024,7
+2024-08-30 18:54:09.841,2024-07-19,,54,"Arroz, feijão preto, carne louca de pernil e maionese.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,7
+2024-08-30 18:54:49.648,2024-07-23,,50,Macarrão com molho de carne louca.,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2024,7
+2024-08-30 18:55:13.938,2024-07-24,,50,"Arroz, feijão, calabresa e farofa de linguiça.",0.0,0.0,2.5,2.5,1.5,1.5,0.0,2024,7
+2024-08-30 18:55:40.912,2024-07-25,,51,"Arroz, feijão, carne moída com repolho e salada de batata/farofa de linguiça.",0.0,2.0,0.0,2.5,1.5,1.5,0.0,2024,7
+2024-08-30 18:56:08.508,2024-07-26,,48,"Arroz, feijão, moela e batata doce frita.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,7
+2024-08-30 18:56:39.795,2024-07-30,,49,"Arroz, feijão, carne louca de pernil e salada de escarola.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,7
+2024-08-30 18:57:16.828,2024-07-31,,53,"Arroz, feijão, carne moída com legumes e salada de repolho.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,7
+2024-08-30 18:58:00.468,2024-08-02,,53,"Arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2024,8
+2024-08-30 19:07:39.113,2024-08-06,,47,"Arroz, feijão, frango e salada de beterraba.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2024,8
+2024-08-30 19:08:05.934,2024-08-07,,51,Macarrão com molho de carne moída.,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2024,8
+2024-08-30 19:18:51.628,2024-08-08,,52,"Arroz , feijão, calabresa e salada de couve.",0.0,0.0,2.5,0.0,1.5,1.5,0.0,2024,8
+2024-08-30 19:19:12.454,2024-08-09,,51,"Arroz, feijão, calabresa e farofa de cenoura com bacon.",0.0,0.0,2.5,0.0,1.5,1.5,0.0,2024,8
+2024-08-30 19:19:39.762,2024-08-13,,53,Macarrão com molho de carne louca.,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2024,8
+2024-08-30 19:20:08.564,2024-08-14,,52,"Arroz, feijão, frango com legumes e salada de repolho.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2024,8
+2024-08-30 19:20:28.204,2024-08-15,,50,"Arroz, feijão, carne moída com batata e tabule.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,8
+2024-08-30 19:20:50.647,2024-08-16,,50,"Arroz, feijão, moela novo escarola e maionese.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,8
+2024-08-30 19:21:26.764,2024-08-20,,54,"Arroz, feijão, frango com escarola e salada de pepino/couve.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2024,8
+2024-08-30 19:21:48.857,2024-08-21,,46,"Arroz, feijão, carne moída com legumes e farofa de linguiça com alho poró.",0.0,2.0,0.0,2.5,1.5,1.5,0.0,2024,8
+2024-08-30 19:22:13.804,2024-08-22,,49,"Arroz, estrogonofe de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2024,8
+2024-08-30 19:22:39.932,2024-08-23,,51,Macarrão com molho de frango.,3.0,0.0,0.0,0.0,0.0,0.0,3.0,2024,8
+2024-08-30 19:23:11.092,2024-08-27,,57,"Arroz, feijão, carne moída com cenoura e farofa de linguiça.",0.0,2.0,0.0,2.5,1.5,1.5,0.0,2024,8
+2024-08-30 19:23:34.253,2024-08-28,,51,"Arroz, feijão, carne louca e salada de repolho.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,8
+2024-08-30 19:23:53.177,2024-08-29,,52,"Arroz, feijoada, farofa de cenoura com bacon e salada de acelga.",0.0,0.0,0.0,0.0,1.5,1.5,0.0,2024,8
+2024-08-30 19:24:14.047,2024-08-30,,50,"Arroz, feijoada, farofa de linguiça e salada de couve.",0.0,0.0,0.0,2.5,1.5,1.5,0.0,2024,8
+2024-10-10 13:34:34.206,2024-09-03,,54,"Arroz, feijão preto, canjiquinha com pernil e salada de tomate com pepino.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,9
+2024-10-10 13:35:01.135,2024-09-04,,52,"Arroz, feijão, frango e salada de repolho.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2024,9
+2024-10-10 13:35:29.435,2024-09-05,,53,Macarrão com molho de carne moída.,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2024,9
+2024-10-10 13:35:55.305,2024-09-06,,50,"Arroz, feijão, frango com brócolis e salada de cenoura.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2024,9
+2024-10-10 13:36:26.019,2024-09-10,,53,"Arroz, feijão, moela e salada de acelga.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,9
+2024-10-10 13:37:05.092,2024-09-11,,50,"Arroz, strogonoff de frango e batata palha.",3.0,0.0,0.0,0.0,1.5,0.0,0.0,2024,9
+2024-10-10 13:37:36.875,2024-09-12,,53,"Arroz, feijão, carne de porco e purê de batata doce.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,9
+2024-10-10 13:38:07.404,2024-09-13,,51,"Arroz, feijão, carne moída com legumes e farofa de cenoura com bacon.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,9
+2024-10-10 13:38:34.042,2024-09-17,,52,"Arroz, feijão, carne louca e salada de berinjela.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,9
+2024-10-10 13:38:56.614,2024-09-18,,52,Macarrão com carne moída.,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2024,9
+2024-10-10 13:39:20.779,2024-09-19,,52,"Arroz, feijão, almôndegas e purê de abóbora.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,9
+2024-10-10 13:40:07.637,2024-09-20,,53,"Arroz, feijão, calabresa/almôndegas e salada de repolho/purê e abóbora.",0.0,0.0,2.5,0.0,1.5,1.5,0.0,2024,9
+2024-10-10 13:40:31.482,2024-09-24,,50,"Arroz, feijão, frango com legumes e salada de rabanete.",3.0,0.0,0.0,0.0,1.5,1.5,0.0,2024,9
+2024-10-10 13:41:01.843,2024-09-25,,50,"Arroz, feijão, carne moída com acelga e farofa de bacon com alho poró.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,9
+2024-10-10 13:41:25.718,2024-09-26,,52,Macarrão com molho de carne moída.,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2024,9
+2024-10-10 13:41:52.115,2024-09-27,,55,"Arroz, feijão, carne louca de cupim e salada de couve.",0.0,2.0,0.0,0.0,1.5,1.5,0.0,2024,9
