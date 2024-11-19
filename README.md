@@ -9,7 +9,7 @@ Intenções do Projeto
 - Praticar a criatividade
 - Aumentar Networking e trabalho em grupo
 
-# Reuniões: quarta-feira (22:00)
+# Reuniões: terça-feira (22:00)
 Link da videochamada: https://meet.google.com/oxf-iuev-coo
 
 ## Proposta & Organização
